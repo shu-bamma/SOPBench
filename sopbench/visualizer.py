@@ -492,7 +492,13 @@ class Handler(http.server.BaseHTTPRequestHandler):
         self.wfile.write(HTML_PAGE.encode())
 
     def _serve_results(self):
-        """Collect all result JSONs from results/ directory."""
+        """Collect all result JSONs from results/ directory.
+
+        Filters out files that don't match the expected schema (must have
+        ground_truth, predictions, metrics). Also injects `description` into
+        prediction objects that lack it by copying from the matching GT step,
+        so the visualizer's tooltip doesn't show 'undefined'.
+        """
         results = []
         if RESULTS.exists():
             for dataset_dir in sorted(RESULTS.iterdir()):
@@ -504,8 +510,28 @@ class Handler(http.server.BaseHTTPRequestHandler):
                     for json_file in sorted(model_dir.glob("*.json")):
                         if json_file.name.startswith("_"):
                             continue
-                        with open(json_file) as f:
-                            results.append(json.load(f))
+                        try:
+                            with open(json_file) as f:
+                                r = json.load(f)
+                        except Exception:
+                            continue
+                        # Schema validation: skip files without the required keys
+                        if not isinstance(r, dict):
+                            continue
+                        if "ground_truth" not in r or "predictions" not in r or "metrics" not in r:
+                            continue
+                        if not isinstance(r["ground_truth"], list) or not isinstance(r["predictions"], list):
+                            continue
+                        # Enrich predictions with description from GT (for tooltip)
+                        for i, pred in enumerate(r["predictions"]):
+                            if isinstance(pred, dict) and "description" not in pred:
+                                if i < len(r["ground_truth"]) and isinstance(r["ground_truth"][i], dict):
+                                    pred["description"] = r["ground_truth"][i].get(
+                                        "description", ""
+                                    )
+                        # Tag the source subdir so the viewer can label experiments
+                        r["_config_dir"] = model_dir.name
+                        results.append(r)
 
         self.send_response(200)
         self.send_header("Content-Type", "application/json")

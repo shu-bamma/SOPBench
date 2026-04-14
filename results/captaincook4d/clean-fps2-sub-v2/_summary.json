@@ -1,0 +1,11 @@
+{
+  "config": "clean-fps2-sub-v2",
+  "aggregate": {
+    "mean_iou": 0.4272817050243779,
+    "recall_at_1_iou_0.3": 0.6082525661473029,
+    "recall_at_1_iou_0.5": 0.44322578006788527,
+    "recall_at_1_iou_0.7": 0.2753200016357911,
+    "step_detection_rate": 1.0
+  },
+  "num_videos": 5
+}

@@ -1,0 +1,225 @@
+{
+  "recording_id": "9_45",
+  "video": "9_45_mugcake.mp4",
+  "dataset": "captaincook4d",
+  "model": "gemini-2.5-flash",
+  "fps_tag": "fps4",
+  "fps_actual": 4.0,
+  "duration_seconds": 315.7821333333333,
+  "ts_format": "MM:SS",
+  "variant": "A_pure_single_step",
+  "ground_truth": [
+    {
+      "step_id": 100,
+      "start_time": 10.559593619426751,
+      "end_time": 34.192969815286624,
+      "description": "Add-Add 1/4 teaspoon vanilla extract to the mug",
+      "has_errors": true
+    },
+    {
+      "step_id": 94,
+      "start_time": 35.701483189490446,
+      "end_time": 82.9682355812102,
+      "description": "melt-In a large mug, melt 1 tablespoon of softened butter in the microwave for about 30 seconds",
+      "has_errors": true
+    },
+    {
+      "step_id": 98,
+      "start_time": 84.47674895541401,
+      "end_time": 97.04769374044585,
+      "description": "Roll-Roll the butter around in the mug to coat it",
+      "has_errors": true
+    },
+    {
+      "step_id": 101,
+      "start_time": 106.60161177707006,
+      "end_time": 126.71512343312102,
+      "description": "whisk-In the mug, whisk one egg with a fork until well blended",
+      "has_errors": true
+    },
+    {
+      "step_id": 91,
+      "start_time": 127.72079901592356,
+      "end_time": 187.0556584012739,
+      "description": "Microwave-Microwave on high for 90 seconds until the egg is cooked through",
+      "has_errors": true
+    },
+    {
+      "step_id": 95,
+      "start_time": 189.56984735828024,
+      "end_time": 212.19754797133757,
+      "description": "Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg",
+      "has_errors": true
+    },
+    {
+      "step_id": 93,
+      "start_time": 212.19754797133757,
+      "end_time": 227.2826817133758,
+      "description": "stir-stir the mug",
+      "has_errors": true
+    },
+    {
+      "step_id": 99,
+      "start_time": 228.7911950875796,
+      "end_time": 255.94443582324843,
+      "description": "Cut or tear-Cut or tear 1 slices of bread into bite-size pieces",
+      "has_errors": true
+    },
+    {
+      "step_id": 92,
+      "start_time": 242.367815455414,
+      "end_time": 275.55510968789804,
+      "description": "add-add bread pieces to the egg mixture in the mug, pressing the bread down into the egg",
+      "has_errors": true
+    },
+    {
+      "step_id": 97,
+      "start_time": 277.06362306210195,
+      "end_time": 293.657270178344,
+      "description": "Put-Put the mug's contents on a plate",
+      "has_errors": false
+    },
+    {
+      "step_id": 96,
+      "start_time": 296.1714591353503,
+      "end_time": 314.77645741719743,
+      "description": "cut-cut the contents on plate, and serve",
+      "has_errors": false
+    }
+  ],
+  "predictions": [
+    {
+      "start_time": 31.0,
+      "end_time": 32.0,
+      "raw_start": "00:31",
+      "raw_end": "00:32",
+      "confidence": 0.9,
+      "step_index": 1,
+      "description": "Add 1/4 teaspoon vanilla extract to the mug",
+      "original_description": "Add-Add 1/4 teaspoon vanilla extract to the mug"
+    },
+    {
+      "start_time": 61.0,
+      "end_time": 76.0,
+      "raw_start": "01:01",
+      "raw_end": "01:16",
+      "confidence": 0.9,
+      "step_index": 2,
+      "description": "In a large mug, melt 1 tablespoon of softened butter in the microwave for about 30 seconds",
+      "original_description": "melt-In a large mug, melt 1 tablespoon of softened butter in the microwave for about 30 seconds"
+    },
+    {
+      "start_time": 78.0,
+      "end_time": 79.0,
+      "raw_start": "01:18",
+      "raw_end": "01:19",
+      "confidence": 0.9,
+      "step_index": 3,
+      "description": "Roll the butter around in the mug to coat it",
+      "original_description": "Roll-Roll the butter around in the mug to coat it"
+    },
+    {
+      "start_time": 120.0,
+      "end_time": 126.0,
+      "raw_start": "02:00",
+      "raw_end": "02:06",
+      "confidence": 0.9,
+      "step_index": 4,
+      "description": "In the mug, whisk one egg with a fork until well blended",
+      "original_description": "whisk-In the mug, whisk one egg with a fork until well blended"
+    },
+    {
+      "start_time": 270.0,
+      "end_time": 301.0,
+      "raw_start": "04:30",
+      "raw_end": "05:01",
+      "confidence": 0.9,
+      "step_index": 5,
+      "description": "Microwave on high for 90 seconds until the egg is cooked through",
+      "original_description": "Microwave-Microwave on high for 90 seconds until the egg is cooked through"
+    },
+    {
+      "start_time": -1.0,
+      "end_time": -1.0,
+      "raw_start": "not_found",
+      "raw_end": "not_found",
+      "confidence": 0.9,
+      "step_index": 6,
+      "description": "Sprinkle 1/4 teaspoon cinnamon over the egg",
+      "original_description": "Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg"
+    },
+    {
+      "start_time": 37.0,
+      "end_time": 39.0,
+      "raw_start": "00:37",
+      "raw_end": "00:39",
+      "confidence": 0.9,
+      "step_index": 7,
+      "description": "stir the mug",
+      "original_description": "stir-stir the mug"
+    },
+    {
+      "start_time": 242.0,
+      "end_time": 255.0,
+      "raw_start": "04:02",
+      "raw_end": "04:15",
+      "confidence": 0.9,
+      "step_index": 8,
+      "description": "Cut or tear 1 slices of bread into bite-size pieces",
+      "original_description": "Cut or tear-Cut or tear 1 slices of bread into bite-size pieces"
+    },
+    {
+      "start_time": 250.0,
+      "end_time": 274.0,
+      "raw_start": "04:10",
+      "raw_end": "04:34",
+      "confidence": 0.9,
+      "step_index": 9,
+      "description": "add bread pieces to the egg mixture in the mug, pressing the bread down into the egg",
+      "original_description": "add-add bread pieces to the egg mixture in the mug, pressing the bread down into the egg"
+    },
+    {
+      "start_time": 291.0,
+      "end_time": 292.0,
+      "raw_start": "04:51",
+      "raw_end": "04:52",
+      "confidence": 0.9,
+      "step_index": 10,
+      "description": "Put the mug's contents on a plate",
+      "original_description": "Put-Put the mug's contents on a plate"
+    },
+    {
+      "start_time": 300.0,
+      "end_time": 312.0,
+      "raw_start": "05:00",
+      "raw_end": "05:12",
+      "confidence": 0.9,
+      "step_index": 11,
+      "description": "cut the contents on plate, and serve",
+      "original_description": "cut-cut the contents on plate, and serve"
+    }
+  ],
+  "metrics": {
+    "mean_iou": 0.23319566466585667,
+    "per_step_iou": [
+      0.042313040325367535,
+      0.3173478024402565,
+      0.0,
+      0.29830693429384103,
+      0.0,
+      0.0,
+      0.0,
+      0.47876421553332477,
+      0.7231683255608276,
+      0.06026402713006891,
+      0.6449879660407372
+    ],
+    "recall_at_1_iou_0.3": 0.36363636363636365,
+    "recall_at_1_iou_0.5": 0.18181818181818182,
+    "recall_at_1_iou_0.7": 0.09090909090909091,
+    "step_detection_rate": 0.9090909090909091,
+    "ordering_compliance": 0.8888888888888888,
+    "num_gt_steps": 11,
+    "num_predictions": 11
+  }
+}

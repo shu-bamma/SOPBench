@@ -1,0 +1,11 @@
+{
+  "config": "clean-fps2-mmss-v2",
+  "aggregate": {
+    "mean_iou": 0.3945262350954114,
+    "recall_at_1_iou_0.3": 0.5508362982047192,
+    "recall_at_1_iou_0.5": 0.4185580501369975,
+    "recall_at_1_iou_0.7": 0.2721711037500511,
+    "step_detection_rate": 1.0
+  },
+  "num_videos": 5
+}

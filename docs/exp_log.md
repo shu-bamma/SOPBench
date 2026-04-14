@@ -29,9 +29,11 @@ Zero-shot procedural step boundary detection in egocentric video using Gemini 2.
 | 9. Variance verification Run 2 | 50 | Flash |
 | 10. Audio-OFF experiment | 50 | Flash |
 | 11. Pro top configs | 15 | Pro |
-| **TOTAL** | **~320** | |
+| 8b. Clean Run v2 (duration bug fix) | 20 | Flash |
+| 12. Single-step grounding | 189 | Flash |
+| **TOTAL** | **~530** | |
 
-Estimated cost: ~$16 on Flash + $5 on Pro = ~$21 total.
+Estimated cost: ~$25 on Flash + $5 on Pro = ~$30 total.
 
 ---
 
@@ -267,6 +269,39 @@ Estimated cost: ~$16 on Flash + $5 on Pro = ~$21 total.
 
 ---
 
+## Experiment 8b: Re-run Top Configs with Correct Duration
+
+**Aim:** An audit found that the Exp 8 Clean Run 1 had a cv2 frame-rate parsing bug that inflated the prompt-reported video duration by ~2.68% (e.g., 240s video described as 246s in the prompt). Re-run the 4 top configs with corrected durations to quantify the impact.
+**Setup:** Identical to Exp 8 but with the current (fixed) cv2 install. Saved to `clean-fps{1,2}-{mmss,sub}-v2/`.
+
+| Config | Exp 8 (buggy) | Exp 8b (correct) | Δ |
+|--------|--------------:|-----------------:|--:|
+| fps=1 + MM:SS | 42.7% | 41.5% | −1.2 |
+| fps=1 + MM:SS.ss | 44.4% | 42.0% | −2.4 |
+| fps=2 + MM:SS | 37.6% | 39.5% | +1.9 |
+| fps=2 + MM:SS.ss | 41.1% | 42.7% | +1.6 |
+
+**Conclusion:** Duration bug caused ±1–2.5% drift, **well within normal run-to-run variance** (±5–10%). Headline numbers are still valid. fps=2 actually scored slightly higher with correct durations. Use Exp 8b numbers as the canonical headline.
+
+---
+
+## Experiment 12: Single-Step Grounding (Variant A)
+
+**Aim:** Does querying ONE step at a time (no context about other steps) beat the "give me all step timestamps at once" approach? This is how standard benchmarks (Charades-STA, TimeZero) work.
+**Setup:** `gemini-2.5-flash`, audio ON, MM:SS format, video duration in prompt, one API call per step. Verb-prefix stripping applied (`"Rinse-Rinse a tomato"` → `"Rinse a tomato"`). fps ∈ {1, 2, 4}. 189 calls total (63 steps × 3 fps).
+
+| Config | Mean IoU | R@1(0.3) | R@1(0.5) | Detection | Ordering |
+|--------|---------:|---------:|---------:|----------:|---------:|
+| Single-step fps=1 | 33.6% | 46.9% | 40.0% | 89.7% | 84.1% |
+| Single-step fps=2 | 35.0% | 51.8% | 35.0% | 88.9% | 81.1% |
+| Single-step fps=4 | 33.6% | 49.8% | 32.4% | 95.1% | 84.8% |
+| **Multi-query fps=1 (Exp 8b)** | **41.5%** | **60.3%** | **49.7%** | **95.4%** | **96.0%** |
+| **Multi-query fps=2 (Exp 8b)** | **39.5%** | **55.1%** | **41.9%** | **100%** | **98.0%** |
+
+**Conclusion:** Single-step **loses to multi-query by 4–8 Mean IoU points** across all fps. Biggest loss: **ordering compliance drops from 96–98% to 81–85%** — without SOP context, Gemini sometimes places later steps earlier. Detection rate also drops 5–11 points. The structural prior from seeing the full step list (disambiguates similar steps, enforces ordering) matters more than the model having isolated focus on each query.
+
+---
+
 ## Final Recommendation
 
 For SOPBench step boundary detection on egocentric cooking videos:
@@ -277,6 +312,12 @@ For SOPBench step boundary detection on egocentric cooking videos:
 - **Audio:** Keep ON (helps in 7/10 configs)
 - **Prompt:** Include exact video duration; constrain timestamps to `[00:00, duration]`
 
-**Achieved performance:** ~43% Mean IoU, ~52% R@1(IoU≥0.5) — vs the published VSLNet baseline of ~7% R@1(IoU≥0.5) on Ego4D NLQ. **~7× better than the supervised baseline, zero-shot, no fine-tuning.**
+**Achieved performance:** ~42% Mean IoU, ~50% R@1(IoU≥0.5) (from Exp 8b with correct durations) — vs the published VSLNet baseline of ~7% R@1(IoU≥0.5) on Ego4D NLQ. **~7× better than the supervised baseline, zero-shot, no fine-tuning.**
+
+**Do NOT use:**
+- Single-step grounding (Exp 12) — loses 4–8 IoU to multi-query
+- Adaptive frame sampling (Exp 5) — loses ~20 IoU to uniform
+- Frame extraction + two-pass captioning (Exp 3) — 6% IoU, worst result
+- Gemini 2.5 Pro (Exp 11) — no improvement at 4–8× cost
 
 **Caveat:** Run-to-run variance is large (±5–10 IoU points). Multi-run averaging is required for confident ranking of nearby configs.

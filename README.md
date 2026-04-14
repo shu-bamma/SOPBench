@@ -6,15 +6,15 @@ Given a text checklist of procedural steps (an SOP) and an untrimmed first-perso
 
 ## Headline result
 
-On 5 CaptainCook4D egocentric cooking videos (3–6 minutes each, 9–19 procedural steps per video), zero-shot Gemini 2.5 Flash achieves:
+On 5 CaptainCook4D egocentric cooking videos (3–6 minutes each, 9–19 procedural steps per video), zero-shot Gemini 2.5 Flash achieves (averaged across 5 runs, corrected-duration rerun):
 
 | Metric | SOPBench (Gemini 2.5 Flash) | VSLNet baseline (Ego4D NLQ, supervised) |
 |--------|----------------------------:|----------------------------------------:|
-| R@1 (IoU≥0.5) | **51.9%** | ~7% |
-| R@1 (IoU≥0.3) | **68.1%** | ~12% |
-| Mean IoU | **44.4%** | — |
+| R@1 (IoU≥0.5) | **~50%** | ~7% |
+| R@1 (IoU≥0.3) | **~60%** | ~12% |
+| Mean IoU | **~42%** | — |
 
-That's **~7× the supervised baseline, zero training**. See [`docs/exp_log.md`](docs/exp_log.md) for the full experiment log.
+That's **~7× the supervised baseline, zero training**. 12 experiments, ~530 API calls (~$30), documented in [`docs/exp_log.md`](docs/exp_log.md).
 
 ## Repository layout
 

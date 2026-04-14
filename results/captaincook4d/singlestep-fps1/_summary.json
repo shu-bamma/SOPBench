@@ -1,0 +1,15 @@
+{
+  "config": "singlestep-fps1",
+  "variant": "A_pure_single_step",
+  "fps": 1.0,
+  "model": "gemini-2.5-flash",
+  "num_videos": 5,
+  "aggregate": {
+    "mean_iou": 0.3358628053310831,
+    "recall_at_1_iou_0.3": 0.4689077004866478,
+    "recall_at_1_iou_0.5": 0.39979552611131564,
+    "recall_at_1_iou_0.7": 0.19688381793644952,
+    "step_detection_rate": 0.8965034965034965,
+    "ordering_compliance": 0.8405555555555555
+  }
+}
