@@ -1,0 +1,12 @@
+{
+  "config": "pro-fps1-sub",
+  "model": "gemini-2.5-pro",
+  "audio": "on",
+  "num_videos": 5,
+  "aggregate": {
+    "mean_iou": 0.4136113292816649,
+    "recall_at_1_iou_0.3": 0.6388663967611337,
+    "recall_at_1_iou_0.5": 0.44765059501901605,
+    "recall_at_1_iou_0.7": 0.19532981638244795
+  }
+}

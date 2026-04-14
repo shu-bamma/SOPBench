@@ -1,0 +1,154 @@
+{
+  "recording_id": "12_51",
+  "video": "12_51_tomatomozzarellasalad.mp4",
+  "dataset": "captaincook4d",
+  "model": "gemini-2.5-pro",
+  "fps_tag": "fps2",
+  "fps_actual": 2.0,
+  "ts_format": "MM:SS",
+  "format_tag": "mmss",
+  "audio": "on",
+  "thinking_budget": -1,
+  "ground_truth": [
+    {
+      "step_id": 125,
+      "start_time": 17.089260822249095,
+      "end_time": 23.433,
+      "description": "Rinse-Rinse a tomato",
+      "has_errors": false
+    },
+    {
+      "step_id": 122,
+      "start_time": 25,
+      "end_time": 29.544145828295044,
+      "description": "dry-gently dry it with a paper/tea towel",
+      "has_errors": false
+    },
+    {
+      "step_id": 119,
+      "start_time": 43.447273276904475,
+      "end_time": 73.688,
+      "description": "Slice-Slice one tomato into about 1/2 inch thick slices",
+      "has_errors": false
+    },
+    {
+      "step_id": 120,
+      "start_time": 96.16329818621523,
+      "end_time": 110.928,
+      "description": "Place-Place the thick slices of tomatoes on a platter, ensuring they only make a single layer",
+      "has_errors": false
+    },
+    {
+      "step_id": 126,
+      "start_time": 138.45197750906894,
+      "end_time": 143.507,
+      "description": "Season-Season platter with 1/4 teaspoon black pepper",
+      "has_errors": true
+    },
+    {
+      "step_id": 127,
+      "start_time": 174.07874159613058,
+      "end_time": 180.133,
+      "description": "Garnish-Garnish platter with italian seasoning",
+      "has_errors": true
+    },
+    {
+      "step_id": 123,
+      "start_time": 186.82327509068924,
+      "end_time": 191.036,
+      "description": "Season-Season the tomato slices with salt",
+      "has_errors": false
+    },
+    {
+      "step_id": 124,
+      "start_time": 204.20218440145104,
+      "end_time": 212.257,
+      "description": "Sprinkle-Sprinkle mozzarella cheese on top of the tomato throughout the platter",
+      "has_errors": true
+    },
+    {
+      "step_id": 121,
+      "start_time": 223.6086331318017,
+      "end_time": 231.374,
+      "description": "Add-Add a drizzle of extra-virgin olive oil, about 1 tablespoon, over the entire platter",
+      "has_errors": true
+    }
+  ],
+  "predictions": [
+    {
+      "start_time": 19.0,
+      "end_time": 22.0,
+      "raw_start": "00:19",
+      "raw_end": "00:22"
+    },
+    {
+      "start_time": 26.0,
+      "end_time": 29.0,
+      "raw_start": "00:26",
+      "raw_end": "00:29"
+    },
+    {
+      "start_time": 45.0,
+      "end_time": 71.0,
+      "raw_start": "00:45",
+      "raw_end": "01:11"
+    },
+    {
+      "start_time": 96.0,
+      "end_time": 109.0,
+      "raw_start": "01:36",
+      "raw_end": "01:49"
+    },
+    {
+      "start_time": 176.0,
+      "end_time": 179.0,
+      "raw_start": "02:56",
+      "raw_end": "02:59"
+    },
+    {
+      "start_time": 141.0,
+      "end_time": 158.0,
+      "raw_start": "02:21",
+      "raw_end": "02:38"
+    },
+    {
+      "start_time": 187.0,
+      "end_time": 190.0,
+      "raw_start": "03:07",
+      "raw_end": "03:10"
+    },
+    {
+      "start_time": 205.0,
+      "end_time": 210.0,
+      "raw_start": "03:25",
+      "raw_end": "03:30"
+    },
+    {
+      "start_time": 227.0,
+      "end_time": 229.0,
+      "raw_start": "03:47",
+      "raw_end": "03:49"
+    }
+  ],
+  "metrics": {
+    "mean_iou": 0.49368903617464116,
+    "per_step_iou": [
+      0.4729072107065432,
+      0.6601900804591025,
+      0.8597676979813852,
+      0.8599076777722919,
+      0.0,
+      0.0,
+      0.7121281509195015,
+      0.6207466749332812,
+      0.2575538327996646
+    ],
+    "recall_at_1_iou_0.3": 0.6666666666666666,
+    "recall_at_1_iou_0.5": 0.5555555555555556,
+    "recall_at_1_iou_0.7": 0.3333333333333333,
+    "step_detection_rate": 1.0,
+    "ordering_compliance": 0.875,
+    "num_gt_steps": 9,
+    "num_predictions": 9
+  }
+}

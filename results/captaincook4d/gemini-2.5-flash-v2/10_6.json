@@ -1,0 +1,348 @@
+{
+  "video": "10_6_pinwheels_correct.mp4",
+  "model": "gemini-2.5-flash",
+  "fps": 4.0,
+  "duration_secs": 314.16,
+  "duration_mmss": "05:14",
+  "ground_truth": [
+    {
+      "step_id": 115,
+      "start_time": 0,
+      "end_time": 11.459,
+      "description": "Place-Place 8-inch flour tortilla on cutting board",
+      "has_errors": false
+    },
+    {
+      "step_id": 113,
+      "start_time": 12.002,
+      "end_time": 24.854,
+      "description": "scoop-Use a butter knife to scoop nut butter from the jar",
+      "has_errors": false
+    },
+    {
+      "step_id": 112,
+      "start_time": 24.985,
+      "end_time": 63.876,
+      "description": "Spread-Spread nut butter onto the tortilla, leaving 1/2-inch uncovered at the edges",
+      "has_errors": false
+    },
+    {
+      "step_id": 118,
+      "start_time": 74.274,
+      "end_time": 84.996,
+      "description": "Clean-Clean the knife by wiping it with a paper towel",
+      "has_errors": false
+    },
+    {
+      "step_id": 111,
+      "start_time": 85.48,
+      "end_time": 98.638,
+      "description": "scoop-Use the knife to scoop jelly from the jar",
+      "has_errors": false
+    },
+    {
+      "step_id": 107,
+      "start_time": 98.851,
+      "end_time": 120.044,
+      "description": "Spread-Spread jelly over the nut butter",
+      "has_errors": false
+    },
+    {
+      "step_id": 104,
+      "start_time": 120.885,
+      "end_time": 125.819,
+      "description": "Clean-Clean the knife by wiping with a paper towel",
+      "has_errors": false
+    },
+    {
+      "step_id": 116,
+      "start_time": 131.865,
+      "end_time": 143.804,
+      "description": "Roll-Roll the tortilla from one end to the other into a log shape, about 1.5 inches thick. Roll it tight enough to prevent gaps, but not so tight that the filling leaks",
+      "has_errors": false
+    },
+    {
+      "step_id": 110,
+      "start_time": 145.64,
+      "end_time": 179.666,
+      "description": "Secure-Secure the rolled tortilla by inserting 5 toothpicks about 1 inch apart",
+      "has_errors": false
+    },
+    {
+      "step_id": 114,
+      "start_time": 182.486,
+      "end_time": 199.848,
+      "description": "Trim-Trim the ends of the tortilla roll with the butter knife, leaving 1/2 inch margin between the last toothpick and the end of the roll",
+      "has_errors": false
+    },
+    {
+      "step_id": 103,
+      "start_time": 200.566,
+      "end_time": 208.049,
+      "description": "Discard-Discard ends of the tortilla",
+      "has_errors": false
+    },
+    {
+      "step_id": 106,
+      "start_time": 209.415,
+      "end_time": 222.824,
+      "description": "Slide-Slide floss under the tortilla, perpendicular to the length of the roll",
+      "has_errors": false
+    },
+    {
+      "step_id": 117,
+      "start_time": 223.454,
+      "end_time": 225.363,
+      "description": "Place-Place the floss halfway between toothpicks",
+      "has_errors": false
+    },
+    {
+      "step_id": 105,
+      "start_time": 226.296,
+      "end_time": 229.276,
+      "description": "Cross-Cross the floss's two ends over the tortilla roll's top",
+      "has_errors": false
+    },
+    {
+      "step_id": 108,
+      "start_time": 229.239,
+      "end_time": 234.06799999999998,
+      "description": "pull-pull the floss ends in opposite directions to slice",
+      "has_errors": false
+    },
+    {
+      "step_id": 102,
+      "start_time": 234.227,
+      "end_time": 245.568,
+      "description": "slicing-Continue slicing with floss to create 1 more pinwheel",
+      "has_errors": false
+    },
+    {
+      "step_id": 102,
+      "start_time": 245.7,
+      "end_time": 255.123,
+      "description": "slicing-Continue slicing with floss to create 1 more pinwheel",
+      "has_errors": false
+    },
+    {
+      "step_id": 102,
+      "start_time": 256.01,
+      "end_time": 267.149,
+      "description": "slicing-Continue slicing with floss to create 1 more pinwheel",
+      "has_errors": false
+    },
+    {
+      "step_id": 109,
+      "start_time": 279.898,
+      "end_time": 304.16,
+      "description": "Place-Place the pinwheels on a plate",
+      "has_errors": false
+    }
+  ],
+  "predictions": [
+    {
+      "step_index": 1,
+      "description": "Place-Place 8-inch flour tortilla on cutting board",
+      "start_time": 9.0,
+      "end_time": 12.0,
+      "confidence": 1.0,
+      "start_time_mmss": "00:09",
+      "end_time_mmss": "00:12"
+    },
+    {
+      "step_index": 2,
+      "description": "scoop-Use a butter knife to scoop nut butter from the jar",
+      "start_time": 18.0,
+      "end_time": 24.0,
+      "confidence": 1.0,
+      "start_time_mmss": "00:18",
+      "end_time_mmss": "00:24"
+    },
+    {
+      "step_index": 3,
+      "description": "Spread-Spread nut butter onto the tortilla, leaving 1/2-inch uncovered at the edges",
+      "start_time": 24.0,
+      "end_time": 68.0,
+      "confidence": 1.0,
+      "start_time_mmss": "00:24",
+      "end_time_mmss": "01:08"
+    },
+    {
+      "step_index": 4,
+      "description": "Clean-Clean the knife by wiping it with a paper towel",
+      "start_time": 79.0,
+      "end_time": 83.0,
+      "confidence": 1.0,
+      "start_time_mmss": "01:19",
+      "end_time_mmss": "01:23"
+    },
+    {
+      "step_index": 5,
+      "description": "scoop-Use the knife to scoop jelly from the jar",
+      "start_time": 85.0,
+      "end_time": 98.0,
+      "confidence": 1.0,
+      "start_time_mmss": "01:25",
+      "end_time_mmss": "01:38"
+    },
+    {
+      "step_index": 6,
+      "description": "Spread-Spread jelly over the nut butter",
+      "start_time": 99.0,
+      "end_time": 120.0,
+      "confidence": 1.0,
+      "start_time_mmss": "01:39",
+      "end_time_mmss": "02:00"
+    },
+    {
+      "step_index": 7,
+      "description": "Clean-Clean the knife by wiping with a paper towel",
+      "start_time": 122.0,
+      "end_time": 125.0,
+      "confidence": 1.0,
+      "start_time_mmss": "02:02",
+      "end_time_mmss": "02:05"
+    },
+    {
+      "step_index": 8,
+      "description": "Roll-Roll the tortilla from one end to the other into a log shape, about 1.5 inches thick. Roll it tight enough to prevent gaps, but not so tight that the filling leaks",
+      "start_time": 133.0,
+      "end_time": 142.0,
+      "confidence": 1.0,
+      "start_time_mmss": "02:13",
+      "end_time_mmss": "02:22"
+    },
+    {
+      "step_index": 9,
+      "description": "Secure-Secure the rolled tortilla by inserting 5 toothpicks about 1 inch apart",
+      "start_time": 145.0,
+      "end_time": 166.0,
+      "confidence": 1.0,
+      "start_time_mmss": "02:25",
+      "end_time_mmss": "02:46"
+    },
+    {
+      "step_index": 10,
+      "description": "Trim-Trim the ends of the tortilla roll with the butter knife, leaving 1/2 inch margin between the last toothpick and the end of the roll",
+      "start_time": 185.0,
+      "end_time": 197.0,
+      "confidence": 1.0,
+      "start_time_mmss": "03:05",
+      "end_time_mmss": "03:17"
+    },
+    {
+      "step_index": 11,
+      "description": "Discard-Discard ends of the tortilla",
+      "start_time": 204.0,
+      "end_time": 205.0,
+      "confidence": 1.0,
+      "start_time_mmss": "03:24",
+      "end_time_mmss": "03:25"
+    },
+    {
+      "step_index": 12,
+      "description": "Slide-Slide floss under the tortilla, perpendicular to the length of the roll",
+      "start_time": 210.0,
+      "end_time": 221.0,
+      "confidence": 1.0,
+      "start_time_mmss": "03:30",
+      "end_time_mmss": "03:41"
+    },
+    {
+      "step_index": 13,
+      "description": "Place-Place the floss halfway between toothpicks",
+      "start_time": 226.0,
+      "end_time": 232.0,
+      "confidence": 1.0,
+      "start_time_mmss": "03:46",
+      "end_time_mmss": "03:52"
+    },
+    {
+      "step_index": 14,
+      "description": "Cross-Cross the floss's two ends over the tortilla roll's top",
+      "start_time": 233.0,
+      "end_time": 236.0,
+      "confidence": 1.0,
+      "start_time_mmss": "03:53",
+      "end_time_mmss": "03:56"
+    },
+    {
+      "step_index": 15,
+      "description": "pull-pull the floss ends in opposite directions to slice",
+      "start_time": 237.0,
+      "end_time": 240.0,
+      "confidence": 1.0,
+      "start_time_mmss": "03:57",
+      "end_time_mmss": "04:00"
+    },
+    {
+      "step_index": 16,
+      "description": "slicing-Continue slicing with floss to create 1 more pinwheel",
+      "start_time": 241.0,
+      "end_time": 244.0,
+      "confidence": 1.0,
+      "start_time_mmss": "04:01",
+      "end_time_mmss": "04:04"
+    },
+    {
+      "step_index": 17,
+      "description": "slicing-Continue slicing with floss to create 1 more pinwheel",
+      "start_time": 246.0,
+      "end_time": 249.0,
+      "confidence": 1.0,
+      "start_time_mmss": "04:06",
+      "end_time_mmss": "04:09"
+    },
+    {
+      "step_index": 18,
+      "description": "slicing-Continue slicing with floss to create 1 more pinwheel",
+      "start_time": 251.0,
+      "end_time": 254.0,
+      "confidence": 1.0,
+      "start_time_mmss": "04:11",
+      "end_time_mmss": "04:14"
+    },
+    {
+      "step_index": 19,
+      "description": "Place-Place the pinwheels on a plate",
+      "start_time": 281.0,
+      "end_time": 303.0,
+      "confidence": 1.0,
+      "start_time_mmss": "04:41",
+      "end_time_mmss": "05:03"
+    }
+  ],
+  "metrics": {
+    "mean_iou": 0.46955918586456247,
+    "per_step_iou": [
+      0.20491666666666664,
+      0.4668534080298787,
+      0.8838863636363636,
+      0.3730647267300879,
+      0.9180231705528663,
+      0.9908932194592556,
+      0.6080259424402111,
+      0.7538319792277415,
+      0.5873189869035947,
+      0.6911646123718457,
+      0.1336362421488707,
+      0.8203445447087765,
+      0.0,
+      0.0,
+      0.0,
+      0.26452693765981816,
+      0.31836994587710915,
+      0.0,
+      0.9067677850136014
+    ],
+    "recall_at_1_iou_0.3": 0.631578947368421,
+    "recall_at_1_iou_0.5": 0.47368421052631576,
+    "recall_at_1_iou_0.7": 0.3157894736842105,
+    "step_detection_rate": 1.0,
+    "ordering_compliance": 1.0,
+    "num_gt_steps": 19,
+    "num_predictions": 19
+  },
+  "recording_id": "10_6",
+  "dataset": "captaincook4d"
+}

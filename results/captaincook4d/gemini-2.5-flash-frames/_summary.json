@@ -1,0 +1,165 @@
+{
+  "dataset": "captaincook4d",
+  "model": "gemini-2.5-flash",
+  "method": "gemini-frames-2pass",
+  "fps": 2.0,
+  "num_videos": 5,
+  "aggregate": {
+    "mean_iou": 0.06433522839865038,
+    "recall_at_1_iou_0.3": 0.11075941602257391,
+    "recall_at_1_iou_0.5": 0.010526315789473684,
+    "recall_at_1_iou_0.7": 0.010526315789473684,
+    "step_detection_rate": 0.492561239929661,
+    "ordering_compliance": 0.95
+  },
+  "results": [
+    {
+      "recording_id": "12_51",
+      "video": "12_51_tomatomozzarellasalad.mp4",
+      "num_frames": 300,
+      "metrics": {
+        "mean_iou": 0.1478119981069287,
+        "per_step_iou": [
+          0.4729072107065432,
+          0.44012672030606836,
+          0.41727405194974665,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "recall_at_1_iou_0.3": 0.3333333333333333,
+        "recall_at_1_iou_0.5": 0.0,
+        "recall_at_1_iou_0.7": 0.0,
+        "step_detection_rate": 0.5555555555555556,
+        "ordering_compliance": 1.0,
+        "num_gt_steps": 9,
+        "num_predictions": 9
+      }
+    },
+    {
+      "recording_id": "10_50",
+      "video": "10_50_pinwheels.mp4",
+      "num_frames": 300,
+      "metrics": {
+        "mean_iou": 0.058744757701435266,
+        "per_step_iou": [
+          0.0,
+          0.11982936298710636,
+          0.028011989131348215,
+          0.0,
+          0.0,
+          0.2118733844654433,
+          0.031018331834113958,
+          0.3729487817006466,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "recall_at_1_iou_0.3": 0.07692307692307693,
+        "recall_at_1_iou_0.5": 0.0,
+        "recall_at_1_iou_0.7": 0.0,
+        "step_detection_rate": 0.6153846153846154,
+        "ordering_compliance": 1.0,
+        "num_gt_steps": 13,
+        "num_predictions": 13
+      }
+    },
+    {
+      "recording_id": "10_6",
+      "video": "10_6_pinwheels_correct.mp4",
+      "num_frames": 300,
+      "metrics": {
+        "mean_iou": 0.04960169646054854,
+        "per_step_iou": [
+          0.0,
+          0.15561780267662623,
+          0.786814430073796,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "recall_at_1_iou_0.3": 0.05263157894736842,
+        "recall_at_1_iou_0.5": 0.05263157894736842,
+        "recall_at_1_iou_0.7": 0.05263157894736842,
+        "step_detection_rate": 0.47368421052631576,
+        "ordering_compliance": 1.0,
+        "num_gt_steps": 19,
+        "num_predictions": 19
+      }
+    },
+    {
+      "recording_id": "9_45",
+      "video": "9_45_mugcake.mp4",
+      "num_frames": 300,
+      "metrics": {
+        "mean_iou": 0.031614920202227906,
+        "per_step_iou": [
+          0.0,
+          0.347764122224507,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "recall_at_1_iou_0.3": 0.09090909090909091,
+        "recall_at_1_iou_0.5": 0.0,
+        "recall_at_1_iou_0.7": 0.0,
+        "step_detection_rate": 0.45454545454545453,
+        "ordering_compliance": 0.75,
+        "num_gt_steps": 11,
+        "num_predictions": 11
+      }
+    },
+    {
+      "recording_id": "1_34",
+      "video": "1_34_microwaveeggsandwich.mp4",
+      "num_frames": 300,
+      "metrics": {
+        "mean_iou": 0.03390276952211151,
+        "per_step_iou": [
+          0.03301746623964077,
+          0.0,
+          0.07993221747957731,
+          0.0,
+          0.12027417839083103,
+          0.0,
+          0.0,
+          0.0,
+          0.13970660263317758,
+          0.0,
+          0.0
+        ],
+        "recall_at_1_iou_0.3": 0.0,
+        "recall_at_1_iou_0.5": 0.0,
+        "recall_at_1_iou_0.7": 0.0,
+        "step_detection_rate": 0.36363636363636365,
+        "ordering_compliance": 1.0,
+        "num_gt_steps": 11,
+        "num_predictions": 11
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "config": "noaudio-fpsmax-sub",
+  "audio": "off",
+  "num_videos": 5,
+  "aggregate": {
+    "mean_iou": 0.27682983802819877,
+    "recall_at_1_iou_0.3": 0.3607001185948554,
+    "recall_at_1_iou_0.5": 0.28098801783012306,
+    "recall_at_1_iou_0.7": 0.15034556087187667
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "config": "fpsmax-mmss",
+  "run": "run2",
+  "num_videos": 5,
+  "aggregate": {
+    "mean_iou": 0.36197510814697276,
+    "recall_at_1_iou_0.3": 0.4864270232691285,
+    "recall_at_1_iou_0.5": 0.3541487752014068,
+    "recall_at_1_iou_0.7": 0.23608555187502556
+  }
+}

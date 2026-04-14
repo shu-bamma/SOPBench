@@ -1,0 +1,182 @@
+{
+  "recording_id": "9_45",
+  "video": "9_45_mugcake.mp4",
+  "dataset": "captaincook4d",
+  "model": "gemini-2.5-pro",
+  "fps_tag": "fps1",
+  "fps_actual": 1.0,
+  "ts_format": "MM:SS.ss",
+  "format_tag": "sub",
+  "audio": "on",
+  "thinking_budget": -1,
+  "ground_truth": [
+    {
+      "step_id": 100,
+      "start_time": 10.559593619426751,
+      "end_time": 34.192969815286624,
+      "description": "Add-Add 1/4 teaspoon vanilla extract to the mug",
+      "has_errors": true
+    },
+    {
+      "step_id": 94,
+      "start_time": 35.701483189490446,
+      "end_time": 82.9682355812102,
+      "description": "melt-In a large mug, melt 1 tablespoon of softened butter in the microwave for about 30 seconds",
+      "has_errors": true
+    },
+    {
+      "step_id": 98,
+      "start_time": 84.47674895541401,
+      "end_time": 97.04769374044585,
+      "description": "Roll-Roll the butter around in the mug to coat it",
+      "has_errors": true
+    },
+    {
+      "step_id": 101,
+      "start_time": 106.60161177707006,
+      "end_time": 126.71512343312102,
+      "description": "whisk-In the mug, whisk one egg with a fork until well blended",
+      "has_errors": true
+    },
+    {
+      "step_id": 91,
+      "start_time": 127.72079901592356,
+      "end_time": 187.0556584012739,
+      "description": "Microwave-Microwave on high for 90 seconds until the egg is cooked through",
+      "has_errors": true
+    },
+    {
+      "step_id": 95,
+      "start_time": 189.56984735828024,
+      "end_time": 212.19754797133757,
+      "description": "Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg",
+      "has_errors": true
+    },
+    {
+      "step_id": 93,
+      "start_time": 212.19754797133757,
+      "end_time": 227.2826817133758,
+      "description": "stir-stir the mug",
+      "has_errors": true
+    },
+    {
+      "step_id": 99,
+      "start_time": 228.7911950875796,
+      "end_time": 255.94443582324843,
+      "description": "Cut or tear-Cut or tear 1 slices of bread into bite-size pieces",
+      "has_errors": true
+    },
+    {
+      "step_id": 92,
+      "start_time": 242.367815455414,
+      "end_time": 275.55510968789804,
+      "description": "add-add bread pieces to the egg mixture in the mug, pressing the bread down into the egg",
+      "has_errors": true
+    },
+    {
+      "step_id": 97,
+      "start_time": 277.06362306210195,
+      "end_time": 293.657270178344,
+      "description": "Put-Put the mug's contents on a plate",
+      "has_errors": false
+    },
+    {
+      "step_id": 96,
+      "start_time": 296.1714591353503,
+      "end_time": 314.77645741719743,
+      "description": "cut-cut the contents on plate, and serve",
+      "has_errors": false
+    }
+  ],
+  "predictions": [
+    {
+      "start_time": -1.0,
+      "end_time": -1.0,
+      "raw_start": "not_found",
+      "raw_end": "not_found"
+    },
+    {
+      "start_time": 61.18,
+      "end_time": 78.68,
+      "raw_start": "01:01.18",
+      "raw_end": "01:18.68"
+    },
+    {
+      "start_time": 78.88,
+      "end_time": 80.38,
+      "raw_start": "01:18.88",
+      "raw_end": "01:20.38"
+    },
+    {
+      "start_time": 111.58,
+      "end_time": 125.58,
+      "raw_start": "01:51.58",
+      "raw_end": "02:05.58"
+    },
+    {
+      "start_time": 131.48,
+      "end_time": 185.98,
+      "raw_start": "02:11.48",
+      "raw_end": "03:05.98"
+    },
+    {
+      "start_time": 201.38,
+      "end_time": 203.88,
+      "raw_start": "03:21.38",
+      "raw_end": "03:23.88"
+    },
+    {
+      "start_time": 212.28,
+      "end_time": 217.78,
+      "raw_start": "03:32.28",
+      "raw_end": "03:37.78"
+    },
+    {
+      "start_time": 242.28,
+      "end_time": 251.28,
+      "raw_start": "04:02.28",
+      "raw_end": "04:11.28"
+    },
+    {
+      "start_time": 251.58,
+      "end_time": 273.28,
+      "raw_start": "04:11.58",
+      "raw_end": "04:33.28"
+    },
+    {
+      "start_time": 285.28,
+      "end_time": 291.28,
+      "raw_start": "04:45.28",
+      "raw_end": "04:51.28"
+    },
+    {
+      "start_time": 300.58,
+      "end_time": 312.08,
+      "raw_start": "05:00.58",
+      "raw_end": "05:12.08"
+    }
+  ],
+  "metrics": {
+    "mean_iou": 0.4022636550478738,
+    "per_step_iou": [
+      0.0,
+      0.37023910284696604,
+      0.0,
+      0.6960495133522958,
+      0.9185157016392282,
+      0.11048404973845966,
+      0.3645973641369164,
+      0.3314521492153787,
+      0.6538646943612471,
+      0.3615841627804135,
+      0.6181134674557065
+    ],
+    "recall_at_1_iou_0.3": 0.7272727272727273,
+    "recall_at_1_iou_0.5": 0.36363636363636365,
+    "recall_at_1_iou_0.7": 0.09090909090909091,
+    "step_detection_rate": 0.9090909090909091,
+    "ordering_compliance": 1.0,
+    "num_gt_steps": 11,
+    "num_predictions": 11
+  }
+}

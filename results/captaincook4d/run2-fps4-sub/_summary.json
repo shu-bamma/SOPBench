@@ -1,0 +1,11 @@
+{
+  "config": "fps4-sub",
+  "run": "run2",
+  "num_videos": 5,
+  "aggregate": {
+    "mean_iou": 0.35652347116167543,
+    "recall_at_1_iou_0.3": 0.4605897026949658,
+    "recall_at_1_iou_0.5": 0.37520140678035413,
+    "recall_at_1_iou_0.7": 0.17345928924876292
+  }
+}

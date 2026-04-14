@@ -1,0 +1,36 @@
+# Secrets
+.env
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Claude / IDE configs
+.claude/
+
+# Temp files
+/tmp/
+*.log
+*.tmp
+
+# Test outputs (keep results/ for the actual experiment outputs)
+/tmp_results/
+
+# Original facebookresearch upstream .git (preserved as backup, not committed)
+.git_facebookresearch_backup/
+
+# Methods/UVD has nested .git dirs from cloning
+methods/UVD/.git/
+methods/UVD/uvd/envs/franka_kitchen/relay-policy-learning/.git/

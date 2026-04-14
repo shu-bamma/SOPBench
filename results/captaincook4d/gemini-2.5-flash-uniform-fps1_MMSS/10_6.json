@@ -1,0 +1,252 @@
+{
+  "recording_id": "10_6",
+  "video": "10_6_pinwheels_correct.mp4",
+  "dataset": "captaincook4d",
+  "model": "gemini-2.5-flash",
+  "fps": 1,
+  "ts_format": "MM:SS",
+  "ground_truth": [
+    {
+      "step_id": 115,
+      "start_time": 0,
+      "end_time": 11.459,
+      "description": "Place-Place 8-inch flour tortilla on cutting board",
+      "has_errors": false
+    },
+    {
+      "step_id": 113,
+      "start_time": 12.002,
+      "end_time": 24.854,
+      "description": "scoop-Use a butter knife to scoop nut butter from the jar",
+      "has_errors": false
+    },
+    {
+      "step_id": 112,
+      "start_time": 24.985,
+      "end_time": 63.876,
+      "description": "Spread-Spread nut butter onto the tortilla, leaving 1/2-inch uncovered at the edges",
+      "has_errors": false
+    },
+    {
+      "step_id": 118,
+      "start_time": 74.274,
+      "end_time": 84.996,
+      "description": "Clean-Clean the knife by wiping it with a paper towel",
+      "has_errors": false
+    },
+    {
+      "step_id": 111,
+      "start_time": 85.48,
+      "end_time": 98.638,
+      "description": "scoop-Use the knife to scoop jelly from the jar",
+      "has_errors": false
+    },
+    {
+      "step_id": 107,
+      "start_time": 98.851,
+      "end_time": 120.044,
+      "description": "Spread-Spread jelly over the nut butter",
+      "has_errors": false
+    },
+    {
+      "step_id": 104,
+      "start_time": 120.885,
+      "end_time": 125.819,
+      "description": "Clean-Clean the knife by wiping with a paper towel",
+      "has_errors": false
+    },
+    {
+      "step_id": 116,
+      "start_time": 131.865,
+      "end_time": 143.804,
+      "description": "Roll-Roll the tortilla from one end to the other into a log shape, about 1.5 inches thick. Roll it tight enough to prevent gaps, but not so tight that the filling leaks",
+      "has_errors": false
+    },
+    {
+      "step_id": 110,
+      "start_time": 145.64,
+      "end_time": 179.666,
+      "description": "Secure-Secure the rolled tortilla by inserting 5 toothpicks about 1 inch apart",
+      "has_errors": false
+    },
+    {
+      "step_id": 114,
+      "start_time": 182.486,
+      "end_time": 199.848,
+      "description": "Trim-Trim the ends of the tortilla roll with the butter knife, leaving 1/2 inch margin between the last toothpick and the end of the roll",
+      "has_errors": false
+    },
+    {
+      "step_id": 103,
+      "start_time": 200.566,
+      "end_time": 208.049,
+      "description": "Discard-Discard ends of the tortilla",
+      "has_errors": false
+    },
+    {
+      "step_id": 106,
+      "start_time": 209.415,
+      "end_time": 222.824,
+      "description": "Slide-Slide floss under the tortilla, perpendicular to the length of the roll",
+      "has_errors": false
+    },
+    {
+      "step_id": 117,
+      "start_time": 223.454,
+      "end_time": 225.363,
+      "description": "Place-Place the floss halfway between toothpicks",
+      "has_errors": false
+    },
+    {
+      "step_id": 105,
+      "start_time": 226.296,
+      "end_time": 229.276,
+      "description": "Cross-Cross the floss's two ends over the tortilla roll's top",
+      "has_errors": false
+    },
+    {
+      "step_id": 108,
+      "start_time": 229.239,
+      "end_time": 234.06799999999998,
+      "description": "pull-pull the floss ends in opposite directions to slice",
+      "has_errors": false
+    },
+    {
+      "step_id": 102,
+      "start_time": 234.227,
+      "end_time": 245.568,
+      "description": "slicing-Continue slicing with floss to create 1 more pinwheel",
+      "has_errors": false
+    },
+    {
+      "step_id": 102,
+      "start_time": 245.7,
+      "end_time": 255.123,
+      "description": "slicing-Continue slicing with floss to create 1 more pinwheel",
+      "has_errors": false
+    },
+    {
+      "step_id": 102,
+      "start_time": 256.01,
+      "end_time": 267.149,
+      "description": "slicing-Continue slicing with floss to create 1 more pinwheel",
+      "has_errors": false
+    },
+    {
+      "step_id": 109,
+      "start_time": 279.898,
+      "end_time": 304.16,
+      "description": "Place-Place the pinwheels on a plate",
+      "has_errors": false
+    }
+  ],
+  "predictions": [
+    {
+      "start_time": 12.0,
+      "end_time": 13.0
+    },
+    {
+      "start_time": 23.0,
+      "end_time": 24.0
+    },
+    {
+      "start_time": 24.0,
+      "end_time": 69.0
+    },
+    {
+      "start_time": 79.0,
+      "end_time": 83.0
+    },
+    {
+      "start_time": 89.0,
+      "end_time": 96.0
+    },
+    {
+      "start_time": 96.0,
+      "end_time": 121.0
+    },
+    {
+      "start_time": 121.0,
+      "end_time": 126.0
+    },
+    {
+      "start_time": 132.0,
+      "end_time": 143.0
+    },
+    {
+      "start_time": 152.0,
+      "end_time": 177.0
+    },
+    {
+      "start_time": 183.0,
+      "end_time": 198.0
+    },
+    {
+      "start_time": 198.0,
+      "end_time": 205.0
+    },
+    {
+      "start_time": 220.0,
+      "end_time": 226.0
+    },
+    {
+      "start_time": 226.0,
+      "end_time": 230.0
+    },
+    {
+      "start_time": 230.0,
+      "end_time": 235.0
+    },
+    {
+      "start_time": 235.0,
+      "end_time": 238.0
+    },
+    {
+      "start_time": 238.0,
+      "end_time": 245.0
+    },
+    {
+      "start_time": 245.0,
+      "end_time": 252.0
+    },
+    {
+      "start_time": 252.0,
+      "end_time": 260.0
+    },
+    {
+      "start_time": 294.0,
+      "end_time": 305.0
+    }
+  ],
+  "metrics": {
+    "mean_iou": 0.45664328059057135,
+    "per_step_iou": [
+      0.0,
+      0.07780890133831311,
+      0.8642444444444444,
+      0.3730647267300879,
+      0.5319957440340477,
+      0.8477199999999999,
+      0.9421309872922791,
+      0.9213501968339062,
+      0.7347322635631574,
+      0.863955765464807,
+      0.44123793412279777,
+      0.170274344287007,
+      0.0,
+      0.0,
+      0.0,
+      0.6172295212062424,
+      0.6223451545984409,
+      0.26338372169780244,
+      0.4047486256075227
+    ],
+    "recall_at_1_iou_0.3": 0.631578947368421,
+    "recall_at_1_iou_0.5": 0.47368421052631576,
+    "recall_at_1_iou_0.7": 0.3157894736842105,
+    "step_detection_rate": 1.0,
+    "ordering_compliance": 1.0,
+    "num_gt_steps": 19,
+    "num_predictions": 19
+  }
+}

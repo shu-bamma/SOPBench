@@ -1,0 +1,527 @@
+{
+  "12_51": {
+    "recording_id": "12_51",
+    "recipe": "tomatomozzarellasalad",
+    "is_error": true,
+    "steps": [
+      {
+        "step_id": 125,
+        "start_time": 17.089260822249095,
+        "end_time": 23.433,
+        "description": "Rinse-Rinse a tomato",
+        "has_errors": false
+      },
+      {
+        "step_id": 122,
+        "start_time": 25,
+        "end_time": 29.544145828295044,
+        "description": "dry-gently dry it with a paper/tea towel",
+        "has_errors": false
+      },
+      {
+        "step_id": 119,
+        "start_time": 43.447273276904475,
+        "end_time": 73.688,
+        "description": "Slice-Slice one tomato into about 1/2 inch thick slices",
+        "has_errors": false
+      },
+      {
+        "step_id": 120,
+        "start_time": 96.16329818621523,
+        "end_time": 110.928,
+        "description": "Place-Place the thick slices of tomatoes on a platter, ensuring they only make a single layer",
+        "has_errors": false
+      },
+      {
+        "step_id": 126,
+        "start_time": 138.45197750906894,
+        "end_time": 143.507,
+        "description": "Season-Season platter with 1/4 teaspoon black pepper",
+        "has_errors": true
+      },
+      {
+        "step_id": 127,
+        "start_time": 174.07874159613058,
+        "end_time": 180.133,
+        "description": "Garnish-Garnish platter with italian seasoning",
+        "has_errors": true
+      },
+      {
+        "step_id": 123,
+        "start_time": 186.82327509068924,
+        "end_time": 191.036,
+        "description": "Season-Season the tomato slices with salt",
+        "has_errors": false
+      },
+      {
+        "step_id": 124,
+        "start_time": 204.20218440145104,
+        "end_time": 212.257,
+        "description": "Sprinkle-Sprinkle mozzarella cheese on top of the tomato throughout the platter",
+        "has_errors": true
+      },
+      {
+        "step_id": 121,
+        "start_time": 223.6086331318017,
+        "end_time": 231.374,
+        "description": "Add-Add a drizzle of extra-virgin olive oil, about 1 tablespoon, over the entire platter",
+        "has_errors": true
+      }
+    ]
+  },
+  "10_50": {
+    "recording_id": "10_50",
+    "recipe": "pinwheels",
+    "is_error": true,
+    "steps": [
+      {
+        "step_id": 115,
+        "start_time": 4.104,
+        "end_time": 24.922,
+        "description": "Place-Place 8-inch flour tortilla on cutting board",
+        "has_errors": true
+      },
+      {
+        "step_id": 118,
+        "start_time": 29.537,
+        "end_time": 50.4,
+        "description": "Clean-Clean the knife by wiping it with a paper towel",
+        "has_errors": false
+      },
+      {
+        "step_id": 111,
+        "start_time": 51.049,
+        "end_time": 86.748,
+        "description": "scoop-Use the knife to scoop jelly from the jar",
+        "has_errors": true
+      },
+      {
+        "step_id": 107,
+        "start_time": 88.054,
+        "end_time": 106.60631556026937,
+        "description": "Spread-Spread jelly over the nut butter",
+        "has_errors": false
+      },
+      {
+        "step_id": 104,
+        "start_time": 107.343,
+        "end_time": 113.487,
+        "description": "Clean-Clean the knife by wiping with a paper towel",
+        "has_errors": true
+      },
+      {
+        "step_id": 116,
+        "start_time": 119.14099999999999,
+        "end_time": 142.74,
+        "description": "Roll-Roll the tortilla from one end to the other into a log shape, about 1.5 inches thick. Roll it tight enough to prevent gaps, but not so tight that the filling leaks",
+        "has_errors": true
+      },
+      {
+        "step_id": 110,
+        "start_time": 144.124,
+        "end_time": 176.363,
+        "description": "Secure-Secure the rolled tortilla by inserting 5 toothpicks about 1 inch apart",
+        "has_errors": true
+      },
+      {
+        "step_id": 114,
+        "start_time": 181.947,
+        "end_time": 198.035,
+        "description": "Trim-Trim the ends of the tortilla roll with the butter knife, leaving 1/2 inch margin between the last toothpick and the end of the roll",
+        "has_errors": true
+      },
+      {
+        "step_id": 103,
+        "start_time": 198.95,
+        "end_time": 204.53300000000002,
+        "description": "Discard-Discard ends of the tortilla",
+        "has_errors": false
+      },
+      {
+        "step_id": 106,
+        "start_time": 179.67954229378398,
+        "end_time": 199.28036075877378,
+        "description": "Slide-Slide floss under the tortilla, perpendicular to the length of the roll",
+        "has_errors": false
+      },
+      {
+        "step_id": 117,
+        "start_time": -1.0,
+        "end_time": -1.0,
+        "description": "Place-Place the floss halfway between toothpicks",
+        "has_errors": true
+      },
+      {
+        "step_id": 105,
+        "start_time": -1.0,
+        "end_time": -1.0,
+        "description": "Cross-Cross the floss's two ends over the tortilla roll's top",
+        "has_errors": true
+      },
+      {
+        "step_id": 108,
+        "start_time": -1.0,
+        "end_time": -1.0,
+        "description": "pull-pull the floss ends in opposite directions to slice",
+        "has_errors": true
+      },
+      {
+        "step_id": 102,
+        "start_time": 214,
+        "end_time": 218.08,
+        "description": "slicing-Continue slicing with floss to create 1 more pinwheel",
+        "has_errors": true
+      },
+      {
+        "step_id": 102,
+        "start_time": 220,
+        "end_time": 223,
+        "description": "slicing-Continue slicing with floss to create 1 more pinwheel",
+        "has_errors": true
+      },
+      {
+        "step_id": 102,
+        "start_time": -1.0,
+        "end_time": -1.0,
+        "description": "slicing-Continue slicing with floss to create 1 more pinwheel",
+        "has_errors": true
+      },
+      {
+        "step_id": 109,
+        "start_time": 230.027,
+        "end_time": 238.65393469283225,
+        "description": "Place-Place the pinwheels on a plate",
+        "has_errors": false
+      },
+      {
+        "step_id": 112,
+        "start_time": -1.0,
+        "end_time": -1.0,
+        "description": "Spread-Spread nut butter onto the tortilla, leaving 1/2-inch uncovered at the edges",
+        "has_errors": true
+      },
+      {
+        "step_id": 113,
+        "start_time": -1.0,
+        "end_time": -1.0,
+        "description": "scoop-Use a butter knife to scoop nut butter from the jar",
+        "has_errors": true
+      }
+    ]
+  },
+  "10_6": {
+    "recording_id": "10_6",
+    "recipe": "pinwheels",
+    "is_error": false,
+    "steps": [
+      {
+        "step_id": 115,
+        "start_time": 0,
+        "end_time": 11.459,
+        "description": "Place-Place 8-inch flour tortilla on cutting board",
+        "has_errors": false
+      },
+      {
+        "step_id": 113,
+        "start_time": 12.002,
+        "end_time": 24.854,
+        "description": "scoop-Use a butter knife to scoop nut butter from the jar",
+        "has_errors": false
+      },
+      {
+        "step_id": 112,
+        "start_time": 24.985,
+        "end_time": 63.876,
+        "description": "Spread-Spread nut butter onto the tortilla, leaving 1/2-inch uncovered at the edges",
+        "has_errors": false
+      },
+      {
+        "step_id": 118,
+        "start_time": 74.274,
+        "end_time": 84.996,
+        "description": "Clean-Clean the knife by wiping it with a paper towel",
+        "has_errors": false
+      },
+      {
+        "step_id": 111,
+        "start_time": 85.48,
+        "end_time": 98.638,
+        "description": "scoop-Use the knife to scoop jelly from the jar",
+        "has_errors": false
+      },
+      {
+        "step_id": 107,
+        "start_time": 98.851,
+        "end_time": 120.044,
+        "description": "Spread-Spread jelly over the nut butter",
+        "has_errors": false
+      },
+      {
+        "step_id": 104,
+        "start_time": 120.885,
+        "end_time": 125.819,
+        "description": "Clean-Clean the knife by wiping with a paper towel",
+        "has_errors": false
+      },
+      {
+        "step_id": 116,
+        "start_time": 131.865,
+        "end_time": 143.804,
+        "description": "Roll-Roll the tortilla from one end to the other into a log shape, about 1.5 inches thick. Roll it tight enough to prevent gaps, but not so tight that the filling leaks",
+        "has_errors": false
+      },
+      {
+        "step_id": 110,
+        "start_time": 145.64,
+        "end_time": 179.666,
+        "description": "Secure-Secure the rolled tortilla by inserting 5 toothpicks about 1 inch apart",
+        "has_errors": false
+      },
+      {
+        "step_id": 114,
+        "start_time": 182.486,
+        "end_time": 199.848,
+        "description": "Trim-Trim the ends of the tortilla roll with the butter knife, leaving 1/2 inch margin between the last toothpick and the end of the roll",
+        "has_errors": false
+      },
+      {
+        "step_id": 103,
+        "start_time": 200.566,
+        "end_time": 208.049,
+        "description": "Discard-Discard ends of the tortilla",
+        "has_errors": false
+      },
+      {
+        "step_id": 106,
+        "start_time": 209.415,
+        "end_time": 222.824,
+        "description": "Slide-Slide floss under the tortilla, perpendicular to the length of the roll",
+        "has_errors": false
+      },
+      {
+        "step_id": 117,
+        "start_time": 223.454,
+        "end_time": 225.363,
+        "description": "Place-Place the floss halfway between toothpicks",
+        "has_errors": false
+      },
+      {
+        "step_id": 105,
+        "start_time": 226.296,
+        "end_time": 229.276,
+        "description": "Cross-Cross the floss's two ends over the tortilla roll's top",
+        "has_errors": false
+      },
+      {
+        "step_id": 108,
+        "start_time": 229.239,
+        "end_time": 234.06799999999998,
+        "description": "pull-pull the floss ends in opposite directions to slice",
+        "has_errors": false
+      },
+      {
+        "step_id": 102,
+        "start_time": 234.227,
+        "end_time": 245.568,
+        "description": "slicing-Continue slicing with floss to create 1 more pinwheel",
+        "has_errors": false
+      },
+      {
+        "step_id": 102,
+        "start_time": 245.7,
+        "end_time": 255.123,
+        "description": "slicing-Continue slicing with floss to create 1 more pinwheel",
+        "has_errors": false
+      },
+      {
+        "step_id": 102,
+        "start_time": 256.01,
+        "end_time": 267.149,
+        "description": "slicing-Continue slicing with floss to create 1 more pinwheel",
+        "has_errors": false
+      },
+      {
+        "step_id": 109,
+        "start_time": 279.898,
+        "end_time": 304.16,
+        "description": "Place-Place the pinwheels on a plate",
+        "has_errors": false
+      }
+    ]
+  },
+  "9_45": {
+    "recording_id": "9_45",
+    "recipe": "mugcake",
+    "is_error": true,
+    "steps": [
+      {
+        "step_id": 100,
+        "start_time": 10.559593619426751,
+        "end_time": 34.192969815286624,
+        "description": "Add-Add 1/4 teaspoon vanilla extract to the mug",
+        "has_errors": true
+      },
+      {
+        "step_id": 94,
+        "start_time": 35.701483189490446,
+        "end_time": 82.9682355812102,
+        "description": "melt-In a large mug, melt 1 tablespoon of softened butter in the microwave for about 30 seconds",
+        "has_errors": true
+      },
+      {
+        "step_id": 98,
+        "start_time": 84.47674895541401,
+        "end_time": 97.04769374044585,
+        "description": "Roll-Roll the butter around in the mug to coat it",
+        "has_errors": true
+      },
+      {
+        "step_id": 101,
+        "start_time": 106.60161177707006,
+        "end_time": 126.71512343312102,
+        "description": "whisk-In the mug, whisk one egg with a fork until well blended",
+        "has_errors": true
+      },
+      {
+        "step_id": 91,
+        "start_time": 127.72079901592356,
+        "end_time": 187.0556584012739,
+        "description": "Microwave-Microwave on high for 90 seconds until the egg is cooked through",
+        "has_errors": true
+      },
+      {
+        "step_id": 95,
+        "start_time": 189.56984735828024,
+        "end_time": 212.19754797133757,
+        "description": "Sprinkle-Sprinkle 1/4 teaspoon cinnamon over the egg",
+        "has_errors": true
+      },
+      {
+        "step_id": 93,
+        "start_time": 212.19754797133757,
+        "end_time": 227.2826817133758,
+        "description": "stir-stir the mug",
+        "has_errors": true
+      },
+      {
+        "step_id": 99,
+        "start_time": 228.7911950875796,
+        "end_time": 255.94443582324843,
+        "description": "Cut or tear-Cut or tear 1 slices of bread into bite-size pieces",
+        "has_errors": true
+      },
+      {
+        "step_id": 92,
+        "start_time": 242.367815455414,
+        "end_time": 275.55510968789804,
+        "description": "add-add bread pieces to the egg mixture in the mug, pressing the bread down into the egg",
+        "has_errors": true
+      },
+      {
+        "step_id": 97,
+        "start_time": 277.06362306210195,
+        "end_time": 293.657270178344,
+        "description": "Put-Put the mug's contents on a plate",
+        "has_errors": false
+      },
+      {
+        "step_id": 96,
+        "start_time": 296.1714591353503,
+        "end_time": 314.77645741719743,
+        "description": "cut-cut the contents on plate, and serve",
+        "has_errors": false
+      }
+    ]
+  },
+  "1_34": {
+    "recording_id": "1_34",
+    "recipe": "microwaveeggsandwich",
+    "is_error": true,
+    "steps": [
+      {
+        "step_id": 1,
+        "start_time": 1.3719999999999999,
+        "end_time": 31.659,
+        "description": "Pour-Pour 1 egg into the ramekin cup",
+        "has_errors": true
+      },
+      {
+        "step_id": 12,
+        "start_time": 40.805,
+        "end_time": 83.385,
+        "description": "Cut -Cut the English muffin into two pieces with a knife",
+        "has_errors": false
+      },
+      {
+        "step_id": 4,
+        "start_time": 87.014,
+        "end_time": 149.567,
+        "description": "Microwave-Microwave the ramekin cup uncovered on high for 30 seconds",
+        "has_errors": false
+      },
+      {
+        "step_id": 11,
+        "start_time": 150.39274015722512,
+        "end_time": 161.876,
+        "description": "stir-stir the ramekin cup",
+        "has_errors": true
+      },
+      {
+        "step_id": 8,
+        "start_time": 164.21938243817988,
+        "end_time": 194.062,
+        "description": "Microwave -Continue to Microwave for 15-30 more seconds or until the egg is almost set",
+        "has_errors": false
+      },
+      {
+        "step_id": 9,
+        "start_time": 200.993,
+        "end_time": 217.179,
+        "description": "Line -Line the bottom piece of the English muffin with lettuce",
+        "has_errors": true
+      },
+      {
+        "step_id": 6,
+        "start_time": 219.01385369974128,
+        "end_time": 245.179,
+        "description": "Top -Top cup with 1 tablespoon of salsa",
+        "has_errors": false
+      },
+      {
+        "step_id": 5,
+        "start_time": 255.88489978228725,
+        "end_time": 286.39,
+        "description": "sprinkle -sprinkle 1 tablespoon of cheese on cup",
+        "has_errors": true
+      },
+      {
+        "step_id": 10,
+        "start_time": 287.29356866741904,
+        "end_time": 315.925,
+        "description": "Microwave -Microwave just until cheese melts, about 10 seconds",
+        "has_errors": true
+      },
+      {
+        "step_id": 2,
+        "start_time": 316.8245453909397,
+        "end_time": 332.213,
+        "description": "Place -Place the egg from the cup over the lettuce",
+        "has_errors": false
+      },
+      {
+        "step_id": 7,
+        "start_time": 333.72377484543995,
+        "end_time": 335.7721662944703,
+        "description": "replace -replace the top of the English muffin",
+        "has_errors": true
+      },
+      {
+        "step_id": 3,
+        "start_time": -1.0,
+        "end_time": -1.0,
+        "description": "Coat -Coat a 6-oz. ramekin cup with cooking spray",
+        "has_errors": true
+      }
+    ]
+  }
+}

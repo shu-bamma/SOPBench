@@ -1,0 +1,60 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["sopbench*"]
+
+[project]
+name = "sopbench"
+version = "0.1.0"
+description = "Zero-shot procedural step boundary detection in egocentric video using Gemini 2.5"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+keywords = ["video-understanding", "egocentric-video", "vlm", "gemini", "temporal-grounding", "step-detection"]
+
+dependencies = [
+    # VLM (the only one actually used at runtime)
+    "google-genai>=1.0",
+
+    # Video processing
+    "opencv-python-headless>=4.8",
+    "Pillow>=10.0",
+
+    # Utilities
+    "python-dotenv>=1.0",
+    "pydantic>=2.0",
+    "tqdm",
+]
+
+[project.optional-dependencies]
+# For downloading Ego4D videos (requires Ego4D license + AWS creds)
+ego4d = [
+    "ego4d>=1.7",
+]
+# For downloading COIN sample videos from YouTube
+coin = [
+    "yt-dlp>=2024.0",
+]
+# For UVD baseline (the methods/UVD folder)
+uvd = [
+    "torch>=2.0",
+    "torchvision>=0.15",
+    "hydra-core==1.3.1",
+    "pytorch_lightning==2.0.0",
+    "scikit-learn",
+    "gradio>=3.48",
+    "einops>=0.6",
+    "decord>=0.6",
+]
+# Dev tooling
+dev = [
+    "ipython",
+    "ruff",
+    "ffmpeg-python",
+]
+
+[project.urls]
+"Bug Tracker" = "https://github.com/<your-user>/SOPBench/issues"
+"Documentation" = "https://github.com/<your-user>/SOPBench/blob/main/docs/exp_log.md"

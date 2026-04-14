@@ -1,0 +1,180 @@
+{
+  "recording_id": "1_34",
+  "video": "1_34_microwaveeggsandwich.mp4",
+  "dataset": "captaincook4d",
+  "model": "gemini-2.5-flash",
+  "fps_tag": "fps2",
+  "fps_actual": 2.0,
+  "ts_format": "MM:SS.ss",
+  "format_tag": "sub",
+  "ground_truth": [
+    {
+      "step_id": 1,
+      "start_time": 1.3719999999999999,
+      "end_time": 31.659,
+      "description": "Pour-Pour 1 egg into the ramekin cup",
+      "has_errors": true
+    },
+    {
+      "step_id": 12,
+      "start_time": 40.805,
+      "end_time": 83.385,
+      "description": "Cut -Cut the English muffin into two pieces with a knife",
+      "has_errors": false
+    },
+    {
+      "step_id": 4,
+      "start_time": 87.014,
+      "end_time": 149.567,
+      "description": "Microwave-Microwave the ramekin cup uncovered on high for 30 seconds",
+      "has_errors": false
+    },
+    {
+      "step_id": 11,
+      "start_time": 150.39274015722512,
+      "end_time": 161.876,
+      "description": "stir-stir the ramekin cup",
+      "has_errors": true
+    },
+    {
+      "step_id": 8,
+      "start_time": 164.21938243817988,
+      "end_time": 194.062,
+      "description": "Microwave -Continue to Microwave for 15-30 more seconds or until the egg is almost set",
+      "has_errors": false
+    },
+    {
+      "step_id": 9,
+      "start_time": 200.993,
+      "end_time": 217.179,
+      "description": "Line -Line the bottom piece of the English muffin with lettuce",
+      "has_errors": true
+    },
+    {
+      "step_id": 6,
+      "start_time": 219.01385369974128,
+      "end_time": 245.179,
+      "description": "Top -Top cup with 1 tablespoon of salsa",
+      "has_errors": false
+    },
+    {
+      "step_id": 5,
+      "start_time": 255.88489978228725,
+      "end_time": 286.39,
+      "description": "sprinkle -sprinkle 1 tablespoon of cheese on cup",
+      "has_errors": true
+    },
+    {
+      "step_id": 10,
+      "start_time": 287.29356866741904,
+      "end_time": 315.925,
+      "description": "Microwave -Microwave just until cheese melts, about 10 seconds",
+      "has_errors": true
+    },
+    {
+      "step_id": 2,
+      "start_time": 316.8245453909397,
+      "end_time": 332.213,
+      "description": "Place -Place the egg from the cup over the lettuce",
+      "has_errors": false
+    },
+    {
+      "step_id": 7,
+      "start_time": 333.72377484543995,
+      "end_time": 335.7721662944703,
+      "description": "replace -replace the top of the English muffin",
+      "has_errors": true
+    }
+  ],
+  "predictions": [
+    {
+      "start_time": 26.5,
+      "end_time": 28.5,
+      "raw_start": "00:26.50",
+      "raw_end": "00:28.50"
+    },
+    {
+      "start_time": 75.0,
+      "end_time": 80.0,
+      "raw_start": "01:15.00",
+      "raw_end": "01:20.00"
+    },
+    {
+      "start_time": 92.5,
+      "end_time": 96.5,
+      "raw_start": "01:32.50",
+      "raw_end": "01:36.50"
+    },
+    {
+      "start_time": 153.0,
+      "end_time": 159.0,
+      "raw_start": "02:33.00",
+      "raw_end": "02:39.00"
+    },
+    {
+      "start_time": 167.5,
+      "end_time": 170.5,
+      "raw_start": "02:47.50",
+      "raw_end": "02:50.50"
+    },
+    {
+      "start_time": 210.0,
+      "end_time": 212.0,
+      "raw_start": "03:30.00",
+      "raw_end": "03:32.00"
+    },
+    {
+      "start_time": 236.0,
+      "end_time": 237.0,
+      "raw_start": "03:56.00",
+      "raw_end": "03:57.00"
+    },
+    {
+      "start_time": 284.0,
+      "end_time": 286.0,
+      "raw_start": "04:44.00",
+      "raw_end": "04:46.00"
+    },
+    {
+      "start_time": 289.5,
+      "end_time": 293.5,
+      "raw_start": "04:49.50",
+      "raw_end": "04:53.50"
+    },
+    {
+      "start_time": 326.0,
+      "end_time": 329.0,
+      "raw_start": "05:26.00",
+      "raw_end": "05:29.00"
+    },
+    {
+      "start_time": 335.0,
+      "end_time": 336.0,
+      "raw_start": "05:35.00",
+      "raw_end": "05:36.00"
+    }
+  ],
+  "metrics": {
+    "mean_iou": 0.16106072749273811,
+    "per_step_iou": [
+      0.06603493247928154,
+      0.11742602160638796,
+      0.06394577398366184,
+      0.5224997154248948,
+      0.10052737477821388,
+      0.12356357345854437,
+      0.03821878114207646,
+      0.06556280706262696,
+      0.13970660263317758,
+      0.19495134997075528,
+      0.3392310698804986
+    ],
+    "recall_at_1_iou_0.3": 0.18181818181818182,
+    "recall_at_1_iou_0.5": 0.09090909090909091,
+    "recall_at_1_iou_0.7": 0.0,
+    "step_detection_rate": 1.0,
+    "ordering_compliance": 1.0,
+    "num_gt_steps": 11,
+    "num_predictions": 11
+  }
+}

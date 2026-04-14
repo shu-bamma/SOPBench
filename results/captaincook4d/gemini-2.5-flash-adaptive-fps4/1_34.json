@@ -1,0 +1,156 @@
+{
+  "recording_id": "1_34",
+  "video": "1_34_microwaveeggsandwich.mp4",
+  "dataset": "captaincook4d",
+  "model": "gemini-2.5-flash",
+  "mode": "adaptive",
+  "fps": 4.0,
+  "ground_truth": [
+    {
+      "step_id": 1,
+      "start_time": 1.3719999999999999,
+      "end_time": 31.659,
+      "description": "Pour-Pour 1 egg into the ramekin cup",
+      "has_errors": true
+    },
+    {
+      "step_id": 12,
+      "start_time": 40.805,
+      "end_time": 83.385,
+      "description": "Cut -Cut the English muffin into two pieces with a knife",
+      "has_errors": false
+    },
+    {
+      "step_id": 4,
+      "start_time": 87.014,
+      "end_time": 149.567,
+      "description": "Microwave-Microwave the ramekin cup uncovered on high for 30 seconds",
+      "has_errors": false
+    },
+    {
+      "step_id": 11,
+      "start_time": 150.39274015722512,
+      "end_time": 161.876,
+      "description": "stir-stir the ramekin cup",
+      "has_errors": true
+    },
+    {
+      "step_id": 8,
+      "start_time": 164.21938243817988,
+      "end_time": 194.062,
+      "description": "Microwave -Continue to Microwave for 15-30 more seconds or until the egg is almost set",
+      "has_errors": false
+    },
+    {
+      "step_id": 9,
+      "start_time": 200.993,
+      "end_time": 217.179,
+      "description": "Line -Line the bottom piece of the English muffin with lettuce",
+      "has_errors": true
+    },
+    {
+      "step_id": 6,
+      "start_time": 219.01385369974128,
+      "end_time": 245.179,
+      "description": "Top -Top cup with 1 tablespoon of salsa",
+      "has_errors": false
+    },
+    {
+      "step_id": 5,
+      "start_time": 255.88489978228725,
+      "end_time": 286.39,
+      "description": "sprinkle -sprinkle 1 tablespoon of cheese on cup",
+      "has_errors": true
+    },
+    {
+      "step_id": 10,
+      "start_time": 287.29356866741904,
+      "end_time": 315.925,
+      "description": "Microwave -Microwave just until cheese melts, about 10 seconds",
+      "has_errors": true
+    },
+    {
+      "step_id": 2,
+      "start_time": 316.8245453909397,
+      "end_time": 332.213,
+      "description": "Place -Place the egg from the cup over the lettuce",
+      "has_errors": false
+    },
+    {
+      "step_id": 7,
+      "start_time": 333.72377484543995,
+      "end_time": 335.7721662944703,
+      "description": "replace -replace the top of the English muffin",
+      "has_errors": true
+    }
+  ],
+  "predictions": [
+    {
+      "start_time": 30.0,
+      "end_time": 31.0
+    },
+    {
+      "start_time": 74.0,
+      "end_time": 75.0
+    },
+    {
+      "start_time": 92.0,
+      "end_time": 125.0
+    },
+    {
+      "start_time": 147.0,
+      "end_time": 148.0
+    },
+    {
+      "start_time": 148.0,
+      "end_time": 180.0
+    },
+    {
+      "start_time": 213.0,
+      "end_time": 214.0
+    },
+    {
+      "start_time": 231.0,
+      "end_time": 232.0
+    },
+    {
+      "start_time": 271.0,
+      "end_time": 272.0
+    },
+    {
+      "start_time": 289.0,
+      "end_time": 301.0
+    },
+    {
+      "start_time": 312.0,
+      "end_time": 313.0
+    },
+    {
+      "start_time": 323.0,
+      "end_time": 324.0
+    }
+  ],
+  "metrics": {
+    "mean_iou": 0.13441383909751511,
+    "per_step_iou": [
+      0.03301746623964077,
+      0.02348520432127759,
+      0.5275526353652102,
+      0.0,
+      0.3425951448443428,
+      0.06178178672927218,
+      0.03821878114207646,
+      0.03278140353131348,
+      0.41911980789953274,
+      0.0,
+      0.0
+    ],
+    "recall_at_1_iou_0.3": 0.2727272727272727,
+    "recall_at_1_iou_0.5": 0.09090909090909091,
+    "recall_at_1_iou_0.7": 0.0,
+    "step_detection_rate": 1.0,
+    "ordering_compliance": 1.0,
+    "num_gt_steps": 11,
+    "num_predictions": 11
+  }
+}

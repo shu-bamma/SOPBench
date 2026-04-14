@@ -1,0 +1,47 @@
+[
+  {
+    "code_duration": 1.0,
+    "fps": 1,
+    "accuracy": 0.9166666666666666
+  },
+  {
+    "code_duration": 1.0,
+    "fps": 2,
+    "accuracy": 0.8333333333333334
+  },
+  {
+    "code_duration": 1.0,
+    "fps": 4,
+    "accuracy": 0.9166666666666666
+  },
+  {
+    "code_duration": 0.5,
+    "fps": 1,
+    "accuracy": 0.9166666666666666
+  },
+  {
+    "code_duration": 0.5,
+    "fps": 2,
+    "accuracy": 0.9166666666666666
+  },
+  {
+    "code_duration": 0.5,
+    "fps": 4,
+    "accuracy": 0.9166666666666666
+  },
+  {
+    "code_duration": 0.25,
+    "fps": 1,
+    "accuracy": 0.25
+  },
+  {
+    "code_duration": 0.25,
+    "fps": 2,
+    "accuracy": 0.3333333333333333
+  },
+  {
+    "code_duration": 0.25,
+    "fps": 4,
+    "accuracy": 0.8333333333333334
+  }
+]

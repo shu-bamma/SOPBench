@@ -1,0 +1,11 @@
+{
+  "config": "fps8-mmss",
+  "run": "run2",
+  "num_videos": 5,
+  "aggregate": {
+    "mean_iou": 0.3640127648653963,
+    "recall_at_1_iou_0.3": 0.5479573058520427,
+    "recall_at_1_iou_0.5": 0.32182554287817444,
+    "recall_at_1_iou_0.7": 0.2506522717049033
+  }
+}

@@ -1,0 +1,1406 @@
+{
+  "video": "1_34_microwaveeggsandwich.mp4",
+  "model": "gemini-2.5-flash",
+  "method": "gemini-frames-2pass",
+  "fps": 2.0,
+  "num_frames": 300,
+  "captions": [
+    {
+      "timestamp": 0.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 1.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 2.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 3.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 4.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 5.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 6.0,
+      "description": "The person's hand is reaching into the dish rack."
+    },
+    {
+      "timestamp": 8.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 9.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 10.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 11.0,
+      "description": "A hand is opening the refrigerator door."
+    },
+    {
+      "timestamp": 12.0,
+      "description": "The person's hands are holding the refrigerator door open."
+    },
+    {
+      "timestamp": 13.0,
+      "description": "A hand is reaching into the refrigerator."
+    },
+    {
+      "timestamp": 14.0,
+      "description": "A hand is picking up an item from the refrigerator."
+    },
+    {
+      "timestamp": 16.0,
+      "description": "A hand is holding an item while moving it out of the refrigerator."
+    },
+    {
+      "timestamp": 17.0,
+      "description": "A hand is placing an item on the counter."
+    },
+    {
+      "timestamp": 18.0,
+      "description": "The person's hands are not visible, but the fridge door is open."
+    },
+    {
+      "timestamp": 19.0,
+      "description": "The person's hands are not visible, but the fridge door remains open."
+    },
+    {
+      "timestamp": 20.0,
+      "description": "The person's hands are reaching into the fridge to pick up a carton of eggs."
+    },
+    {
+      "timestamp": 21.0,
+      "description": "The person's hands are closing the fridge door."
+    },
+    {
+      "timestamp": 22.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 24.0,
+      "description": "The person's hands are placing a stick of butter into a blue bowl."
+    },
+    {
+      "timestamp": 25.0,
+      "description": "The person's hands are holding a small white bowl."
+    },
+    {
+      "timestamp": 26.0,
+      "description": "The person's hands are holding a small white bowl."
+    },
+    {
+      "timestamp": 27.0,
+      "description": "The person's hands are holding an egg."
+    },
+    {
+      "timestamp": 28.0,
+      "description": "The person's hands are cracking an egg over a bowl."
+    },
+    {
+      "timestamp": 29.0,
+      "description": "The person's hands are not visible as the camera pans away."
+    },
+    {
+      "timestamp": 30.0,
+      "description": "The person's hands are not visible as the camera pans across the kitchen."
+    },
+    {
+      "timestamp": 32.0,
+      "description": "The person's hands are not visible as the camera pans across the kitchen."
+    },
+    {
+      "timestamp": 33.0,
+      "description": "The person's hands are not visible as the camera returns to the counter."
+    },
+    {
+      "timestamp": 34.0,
+      "description": "The person's hands are not visible as the camera pans to the right."
+    },
+    {
+      "timestamp": 35.0,
+      "description": "The person's hands are reaching for a roll of paper towels."
+    },
+    {
+      "timestamp": 36.0,
+      "description": "Hand is holding a roll of paper towels."
+    },
+    {
+      "timestamp": 37.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 38.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 40.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 41.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 42.0,
+      "description": "Hand is reaching towards the counter."
+    },
+    {
+      "timestamp": 43.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 44.0,
+      "description": "Hand is reaching for a cutting board."
+    },
+    {
+      "timestamp": 45.0,
+      "description": "The person's hand is reaching for a cutting board."
+    },
+    {
+      "timestamp": 46.0,
+      "description": "The person's hand is picking up a cutting board."
+    },
+    {
+      "timestamp": 48.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 49.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 50.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 51.0,
+      "description": "The person's hands are reaching for a package of tortillas."
+    },
+    {
+      "timestamp": 52.0,
+      "description": "The person's hands are holding a package of tortillas."
+    },
+    {
+      "timestamp": 53.0,
+      "description": "The person's hands are adjusting a package of tortillas."
+    },
+    {
+      "timestamp": 54.0,
+      "description": "Hands are untwisting the tie on a package of English muffins."
+    },
+    {
+      "timestamp": 56.0,
+      "description": "Hands are continuing to untwist the package tie."
+    },
+    {
+      "timestamp": 57.0,
+      "description": "Hands are removing the twist tie from the package."
+    },
+    {
+      "timestamp": 58.0,
+      "description": "Hands are holding the twist tie and beginning to open the package."
+    },
+    {
+      "timestamp": 59.0,
+      "description": "Hands are pulling open the plastic packaging."
+    },
+    {
+      "timestamp": 60.0,
+      "description": "Hands are widening the opening of the package."
+    },
+    {
+      "timestamp": 61.0,
+      "description": "Hands are holding the package open."
+    },
+    {
+      "timestamp": 62.0,
+      "description": "Hands are fully opening the package."
+    },
+    {
+      "timestamp": 64.0,
+      "description": "Hands are pulling a muffin out of its packaging."
+    },
+    {
+      "timestamp": 65.0,
+      "description": "Hands are holding a muffin."
+    },
+    {
+      "timestamp": 66.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 67.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 68.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 69.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 70.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 72.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 73.0,
+      "description": "The person's right hand is picking up a black object from a knife block."
+    },
+    {
+      "timestamp": 74.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 75.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 76.0,
+      "description": "The person's right hand is holding a cutting board."
+    },
+    {
+      "timestamp": 77.0,
+      "description": "The person's right hand is adjusting the cutting board's position."
+    },
+    {
+      "timestamp": 78.0,
+      "description": "The person's right hand is holding the cutting board."
+    },
+    {
+      "timestamp": 80.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 81.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 82.0,
+      "description": "Hands are not visible in the frame."
+    },
+    {
+      "timestamp": 83.0,
+      "description": "Hands are not visible in the frame."
+    },
+    {
+      "timestamp": 84.0,
+      "description": "Hands are not visible in the frame."
+    },
+    {
+      "timestamp": 85.0,
+      "description": "Hands are not visible in the frame."
+    },
+    {
+      "timestamp": 86.0,
+      "description": "A hand is tapping the tablet screen."
+    },
+    {
+      "timestamp": 88.0,
+      "description": "A hand is moving away from the tablet."
+    },
+    {
+      "timestamp": 89.0,
+      "description": "A hand is reaching towards the bottom of the frame."
+    },
+    {
+      "timestamp": 90.0,
+      "description": "Hands are placing items onto a baking sheet."
+    },
+    {
+      "timestamp": 91.0,
+      "description": "Opening the microwave door."
+    },
+    {
+      "timestamp": 92.0,
+      "description": "Holding a cup of liquid near the microwave."
+    },
+    {
+      "timestamp": 93.0,
+      "description": "Placing the cup inside the microwave."
+    },
+    {
+      "timestamp": 94.0,
+      "description": "Closing the microwave door."
+    },
+    {
+      "timestamp": 96.0,
+      "description": "Pressing a button on the microwave control panel."
+    },
+    {
+      "timestamp": 97.0,
+      "description": "Hands are out of frame."
+    },
+    {
+      "timestamp": 98.0,
+      "description": "Hands are out of frame."
+    },
+    {
+      "timestamp": 99.0,
+      "description": "Hands are out of frame."
+    },
+    {
+      "timestamp": 100.6,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 101.6,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 102.6,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 104.1,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 105.1,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 106.1,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 107.1,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 108.6,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 109.0,
+      "description": "The person's hands are idle as they wait for the microwave."
+    },
+    {
+      "timestamp": 110.0,
+      "description": "The person's hands are idle as they wait for the microwave."
+    },
+    {
+      "timestamp": 112.0,
+      "description": "The person's hands are idle as they wait for the microwave."
+    },
+    {
+      "timestamp": 113.0,
+      "description": "The person's hands are idle as they wait for the microwave."
+    },
+    {
+      "timestamp": 114.0,
+      "description": "The person's hands are idle as they wait for the microwave."
+    },
+    {
+      "timestamp": 115.0,
+      "description": "The person's hands are idle as they wait for the microwave."
+    },
+    {
+      "timestamp": 116.0,
+      "description": "The person's hands are idle as they wait for the microwave."
+    },
+    {
+      "timestamp": 117.0,
+      "description": "The person's hands are idle as they wait for the microwave."
+    },
+    {
+      "timestamp": 118.0,
+      "description": "The person's hands have just started the microwave."
+    },
+    {
+      "timestamp": 120.0,
+      "description": "The person's hands are opening a lower cabinet drawer."
+    },
+    {
+      "timestamp": 121.0,
+      "description": "The person's hands are opening the microwave door."
+    },
+    {
+      "timestamp": 122.0,
+      "description": "The person's hands are closing the microwave door."
+    },
+    {
+      "timestamp": 123.0,
+      "description": "The person's hands are momentarily still."
+    },
+    {
+      "timestamp": 124.0,
+      "description": "The person's hands are momentarily still."
+    },
+    {
+      "timestamp": 125.0,
+      "description": "The person's hands are momentarily still."
+    },
+    {
+      "timestamp": 126.0,
+      "description": "The person's hands are momentarily still as the microwave continues to run."
+    },
+    {
+      "timestamp": 128.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 129.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 130.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 131.0,
+      "description": "A hand is pressing a button on the microwave."
+    },
+    {
+      "timestamp": 132.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 133.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 134.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 136.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 137.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 138.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 139.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 140.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 141.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 142.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 144.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 145.0,
+      "description": "The person's hand is reaching towards the microwave control panel."
+    },
+    {
+      "timestamp": 146.0,
+      "description": "The person's hand is placing a small bowl into the microwave."
+    },
+    {
+      "timestamp": 147.0,
+      "description": "The person's hand is positioning a small bowl inside the microwave."
+    },
+    {
+      "timestamp": 148.0,
+      "description": "The person's hand is closing the microwave door."
+    },
+    {
+      "timestamp": 149.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 150.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 152.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 153.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 154.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 155.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 156.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 157.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 158.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 160.0,
+      "description": "A hand is reaching to open the white cabinet door."
+    },
+    {
+      "timestamp": 161.0,
+      "description": "A hand is opening the white cabinet door."
+    },
+    {
+      "timestamp": 162.0,
+      "description": "A hand is holding the open white cabinet door."
+    },
+    {
+      "timestamp": 163.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 164.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 165.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 166.0,
+      "description": "The person's hand is opening the microwave door."
+    },
+    {
+      "timestamp": 168.0,
+      "description": "The person's hand is placing a bowl inside the microwave."
+    },
+    {
+      "timestamp": 169.0,
+      "description": "The person's hand is closing the microwave door."
+    },
+    {
+      "timestamp": 170.0,
+      "description": "The person's hand is pressing buttons on the microwave control panel."
+    },
+    {
+      "timestamp": 171.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 172.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 173.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 174.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 176.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 177.0,
+      "description": "A hand is holding a carton on the left side of the frame."
+    },
+    {
+      "timestamp": 178.0,
+      "description": "A hand is holding a carton on the left side of the frame."
+    },
+    {
+      "timestamp": 179.0,
+      "description": "A hand is opening the microwave door."
+    },
+    {
+      "timestamp": 180.0,
+      "description": "A hand is placing a bowl inside the microwave."
+    },
+    {
+      "timestamp": 181.0,
+      "description": "A hand is closing the microwave door."
+    },
+    {
+      "timestamp": 182.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 184.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 185.0,
+      "description": "The person is opening the microwave door."
+    },
+    {
+      "timestamp": 186.0,
+      "description": "The person has opened the microwave door."
+    },
+    {
+      "timestamp": 187.0,
+      "description": "A hand is pressing buttons on the microwave control panel."
+    },
+    {
+      "timestamp": 188.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 189.0,
+      "description": "A hand is opening the microwave door."
+    },
+    {
+      "timestamp": 190.0,
+      "description": "A hand is holding the microwave door open."
+    },
+    {
+      "timestamp": 192.0,
+      "description": "The person's hands are out of frame."
+    },
+    {
+      "timestamp": 193.0,
+      "description": "The person's hands are out of frame."
+    },
+    {
+      "timestamp": 194.0,
+      "description": "The person's hands are out of frame."
+    },
+    {
+      "timestamp": 195.0,
+      "description": "A hand is reaching towards the back of the counter near the stove."
+    },
+    {
+      "timestamp": 196.0,
+      "description": "A hand is reaching into the space behind the tablet."
+    },
+    {
+      "timestamp": 197.0,
+      "description": "A hand is positioned near the back of the counter."
+    },
+    {
+      "timestamp": 198.0,
+      "description": "The person's hands are out of frame."
+    },
+    {
+      "timestamp": 200.0,
+      "description": "A hand is reaching for the refrigerator door handle."
+    },
+    {
+      "timestamp": 201.0,
+      "description": "The person's hand is opening the refrigerator."
+    },
+    {
+      "timestamp": 202.0,
+      "description": "The person's hand is opening the refrigerator further."
+    },
+    {
+      "timestamp": 203.0,
+      "description": "The person's hand is reaching into the refrigerator."
+    },
+    {
+      "timestamp": 204.0,
+      "description": "The person's hand is closing the refrigerator."
+    },
+    {
+      "timestamp": 205.0,
+      "description": "The person's hand is holding a green bag."
+    },
+    {
+      "timestamp": 206.0,
+      "description": "The person's hand is holding a knife over a baking sheet."
+    },
+    {
+      "timestamp": 208.0,
+      "description": "The person's hand is holding a knife and moving a baking sheet."
+    },
+    {
+      "timestamp": 209.0,
+      "description": "The person's hand is holding a knife and adjusting a baking sheet."
+    },
+    {
+      "timestamp": 210.0,
+      "description": "The person's hands are out of frame."
+    },
+    {
+      "timestamp": 211.0,
+      "description": "The person's hands are out of frame."
+    },
+    {
+      "timestamp": 212.0,
+      "description": "The person's hands are out of frame."
+    },
+    {
+      "timestamp": 213.0,
+      "description": "A hand is holding a green package."
+    },
+    {
+      "timestamp": 214.0,
+      "description": "The person's hands are out of frame."
+    },
+    {
+      "timestamp": 216.0,
+      "description": "A hand is holding a green package."
+    },
+    {
+      "timestamp": 217.0,
+      "description": "The person's hands are out of frame."
+    },
+    {
+      "timestamp": 218.0,
+      "description": "The person's hands are out of frame."
+    },
+    {
+      "timestamp": 219.0,
+      "description": "Hands are not visible in the frame."
+    },
+    {
+      "timestamp": 220.0,
+      "description": "Hands are not visible in the frame."
+    },
+    {
+      "timestamp": 221.0,
+      "description": "Hands are not visible in the frame."
+    },
+    {
+      "timestamp": 222.0,
+      "description": "A hand is tapping on the tablet screen."
+    },
+    {
+      "timestamp": 224.0,
+      "description": "A hand is opening the cabinet door."
+    },
+    {
+      "timestamp": 225.0,
+      "description": "A hand is reaching into the cabinet."
+    },
+    {
+      "timestamp": 226.0,
+      "description": "A hand is picking up a jar from the cabinet."
+    },
+    {
+      "timestamp": 227.0,
+      "description": "A hand is placing a jar back into the cabinet."
+    },
+    {
+      "timestamp": 228.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 229.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 230.0,
+      "description": "A hand is opening a drawer."
+    },
+    {
+      "timestamp": 232.0,
+      "description": "A hand is reaching into an open drawer."
+    },
+    {
+      "timestamp": 233.0,
+      "description": "A hand is holding a black spoon."
+    },
+    {
+      "timestamp": 234.0,
+      "description": "A hand is placing a spoon on the counter."
+    },
+    {
+      "timestamp": 235.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 236.0,
+      "description": "A hand is picking up a jar of salsa."
+    },
+    {
+      "timestamp": 237.0,
+      "description": "The person's hand is reaching into the open cabinet."
+    },
+    {
+      "timestamp": 238.0,
+      "description": "The person's hand is inside the cabinet, seemingly selecting an item."
+    },
+    {
+      "timestamp": 240.0,
+      "description": "The person's hand is pulling a jar from the cabinet shelf."
+    },
+    {
+      "timestamp": 241.0,
+      "description": "The person's hand is removing a jar from the cabinet."
+    },
+    {
+      "timestamp": 242.0,
+      "description": "The person's hand is placing a jar on the counter."
+    },
+    {
+      "timestamp": 243.0,
+      "description": "The person's hand is reaching to close the cabinet door."
+    },
+    {
+      "timestamp": 244.0,
+      "description": "The person's hand is closing the cabinet door."
+    },
+    {
+      "timestamp": 245.0,
+      "description": "The person's hand is finishing closing the cabinet door."
+    },
+    {
+      "timestamp": 247.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 248.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 249.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 250.0,
+      "description": "A finger is touching the tablet screen."
+    },
+    {
+      "timestamp": 252.0,
+      "description": "A finger is touching the tablet screen."
+    },
+    {
+      "timestamp": 253.0,
+      "description": "A finger is touching the tablet screen."
+    },
+    {
+      "timestamp": 254.0,
+      "description": "A finger is touching the tablet screen."
+    },
+    {
+      "timestamp": 255.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 256.0,
+      "description": "The person's hands are not visible in the frame."
+    },
+    {
+      "timestamp": 257.0,
+      "description": "The person's hand is gripping the refrigerator handle."
+    },
+    {
+      "timestamp": 258.0,
+      "description": "The person's hand is pulling the refrigerator door open."
+    },
+    {
+      "timestamp": 259.0,
+      "description": "The person's hand is holding the refrigerator door ajar."
+    },
+    {
+      "timestamp": 260.0,
+      "description": "The person's hand is holding the refrigerator door open."
+    },
+    {
+      "timestamp": 261.0,
+      "description": "The person's hand is holding the refrigerator door open."
+    },
+    {
+      "timestamp": 262.0,
+      "description": "The person's hand is holding the refrigerator door open."
+    },
+    {
+      "timestamp": 264.0,
+      "description": "The person's hand is holding the refrigerator door open."
+    },
+    {
+      "timestamp": 265.0,
+      "description": "The person's hand is reaching for items inside the refrigerator."
+    },
+    {
+      "timestamp": 266.0,
+      "description": "The person's hand is inside the refrigerator, near items on a shelf."
+    },
+    {
+      "timestamp": 267.0,
+      "description": "The person's hand is reaching for items inside the refrigerator."
+    },
+    {
+      "timestamp": 268.0,
+      "description": "The person's hand is pulling a package from the refrigerator shelf."
+    },
+    {
+      "timestamp": 269.0,
+      "description": "The person's hand is closing the refrigerator door."
+    },
+    {
+      "timestamp": 270.0,
+      "description": "The person's hand is not visible as the refrigerator door is closed."
+    },
+    {
+      "timestamp": 272.0,
+      "description": "The person's hand is not visible in the frame."
+    },
+    {
+      "timestamp": 273.0,
+      "description": "The person's hand is not visible in the frame."
+    },
+    {
+      "timestamp": 274.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 275.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 276.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 277.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 278.0,
+      "description": "A hand is placing a box of blueberry muffins on the counter."
+    },
+    {
+      "timestamp": 280.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 281.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 282.0,
+      "description": "A hand is holding a small object or utensil near the stovetop."
+    },
+    {
+      "timestamp": 283.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 284.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 285.0,
+      "description": "A hand is briefly visible on the left side."
+    },
+    {
+      "timestamp": 286.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 288.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 289.0,
+      "description": "A hand is opening the microwave door."
+    },
+    {
+      "timestamp": 290.0,
+      "description": "A hand is placing a cup into the microwave."
+    },
+    {
+      "timestamp": 291.0,
+      "description": "A hand is pressing buttons on the microwave."
+    },
+    {
+      "timestamp": 292.0,
+      "description": "The person's hand is pressing buttons on the microwave."
+    },
+    {
+      "timestamp": 293.0,
+      "description": "The person's hand is pressing buttons on the microwave."
+    },
+    {
+      "timestamp": 294.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 296.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 297.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 298.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 299.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 300.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 301.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 302.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 304.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 305.0,
+      "description": "A hand is pulling open the microwave door."
+    },
+    {
+      "timestamp": 306.0,
+      "description": "A hand is holding the microwave door open."
+    },
+    {
+      "timestamp": 307.0,
+      "description": "A hand is pressing buttons on the microwave control panel."
+    },
+    {
+      "timestamp": 308.0,
+      "description": "A hand is pressing buttons on the microwave control panel."
+    },
+    {
+      "timestamp": 309.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 310.0,
+      "description": "A hand is reaching inside the microwave."
+    },
+    {
+      "timestamp": 312.0,
+      "description": "A hand is pulling the microwave door shut."
+    },
+    {
+      "timestamp": 313.0,
+      "description": "A hand is continuing to close the microwave door."
+    },
+    {
+      "timestamp": 314.0,
+      "description": "The microwave door is fully closed, and the hand is no longer visible."
+    },
+    {
+      "timestamp": 315.0,
+      "description": "No hands are visible in the frame."
+    },
+    {
+      "timestamp": 316.0,
+      "description": "No hands are visible in the frame."
+    },
+    {
+      "timestamp": 317.0,
+      "description": "No hands are visible in the frame."
+    },
+    {
+      "timestamp": 318.0,
+      "description": "No hands are visible in the frame."
+    },
+    {
+      "timestamp": 320.32,
+      "description": "(caption unavailable)"
+    },
+    {
+      "timestamp": 321.321,
+      "description": "(caption unavailable)"
+    },
+    {
+      "timestamp": 322.322,
+      "description": "(caption unavailable)"
+    },
+    {
+      "timestamp": 323.8235,
+      "description": "(caption unavailable)"
+    },
+    {
+      "timestamp": 324.8245,
+      "description": "(caption unavailable)"
+    },
+    {
+      "timestamp": 325.82550000000003,
+      "description": "(caption unavailable)"
+    },
+    {
+      "timestamp": 326.8265,
+      "description": "(caption unavailable)"
+    },
+    {
+      "timestamp": 328.32800000000003,
+      "description": "(caption unavailable)"
+    },
+    {
+      "timestamp": 329.0,
+      "description": "The person's hands are holding food on a cutting board."
+    },
+    {
+      "timestamp": 330.0,
+      "description": "The person's hands are holding food on a cutting board."
+    },
+    {
+      "timestamp": 331.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 332.0,
+      "description": "A hand is holding a small white cup on the cutting board."
+    },
+    {
+      "timestamp": 333.0,
+      "description": "A hand is holding a small white cup."
+    },
+    {
+      "timestamp": 334.0,
+      "description": "A hand is holding a small white cup."
+    },
+    {
+      "timestamp": 336.0,
+      "description": "A hand is holding a small white cup."
+    },
+    {
+      "timestamp": 337.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 338.0,
+      "description": "A hand is touching the screen of a tablet."
+    },
+    {
+      "timestamp": 339.0,
+      "description": "No hands are visible in the frame."
+    },
+    {
+      "timestamp": 340.0,
+      "description": "No hands are visible in the frame."
+    },
+    {
+      "timestamp": 341.0,
+      "description": "No hands are visible in the frame."
+    }
+  ],
+  "ground_truth": [
+    {
+      "step_id": 1,
+      "start_time": 1.3719999999999999,
+      "end_time": 31.659,
+      "description": "Pour-Pour 1 egg into the ramekin cup",
+      "has_errors": true
+    },
+    {
+      "step_id": 12,
+      "start_time": 40.805,
+      "end_time": 83.385,
+      "description": "Cut -Cut the English muffin into two pieces with a knife",
+      "has_errors": false
+    },
+    {
+      "step_id": 4,
+      "start_time": 87.014,
+      "end_time": 149.567,
+      "description": "Microwave-Microwave the ramekin cup uncovered on high for 30 seconds",
+      "has_errors": false
+    },
+    {
+      "step_id": 11,
+      "start_time": 150.39274015722512,
+      "end_time": 161.876,
+      "description": "stir-stir the ramekin cup",
+      "has_errors": true
+    },
+    {
+      "step_id": 8,
+      "start_time": 164.21938243817988,
+      "end_time": 194.062,
+      "description": "Microwave -Continue to Microwave for 15-30 more seconds or until the egg is almost set",
+      "has_errors": false
+    },
+    {
+      "step_id": 9,
+      "start_time": 200.993,
+      "end_time": 217.179,
+      "description": "Line -Line the bottom piece of the English muffin with lettuce",
+      "has_errors": true
+    },
+    {
+      "step_id": 6,
+      "start_time": 219.01385369974128,
+      "end_time": 245.179,
+      "description": "Top -Top cup with 1 tablespoon of salsa",
+      "has_errors": false
+    },
+    {
+      "step_id": 5,
+      "start_time": 255.88489978228725,
+      "end_time": 286.39,
+      "description": "sprinkle -sprinkle 1 tablespoon of cheese on cup",
+      "has_errors": true
+    },
+    {
+      "step_id": 10,
+      "start_time": 287.29356866741904,
+      "end_time": 315.925,
+      "description": "Microwave -Microwave just until cheese melts, about 10 seconds",
+      "has_errors": true
+    },
+    {
+      "step_id": 2,
+      "start_time": 316.8245453909397,
+      "end_time": 332.213,
+      "description": "Place -Place the egg from the cup over the lettuce",
+      "has_errors": false
+    },
+    {
+      "step_id": 7,
+      "start_time": 333.72377484543995,
+      "end_time": 335.7721662944703,
+      "description": "replace -replace the top of the English muffin",
+      "has_errors": true
+    },
+    {
+      "step_id": 3,
+      "start_time": -1.0,
+      "end_time": -1.0,
+      "description": "Coat -Coat a 6-oz. ramekin cup with cooking spray",
+      "has_errors": true
+    }
+  ],
+  "predictions": [
+    {
+      "step_index": 1,
+      "description": "Pour-Pour 1 egg into the ramekin cup",
+      "start_time": 27.0,
+      "end_time": 28.0,
+      "confidence": 0.5
+    },
+    {
+      "step_index": 2,
+      "description": "Cut -Cut the English muffin into two pieces with a knife",
+      "start_time": -1.0,
+      "end_time": -1.0,
+      "confidence": 0.5
+    },
+    {
+      "step_index": 3,
+      "description": "Microwave-Microwave the ramekin cup uncovered on high for 30 seconds",
+      "start_time": 91.0,
+      "end_time": 96.0,
+      "confidence": 0.5
+    },
+    {
+      "step_index": 4,
+      "description": "stir-stir the ramekin cup",
+      "start_time": -1.0,
+      "end_time": -1.0,
+      "confidence": 0.5
+    },
+    {
+      "step_index": 5,
+      "description": "Microwave -Continue to Microwave for 15-30 more seconds or until the egg is almost set",
+      "start_time": 146.0,
+      "end_time": 170.0,
+      "confidence": 0.5
+    },
+    {
+      "step_index": 6,
+      "description": "Line -Line the bottom piece of the English muffin with lettuce",
+      "start_time": -1.0,
+      "end_time": -1.0,
+      "confidence": 0.5
+    },
+    {
+      "step_index": 7,
+      "description": "Top -Top cup with 1 tablespoon of salsa",
+      "start_time": -1.0,
+      "end_time": -1.0,
+      "confidence": 0.5
+    },
+    {
+      "step_index": 8,
+      "description": "sprinkle -sprinkle 1 tablespoon of cheese on cup",
+      "start_time": -1.0,
+      "end_time": -1.0,
+      "confidence": 0.5
+    },
+    {
+      "step_index": 9,
+      "description": "Microwave -Microwave just until cheese melts, about 10 seconds",
+      "start_time": 289.0,
+      "end_time": 293.0,
+      "confidence": 0.5
+    },
+    {
+      "step_index": 10,
+      "description": "Place -Place the egg from the cup over the lettuce",
+      "start_time": -1.0,
+      "end_time": -1.0,
+      "confidence": 0.5
+    },
+    {
+      "step_index": 11,
+      "description": "replace -replace the top of the English muffin",
+      "start_time": -1.0,
+      "end_time": -1.0,
+      "confidence": 0.5
+    },
+    {
+      "step_index": 12,
+      "description": "Coat -Coat a 6-oz. ramekin cup with cooking spray",
+      "start_time": -1.0,
+      "end_time": -1.0,
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "mean_iou": 0.03390276952211151,
+    "per_step_iou": [
+      0.03301746623964077,
+      0.0,
+      0.07993221747957731,
+      0.0,
+      0.12027417839083103,
+      0.0,
+      0.0,
+      0.0,
+      0.13970660263317758,
+      0.0,
+      0.0
+    ],
+    "recall_at_1_iou_0.3": 0.0,
+    "recall_at_1_iou_0.5": 0.0,
+    "recall_at_1_iou_0.7": 0.0,
+    "step_detection_rate": 0.36363636363636365,
+    "ordering_compliance": 1.0,
+    "num_gt_steps": 11,
+    "num_predictions": 11
+  },
+  "recording_id": "1_34",
+  "dataset": "captaincook4d"
+}

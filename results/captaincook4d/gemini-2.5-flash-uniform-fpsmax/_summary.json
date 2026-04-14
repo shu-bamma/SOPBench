@@ -1,0 +1,13 @@
+{
+  "mode": "uniform",
+  "fps": "max",
+  "num_videos": 3,
+  "aggregate": {
+    "mean_iou": 0.46168454162609107,
+    "recall_at_1_iou_0.3": 0.6631224525961368,
+    "recall_at_1_iou_0.5": 0.5188729399255715,
+    "recall_at_1_iou_0.7": 0.21637426900584797,
+    "step_detection_rate": 1.0,
+    "ordering_compliance": 1.0
+  }
+}

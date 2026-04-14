@@ -1,0 +1,12 @@
+{
+  "config": "pro-fps2-mmss",
+  "model": "gemini-2.5-pro",
+  "audio": "on",
+  "num_videos": 5,
+  "aggregate": {
+    "mean_iou": 0.3459529318426948,
+    "recall_at_1_iou_0.3": 0.45537970801128697,
+    "recall_at_1_iou_0.5": 0.3345192818877029,
+    "recall_at_1_iou_0.7": 0.18363390994969941
+  }
+}

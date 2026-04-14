@@ -1,0 +1,13 @@
+{
+  "mode": "adaptive",
+  "fps": "1",
+  "num_videos": 5,
+  "aggregate": {
+    "mean_iou": 0.24564624281871938,
+    "recall_at_1_iou_0.3": 0.34855436960700115,
+    "recall_at_1_iou_0.5": 0.27451028503660085,
+    "recall_at_1_iou_0.7": 0.08888888888888888,
+    "step_detection_rate": 1.0,
+    "ordering_compliance": 0.9400000000000001
+  }
+}

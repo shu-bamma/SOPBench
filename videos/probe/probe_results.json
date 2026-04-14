@@ -1,0 +1,675 @@
+[
+  {
+    "label": "fps=1 int-sec",
+    "accuracy": 0.0,
+    "correct": 0,
+    "total": 9,
+    "details": [
+      {
+        "query_ts": "00:02",
+        "resolved_sec": 2.0,
+        "gt_key": "2.00",
+        "expected": "T9NT",
+        "predicted": "ZBIK",
+        "match": false
+      },
+      {
+        "query_ts": "00:05",
+        "resolved_sec": 5.0,
+        "gt_key": "5.00",
+        "expected": "UJV6",
+        "predicted": "DBDW",
+        "match": false
+      },
+      {
+        "query_ts": "00:08",
+        "resolved_sec": 8.0,
+        "gt_key": "8.00",
+        "expected": "53LC",
+        "predicted": "C11E",
+        "match": false
+      },
+      {
+        "query_ts": "00:12",
+        "resolved_sec": 12.0,
+        "gt_key": "12.00",
+        "expected": "I7P5",
+        "predicted": "874F",
+        "match": false
+      },
+      {
+        "query_ts": "00:15",
+        "resolved_sec": 15.0,
+        "gt_key": "15.00",
+        "expected": "PVS7",
+        "predicted": "YKL1",
+        "match": false
+      },
+      {
+        "query_ts": "00:18",
+        "resolved_sec": 18.0,
+        "gt_key": "18.00",
+        "expected": "PJA1",
+        "predicted": "PAC5",
+        "match": false
+      },
+      {
+        "query_ts": "00:21",
+        "resolved_sec": 21.0,
+        "gt_key": "21.00",
+        "expected": "I3QK",
+        "predicted": "L58K",
+        "match": false
+      },
+      {
+        "query_ts": "00:25",
+        "resolved_sec": 25.0,
+        "gt_key": "25.00",
+        "expected": "PHR6",
+        "predicted": "WM31",
+        "match": false
+      },
+      {
+        "query_ts": "00:28",
+        "resolved_sec": 28.0,
+        "gt_key": "28.00",
+        "expected": "3T60",
+        "predicted": "1SWJ",
+        "match": false
+      }
+    ],
+    "fps": 1,
+    "query_type": "integer_seconds"
+  },
+  {
+    "label": "fps=2 int-sec",
+    "accuracy": 0.0,
+    "correct": 0,
+    "total": 9,
+    "details": [
+      {
+        "query_ts": "00:02",
+        "resolved_sec": 2.0,
+        "gt_key": "2.00",
+        "expected": "T9NT",
+        "predicted": "4V30",
+        "match": false
+      },
+      {
+        "query_ts": "00:05",
+        "resolved_sec": 5.0,
+        "gt_key": "5.00",
+        "expected": "UJV6",
+        "predicted": "6QJI",
+        "match": false
+      },
+      {
+        "query_ts": "00:08",
+        "resolved_sec": 8.0,
+        "gt_key": "8.00",
+        "expected": "53LC",
+        "predicted": "ALA7",
+        "match": false
+      },
+      {
+        "query_ts": "00:12",
+        "resolved_sec": 12.0,
+        "gt_key": "12.00",
+        "expected": "I7P5",
+        "predicted": "GQPK",
+        "match": false
+      },
+      {
+        "query_ts": "00:15",
+        "resolved_sec": 15.0,
+        "gt_key": "15.00",
+        "expected": "PVS7",
+        "predicted": "6IVW",
+        "match": false
+      },
+      {
+        "query_ts": "00:18",
+        "resolved_sec": 18.0,
+        "gt_key": "18.00",
+        "expected": "PJA1",
+        "predicted": "R64D",
+        "match": false
+      },
+      {
+        "query_ts": "00:21",
+        "resolved_sec": 21.0,
+        "gt_key": "21.00",
+        "expected": "I3QK",
+        "predicted": "2D54",
+        "match": false
+      },
+      {
+        "query_ts": "00:25",
+        "resolved_sec": 25.0,
+        "gt_key": "25.00",
+        "expected": "PHR6",
+        "predicted": "PUXQ",
+        "match": false
+      },
+      {
+        "query_ts": "00:28",
+        "resolved_sec": 28.0,
+        "gt_key": "28.00",
+        "expected": "3T60",
+        "predicted": "6WZS",
+        "match": false
+      }
+    ],
+    "fps": 2,
+    "query_type": "integer_seconds"
+  },
+  {
+    "label": "fps=4 int-sec",
+    "accuracy": 1.0,
+    "correct": 9,
+    "total": 9,
+    "details": [
+      {
+        "query_ts": "00:02",
+        "resolved_sec": 2.0,
+        "gt_key": "2.00",
+        "expected": "T9NT",
+        "predicted": "T9NT",
+        "match": true
+      },
+      {
+        "query_ts": "00:05",
+        "resolved_sec": 5.0,
+        "gt_key": "5.00",
+        "expected": "UJV6",
+        "predicted": "UJV6",
+        "match": true
+      },
+      {
+        "query_ts": "00:08",
+        "resolved_sec": 8.0,
+        "gt_key": "8.00",
+        "expected": "53LC",
+        "predicted": "53LC",
+        "match": true
+      },
+      {
+        "query_ts": "00:12",
+        "resolved_sec": 12.0,
+        "gt_key": "12.00",
+        "expected": "I7P5",
+        "predicted": "I7P5",
+        "match": true
+      },
+      {
+        "query_ts": "00:15",
+        "resolved_sec": 15.0,
+        "gt_key": "15.00",
+        "expected": "PVS7",
+        "predicted": "PVS7",
+        "match": true
+      },
+      {
+        "query_ts": "00:18",
+        "resolved_sec": 18.0,
+        "gt_key": "18.00",
+        "expected": "PJA1",
+        "predicted": "PJA1",
+        "match": true
+      },
+      {
+        "query_ts": "00:21",
+        "resolved_sec": 21.0,
+        "gt_key": "21.00",
+        "expected": "I3QK",
+        "predicted": "I3QK",
+        "match": true
+      },
+      {
+        "query_ts": "00:25",
+        "resolved_sec": 25.0,
+        "gt_key": "25.00",
+        "expected": "PHR6",
+        "predicted": "PHR6",
+        "match": true
+      },
+      {
+        "query_ts": "00:28",
+        "resolved_sec": 28.0,
+        "gt_key": "28.00",
+        "expected": "3T60",
+        "predicted": "3T60",
+        "match": true
+      }
+    ],
+    "fps": 4,
+    "query_type": "integer_seconds"
+  },
+  {
+    "label": "fps=8 int-sec",
+    "accuracy": 1.0,
+    "correct": 9,
+    "total": 9,
+    "details": [
+      {
+        "query_ts": "00:02",
+        "resolved_sec": 2.0,
+        "gt_key": "2.00",
+        "expected": "T9NT",
+        "predicted": "T9NT",
+        "match": true
+      },
+      {
+        "query_ts": "00:05",
+        "resolved_sec": 5.0,
+        "gt_key": "5.00",
+        "expected": "UJV6",
+        "predicted": "UJV6",
+        "match": true
+      },
+      {
+        "query_ts": "00:08",
+        "resolved_sec": 8.0,
+        "gt_key": "8.00",
+        "expected": "53LC",
+        "predicted": "53LC",
+        "match": true
+      },
+      {
+        "query_ts": "00:12",
+        "resolved_sec": 12.0,
+        "gt_key": "12.00",
+        "expected": "I7P5",
+        "predicted": "I7P5",
+        "match": true
+      },
+      {
+        "query_ts": "00:15",
+        "resolved_sec": 15.0,
+        "gt_key": "15.00",
+        "expected": "PVS7",
+        "predicted": "PVS7",
+        "match": true
+      },
+      {
+        "query_ts": "00:18",
+        "resolved_sec": 18.0,
+        "gt_key": "18.00",
+        "expected": "PJA1",
+        "predicted": "PJA1",
+        "match": true
+      },
+      {
+        "query_ts": "00:21",
+        "resolved_sec": 21.0,
+        "gt_key": "21.00",
+        "expected": "I3QK",
+        "predicted": "I3QK",
+        "match": true
+      },
+      {
+        "query_ts": "00:25",
+        "resolved_sec": 25.0,
+        "gt_key": "25.00",
+        "expected": "PHR6",
+        "predicted": "PHR6",
+        "match": true
+      },
+      {
+        "query_ts": "00:28",
+        "resolved_sec": 28.0,
+        "gt_key": "28.00",
+        "expected": "3T60",
+        "predicted": "3T60",
+        "match": true
+      }
+    ],
+    "fps": 8,
+    "query_type": "integer_seconds"
+  },
+  {
+    "label": "fps=1 sub-sec",
+    "accuracy": 0.25,
+    "correct": 3,
+    "total": 12,
+    "details": [
+      {
+        "query_ts": "00:02.00",
+        "resolved_sec": 2.0,
+        "gt_key": "2.00",
+        "expected": "T9NT",
+        "predicted": "ZBIK",
+        "match": false
+      },
+      {
+        "query_ts": "00:02.25",
+        "resolved_sec": 2.25,
+        "gt_key": "2.25",
+        "expected": "3W5U",
+        "predicted": "ZBIK",
+        "match": false
+      },
+      {
+        "query_ts": "00:02.50",
+        "resolved_sec": 2.5,
+        "gt_key": "2.50",
+        "expected": "ZBIK",
+        "predicted": "ZBIK",
+        "match": true
+      },
+      {
+        "query_ts": "00:02.75",
+        "resolved_sec": 2.75,
+        "gt_key": "2.75",
+        "expected": "CIDK",
+        "predicted": "ZBIK",
+        "match": false
+      },
+      {
+        "query_ts": "00:10.00",
+        "resolved_sec": 10.0,
+        "gt_key": "10.00",
+        "expected": "CWI6",
+        "predicted": "HE7U",
+        "match": false
+      },
+      {
+        "query_ts": "00:10.25",
+        "resolved_sec": 10.25,
+        "gt_key": "10.25",
+        "expected": "4CIY",
+        "predicted": "HE7U",
+        "match": false
+      },
+      {
+        "query_ts": "00:10.50",
+        "resolved_sec": 10.5,
+        "gt_key": "10.50",
+        "expected": "HE7U",
+        "predicted": "HE7U",
+        "match": true
+      },
+      {
+        "query_ts": "00:10.75",
+        "resolved_sec": 10.75,
+        "gt_key": "10.75",
+        "expected": "R23G",
+        "predicted": "HE7U",
+        "match": false
+      },
+      {
+        "query_ts": "00:20.00",
+        "resolved_sec": 20.0,
+        "gt_key": "20.00",
+        "expected": "5935",
+        "predicted": "253J",
+        "match": false
+      },
+      {
+        "query_ts": "00:20.25",
+        "resolved_sec": 20.25,
+        "gt_key": "20.25",
+        "expected": "A0L7",
+        "predicted": "253J",
+        "match": false
+      },
+      {
+        "query_ts": "00:20.50",
+        "resolved_sec": 20.5,
+        "gt_key": "20.50",
+        "expected": "253J",
+        "predicted": "253J",
+        "match": true
+      },
+      {
+        "query_ts": "00:20.75",
+        "resolved_sec": 20.75,
+        "gt_key": "20.75",
+        "expected": "2D54",
+        "predicted": "253J",
+        "match": false
+      }
+    ],
+    "fps": 1,
+    "query_type": "sub_second"
+  },
+  {
+    "label": "fps=2 sub-sec",
+    "accuracy": 0.5,
+    "correct": 6,
+    "total": 12,
+    "details": [
+      {
+        "query_ts": "00:02.00",
+        "resolved_sec": 2.0,
+        "gt_key": "2.00",
+        "expected": "T9NT",
+        "predicted": "3W5U",
+        "match": false
+      },
+      {
+        "query_ts": "00:02.25",
+        "resolved_sec": 2.25,
+        "gt_key": "2.25",
+        "expected": "3W5U",
+        "predicted": "3W5U",
+        "match": true
+      },
+      {
+        "query_ts": "00:02.50",
+        "resolved_sec": 2.5,
+        "gt_key": "2.50",
+        "expected": "ZBIK",
+        "predicted": "CIDK",
+        "match": false
+      },
+      {
+        "query_ts": "00:02.75",
+        "resolved_sec": 2.75,
+        "gt_key": "2.75",
+        "expected": "CIDK",
+        "predicted": "CIDK",
+        "match": true
+      },
+      {
+        "query_ts": "00:10.00",
+        "resolved_sec": 10.0,
+        "gt_key": "10.00",
+        "expected": "CWI6",
+        "predicted": "4CIY",
+        "match": false
+      },
+      {
+        "query_ts": "00:10.25",
+        "resolved_sec": 10.25,
+        "gt_key": "10.25",
+        "expected": "4CIY",
+        "predicted": "4CIY",
+        "match": true
+      },
+      {
+        "query_ts": "00:10.50",
+        "resolved_sec": 10.5,
+        "gt_key": "10.50",
+        "expected": "HE7U",
+        "predicted": "R23G",
+        "match": false
+      },
+      {
+        "query_ts": "00:10.75",
+        "resolved_sec": 10.75,
+        "gt_key": "10.75",
+        "expected": "R23G",
+        "predicted": "R23G",
+        "match": true
+      },
+      {
+        "query_ts": "00:20.00",
+        "resolved_sec": 20.0,
+        "gt_key": "20.00",
+        "expected": "5935",
+        "predicted": "A0L7",
+        "match": false
+      },
+      {
+        "query_ts": "00:20.25",
+        "resolved_sec": 20.25,
+        "gt_key": "20.25",
+        "expected": "A0L7",
+        "predicted": "A0L7",
+        "match": true
+      },
+      {
+        "query_ts": "00:20.50",
+        "resolved_sec": 20.5,
+        "gt_key": "20.50",
+        "expected": "253J",
+        "predicted": "2D54",
+        "match": false
+      },
+      {
+        "query_ts": "00:20.75",
+        "resolved_sec": 20.75,
+        "gt_key": "20.75",
+        "expected": "2D54",
+        "predicted": "2D54",
+        "match": true
+      }
+    ],
+    "fps": 2,
+    "query_type": "sub_second"
+  },
+  {
+    "label": "fps=4 sub-sec",
+    "accuracy": 0.0,
+    "correct": 0,
+    "total": 12,
+    "details": [
+      {
+        "query_ts": "00:02.00",
+        "resolved_sec": 2.0,
+        "gt_key": "2.00",
+        "expected": "T9NT",
+        "predicted": "4V30",
+        "match": false
+      },
+      {
+        "query_ts": "00:02.25",
+        "resolved_sec": 2.25,
+        "gt_key": "2.25",
+        "expected": "3W5U",
+        "predicted": "T9NT",
+        "match": false
+      },
+      {
+        "query_ts": "00:02.50",
+        "resolved_sec": 2.5,
+        "gt_key": "2.50",
+        "expected": "ZBIK",
+        "predicted": "3W5U",
+        "match": false
+      },
+      {
+        "query_ts": "00:02.75",
+        "resolved_sec": 2.75,
+        "gt_key": "2.75",
+        "expected": "CIDK",
+        "predicted": "ZBIK",
+        "match": false
+      },
+      {
+        "query_ts": "00:10.00",
+        "resolved_sec": 10.0,
+        "gt_key": "10.00",
+        "expected": "CWI6",
+        "predicted": "MVIH",
+        "match": false
+      },
+      {
+        "query_ts": "00:10.25",
+        "resolved_sec": 10.25,
+        "gt_key": "10.25",
+        "expected": "4CIY",
+        "predicted": "CWI6",
+        "match": false
+      },
+      {
+        "query_ts": "00:10.50",
+        "resolved_sec": 10.5,
+        "gt_key": "10.50",
+        "expected": "HE7U",
+        "predicted": "4CIY",
+        "match": false
+      },
+      {
+        "query_ts": "00:10.75",
+        "resolved_sec": 10.75,
+        "gt_key": "10.75",
+        "expected": "R23G",
+        "predicted": "HE7U",
+        "match": false
+      },
+      {
+        "query_ts": "00:20.00",
+        "resolved_sec": 20.0,
+        "gt_key": "20.00",
+        "expected": "5935",
+        "predicted": "OWF7",
+        "match": false
+      },
+      {
+        "query_ts": "00:20.25",
+        "resolved_sec": 20.25,
+        "gt_key": "20.25",
+        "expected": "A0L7",
+        "predicted": "5935",
+        "match": false
+      },
+      {
+        "query_ts": "00:20.50",
+        "resolved_sec": 20.5,
+        "gt_key": "20.50",
+        "expected": "253J",
+        "predicted": "A0L7",
+        "match": false
+      },
+      {
+        "query_ts": "00:20.75",
+        "resolved_sec": 20.75,
+        "gt_key": "20.75",
+        "expected": "2D54",
+        "predicted": "253J",
+        "match": false
+      }
+    ],
+    "fps": 4,
+    "query_type": "sub_second"
+  },
+  {
+    "label": "fps=1 list-codes-5s",
+    "fps": 1,
+    "query_type": "list_all_5s",
+    "codes_reported": 5,
+    "codes_correct": 4,
+    "expected_frames": 5,
+    "gt_total": 20
+  },
+  {
+    "label": "fps=2 list-codes-5s",
+    "fps": 2,
+    "query_type": "list_all_5s",
+    "codes_reported": 10,
+    "codes_correct": 9,
+    "expected_frames": 10,
+    "gt_total": 20
+  },
+  {
+    "label": "fps=4 list-codes-5s",
+    "fps": 4,
+    "query_type": "list_all_5s",
+    "codes_reported": 20,
+    "codes_correct": 19,
+    "expected_frames": 20,
+    "gt_total": 20
+  }
+]

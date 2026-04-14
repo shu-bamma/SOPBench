@@ -1,0 +1,1362 @@
+{
+  "video": "12_51_tomatomozzarellasalad.mp4",
+  "model": "gemini-2.5-flash",
+  "method": "gemini-frames-2pass",
+  "fps": 2.0,
+  "num_frames": 300,
+  "captions": [
+    {
+      "timestamp": 0.0,
+      "description": "The person's hands are resting on the kitchen counter."
+    },
+    {
+      "timestamp": 0.0,
+      "description": "The person's hands are resting on the kitchen counter."
+    },
+    {
+      "timestamp": 1.0,
+      "description": "The person's hands are resting on the kitchen counter."
+    },
+    {
+      "timestamp": 2.0,
+      "description": "The person's right hand is reaching down below the counter."
+    },
+    {
+      "timestamp": 3.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 3.0,
+      "description": "The person's left hand is opening the refrigerator door."
+    },
+    {
+      "timestamp": 4.0,
+      "description": "The person's left hand is holding the refrigerator door open."
+    },
+    {
+      "timestamp": 5.0,
+      "description": "The person's left hand is holding the refrigerator door open."
+    },
+    {
+      "timestamp": 6.0,
+      "description": "A hand reaches into the refrigerator."
+    },
+    {
+      "timestamp": 7.0,
+      "description": "A hand searches among items in the refrigerator."
+    },
+    {
+      "timestamp": 7.0,
+      "description": "A hand continues to search in the refrigerator."
+    },
+    {
+      "timestamp": 8.0,
+      "description": "Both hands reach into the bottom shelf of the refrigerator."
+    },
+    {
+      "timestamp": 9.0,
+      "description": "Hands rummage through items in plastic bags."
+    },
+    {
+      "timestamp": 10.0,
+      "description": "Hands continue to rummage through items."
+    },
+    {
+      "timestamp": 11.0,
+      "description": "A hand pulls a tomato from a bag."
+    },
+    {
+      "timestamp": 11.0,
+      "description": "A hand holds a tomato, pulling it out of the refrigerator."
+    },
+    {
+      "timestamp": 12.0,
+      "description": "The person's hand is opening the refrigerator door."
+    },
+    {
+      "timestamp": 13.0,
+      "description": "The person's hand is closing the refrigerator door."
+    },
+    {
+      "timestamp": 14.0,
+      "description": "The person's hand is closing the refrigerator door."
+    },
+    {
+      "timestamp": 15.0,
+      "description": "One hand is holding a tomato, and the other hand is closing the refrigerator door."
+    },
+    {
+      "timestamp": 15.0,
+      "description": "One hand is holding a red tomato."
+    },
+    {
+      "timestamp": 16.0,
+      "description": "One hand is holding a red tomato."
+    },
+    {
+      "timestamp": 17.0,
+      "description": "The person's hands are not visible in the frame."
+    },
+    {
+      "timestamp": 18.0,
+      "description": "One hand is holding a tomato while the other hand removes its stem over the sink."
+    },
+    {
+      "timestamp": 19.0,
+      "description": "The person's left hand is turning on the faucet while the right hand holds a tomato in a strainer."
+    },
+    {
+      "timestamp": 19.0,
+      "description": "The person's right hand is rinsing a tomato under running water."
+    },
+    {
+      "timestamp": 20.0,
+      "description": "The person's right hand continues to rinse the tomato under the faucet."
+    },
+    {
+      "timestamp": 21.0,
+      "description": "The person's right hand is rinsing the tomato under the running water."
+    },
+    {
+      "timestamp": 22.0,
+      "description": "The person's left hand is turning off the faucet while the right hand holds the tomato."
+    },
+    {
+      "timestamp": 23.0,
+      "description": "The person's right hand is holding the rinsed tomato in the strainer."
+    },
+    {
+      "timestamp": 23.0,
+      "description": "The person's right hand is holding the rinsed tomato in the strainer."
+    },
+    {
+      "timestamp": 24.0,
+      "description": "The person's right hand is reaching for a towel."
+    },
+    {
+      "timestamp": 25.0,
+      "description": "The person's hand is holding a tomato over the sink."
+    },
+    {
+      "timestamp": 26.0,
+      "description": "The person's hands are drying the tomato with a white towel."
+    },
+    {
+      "timestamp": 27.0,
+      "description": "The person's hands are continuing to dry the tomato with a towel."
+    },
+    {
+      "timestamp": 27.0,
+      "description": "The person's hands are holding the tomato wrapped in a towel."
+    },
+    {
+      "timestamp": 28.0,
+      "description": "The person's hands are drying the tomato with a towel."
+    },
+    {
+      "timestamp": 29.0,
+      "description": "The person's hand is holding the dried tomato."
+    },
+    {
+      "timestamp": 30.0,
+      "description": "The person's hand is holding the tomato, inspecting it."
+    },
+    {
+      "timestamp": 31.0,
+      "description": "The person's hands are placing the towel on the counter."
+    },
+    {
+      "timestamp": 31.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 32.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 33.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 34.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 35.0,
+      "description": "A hand is pushing a green cutting board across the counter."
+    },
+    {
+      "timestamp": 35.0,
+      "description": "A hand is adjusting the position of a green cutting board on the counter."
+    },
+    {
+      "timestamp": 36.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 37.0,
+      "description": "One hand is placing a green cutting board on the counter, while the other hand holds a tomato."
+    },
+    {
+      "timestamp": 38.0,
+      "description": "The person's hands are holding a tomato on a cutting board."
+    },
+    {
+      "timestamp": 39.0,
+      "description": "The person's hands are reaching down to open a drawer."
+    },
+    {
+      "timestamp": 39.0,
+      "description": "The person's hands are opening a drawer."
+    },
+    {
+      "timestamp": 40.0,
+      "description": "The person's hand is reaching into the drawer to pick up an item."
+    },
+    {
+      "timestamp": 41.0,
+      "description": "The person's hands are pulling a knife out of the drawer."
+    },
+    {
+      "timestamp": 42.0,
+      "description": "The person's hands are closing the drawer."
+    },
+    {
+      "timestamp": 43.0,
+      "description": "The person's hands are positioning a tomato on the cutting board and holding a knife."
+    },
+    {
+      "timestamp": 43.0,
+      "description": "The person's hands are holding a tomato and a knife, preparing to cut."
+    },
+    {
+      "timestamp": 44.5,
+      "description": "The person's right hand is holding a knife over a tomato, preparing to cut."
+    },
+    {
+      "timestamp": 45.5,
+      "description": "The person's right hand is cutting the tomato with a knife."
+    },
+    {
+      "timestamp": 46.0,
+      "description": "The person's right hand continues to cut the tomato."
+    },
+    {
+      "timestamp": 47.0,
+      "description": "The person's right hand continues to cut the tomato."
+    },
+    {
+      "timestamp": 47.5,
+      "description": "The person's right hand continues to cut the tomato."
+    },
+    {
+      "timestamp": 48.5,
+      "description": "The person's right hand continues to cut the tomato."
+    },
+    {
+      "timestamp": 49.0,
+      "description": "The person's right hand continues to cut the tomato."
+    },
+    {
+      "timestamp": 50.1,
+      "description": "The person's right hand continues to cut the tomato."
+    },
+    {
+      "timestamp": 51.0,
+      "description": "The person's hands are slicing a tomato on a green cutting board."
+    },
+    {
+      "timestamp": 51.0,
+      "description": "The person's hands are slicing a tomato on a green cutting board."
+    },
+    {
+      "timestamp": 52.0,
+      "description": "The person's hands are slicing a tomato on a green cutting board."
+    },
+    {
+      "timestamp": 53.0,
+      "description": "The person's hands are slicing a tomato on a green cutting board."
+    },
+    {
+      "timestamp": 54.0,
+      "description": "The person's hands are slicing a tomato on a green cutting board."
+    },
+    {
+      "timestamp": 55.0,
+      "description": "The person's hands are slicing a tomato on a green cutting board."
+    },
+    {
+      "timestamp": 55.0,
+      "description": "The person's hands are slicing a tomato on a green cutting board."
+    },
+    {
+      "timestamp": 56.0,
+      "description": "The person's hands are slicing a tomato on a green cutting board."
+    },
+    {
+      "timestamp": 57.1,
+      "description": "The person's hands are slicing a tomato on a cutting board."
+    },
+    {
+      "timestamp": 58.1,
+      "description": "The person's hands are slicing a tomato on a cutting board."
+    },
+    {
+      "timestamp": 59.1,
+      "description": "The person's hands are slicing a tomato on a cutting board."
+    },
+    {
+      "timestamp": 59.6,
+      "description": "The person's hands are slicing a tomato on a cutting board."
+    },
+    {
+      "timestamp": 60.6,
+      "description": "The person's hands are slicing a tomato on a cutting board."
+    },
+    {
+      "timestamp": 61.1,
+      "description": "The person's hands are slicing a tomato on a cutting board."
+    },
+    {
+      "timestamp": 62.1,
+      "description": "The person's hands are slicing a tomato on a cutting board."
+    },
+    {
+      "timestamp": 63.1,
+      "description": "The person's hands are slicing a tomato on a cutting board."
+    },
+    {
+      "timestamp": 63.6,
+      "description": "The person's hands are slicing a tomato on a green cutting board."
+    },
+    {
+      "timestamp": 64.6,
+      "description": "The person's hands are slicing a tomato on a green cutting board."
+    },
+    {
+      "timestamp": 65.1,
+      "description": "The person's hands are slicing a tomato on a green cutting board."
+    },
+    {
+      "timestamp": 66.1,
+      "description": "The person's hands are slicing a tomato on a green cutting board."
+    },
+    {
+      "timestamp": 67.1,
+      "description": "The person's hands are slicing a tomato on a green cutting board."
+    },
+    {
+      "timestamp": 67.6,
+      "description": "The person's hands are slicing a tomato on a green cutting board."
+    },
+    {
+      "timestamp": 68.6,
+      "description": "The person's hands are slicing a tomato on a green cutting board."
+    },
+    {
+      "timestamp": 69.1,
+      "description": "The person's hands are slicing a tomato on a green cutting board."
+    },
+    {
+      "timestamp": 70.0,
+      "description": "Hands are cutting a tomato."
+    },
+    {
+      "timestamp": 71.0,
+      "description": "Hands are slicing a tomato into pieces."
+    },
+    {
+      "timestamp": 71.0,
+      "description": "Hands are continuing to cut the tomato."
+    },
+    {
+      "timestamp": 72.0,
+      "description": "The right hand is picking up a small tomato piece."
+    },
+    {
+      "timestamp": 73.0,
+      "description": "The right hand is holding a tomato piece, and the left hand is holding a knife."
+    },
+    {
+      "timestamp": 74.0,
+      "description": "The right hand is holding and moving a tomato piece away from the board."
+    },
+    {
+      "timestamp": 75.0,
+      "description": "The right hand is holding a tomato piece, and the left hand is holding a knife, as the person moves."
+    },
+    {
+      "timestamp": 75.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 76.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 77.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 78.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 79.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 79.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 80.0,
+      "description": "A hand is moving into the sink under running water."
+    },
+    {
+      "timestamp": 81.0,
+      "description": "A hand is under the running water in the sink."
+    },
+    {
+      "timestamp": 82.0,
+      "description": "A hand is reaching for the dish soap bottle."
+    },
+    {
+      "timestamp": 83.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 83.0,
+      "description": "A hand is holding a knife."
+    },
+    {
+      "timestamp": 84.0,
+      "description": "A hand is placing a utensil into a dish rack."
+    },
+    {
+      "timestamp": 85.0,
+      "description": "A hand is reaching into the dish rack."
+    },
+    {
+      "timestamp": 86.0,
+      "description": "A hand is reaching towards items on the counter."
+    },
+    {
+      "timestamp": 87.0,
+      "description": "A hand is touching a stacked bowl."
+    },
+    {
+      "timestamp": 87.0,
+      "description": "A hand is adjusting a stacked bowl."
+    },
+    {
+      "timestamp": 88.0,
+      "description": "Both hands are reaching for items on the counter."
+    },
+    {
+      "timestamp": 89.0,
+      "description": "The hands are reaching for a plate in a stack."
+    },
+    {
+      "timestamp": 90.0,
+      "description": "The hands are gripping a plate within a stack."
+    },
+    {
+      "timestamp": 91.0,
+      "description": "The hands are pulling a plate from the stack."
+    },
+    {
+      "timestamp": 91.0,
+      "description": "The hands are pulling a plate from the stack."
+    },
+    {
+      "timestamp": 92.0,
+      "description": "The hands are lifting a plate from the stack."
+    },
+    {
+      "timestamp": 93.0,
+      "description": "The hands are holding a plate."
+    },
+    {
+      "timestamp": 94.0,
+      "description": "The hands are holding a plate and moving it."
+    },
+    {
+      "timestamp": 95.0,
+      "description": "The hands are holding a plate."
+    },
+    {
+      "timestamp": 95.6,
+      "description": "Left hand holds a plate, right hand rests near sliced tomatoes."
+    },
+    {
+      "timestamp": 96.6,
+      "description": "Right hand reaches for a tomato slice on the cutting board."
+    },
+    {
+      "timestamp": 97.1,
+      "description": "Right hand places a tomato slice onto the plate."
+    },
+    {
+      "timestamp": 98.1,
+      "description": "Right hand reaches for another tomato slice."
+    },
+    {
+      "timestamp": 98.6,
+      "description": "Right hand places a second tomato slice onto the plate."
+    },
+    {
+      "timestamp": 99.6,
+      "description": "Right hand reaches for a third tomato slice."
+    },
+    {
+      "timestamp": 100.6,
+      "description": "Right hand places a third tomato slice onto the plate."
+    },
+    {
+      "timestamp": 101.1,
+      "description": "Right hand reaches for the last tomato slice on the cutting board."
+    },
+    {
+      "timestamp": 102.0,
+      "description": "Right hand places a tomato slice on the plate."
+    },
+    {
+      "timestamp": 102.0,
+      "description": "Both hands arrange tomato slices on the plate."
+    },
+    {
+      "timestamp": 103.0,
+      "description": "Both hands continue arranging tomato slices on the plate."
+    },
+    {
+      "timestamp": 104.0,
+      "description": "Both hands continue arranging tomato slices on the plate."
+    },
+    {
+      "timestamp": 105.0,
+      "description": "Right hand picks up a tomato piece from the cutting board."
+    },
+    {
+      "timestamp": 106.0,
+      "description": "Right hand holds a tomato piece over the cutting board."
+    },
+    {
+      "timestamp": 106.0,
+      "description": "Both hands separate a tomato piece over the plate."
+    },
+    {
+      "timestamp": 107.0,
+      "description": "Both hands continue separating a tomato piece over the plate."
+    },
+    {
+      "timestamp": 108.6,
+      "description": "The hands are arranging sliced tomatoes on a plate."
+    },
+    {
+      "timestamp": 109.1,
+      "description": "The hands are continuing to arrange sliced tomatoes on a plate."
+    },
+    {
+      "timestamp": 110.1,
+      "description": "The hands are moving away from the plate and cutting board."
+    },
+    {
+      "timestamp": 110.6,
+      "description": "The hands are out of view, moving towards the left."
+    },
+    {
+      "timestamp": 111.6,
+      "description": "The hands are out of view, moving towards the right."
+    },
+    {
+      "timestamp": 112.6,
+      "description": "The hands are out of view, moving towards the right."
+    },
+    {
+      "timestamp": 113.1,
+      "description": "One hand is touching the green cutting board."
+    },
+    {
+      "timestamp": 114.1,
+      "description": "The hands are wiping the green cutting board."
+    },
+    {
+      "timestamp": 114.6,
+      "description": "The person's hands are holding a green cutting board with some food residue."
+    },
+    {
+      "timestamp": 115.6,
+      "description": "The person's hands are holding the green cutting board over the sink."
+    },
+    {
+      "timestamp": 116.6,
+      "description": "The right hand is reaching for the faucet while the left hand holds the cutting board."
+    },
+    {
+      "timestamp": 117.1,
+      "description": "The right hand is turning on the faucet."
+    },
+    {
+      "timestamp": 118.1,
+      "description": "The person's hands are holding the cutting board under the running water."
+    },
+    {
+      "timestamp": 118.6,
+      "description": "The person's hands are rinsing the cutting board under the faucet."
+    },
+    {
+      "timestamp": 119.6,
+      "description": "The right hand is turning off the faucet while the left hand holds the cutting board."
+    },
+    {
+      "timestamp": 120.6,
+      "description": "The person's hands are holding the rinsed cutting board over the sink."
+    },
+    {
+      "timestamp": 121.0,
+      "description": "The person's hands are holding a green cutting board."
+    },
+    {
+      "timestamp": 122.0,
+      "description": "The person's hands are placing a green cutting board on the counter."
+    },
+    {
+      "timestamp": 122.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 123.0,
+      "description": "The person's hands are drying with a white towel."
+    },
+    {
+      "timestamp": 124.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 125.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 126.0,
+      "description": "The person's hand is touching a tablet screen."
+    },
+    {
+      "timestamp": 126.0,
+      "description": "The person's hand is touching a tablet screen."
+    },
+    {
+      "timestamp": 127.0,
+      "description": "The person's right hand is touching a tablet screen."
+    },
+    {
+      "timestamp": 128.0,
+      "description": "The person's right hand is holding a white towel on the counter."
+    },
+    {
+      "timestamp": 129.0,
+      "description": "The person's right hand is holding the white towel."
+    },
+    {
+      "timestamp": 130.0,
+      "description": "Both hands are picking up the white towel from the counter."
+    },
+    {
+      "timestamp": 130.0,
+      "description": "Both hands are holding the white towel, preparing to hang it."
+    },
+    {
+      "timestamp": 131.0,
+      "description": "Both hands are hanging the white towel on a hook."
+    },
+    {
+      "timestamp": 132.0,
+      "description": "Both hands are adjusting the white towel on the hook."
+    },
+    {
+      "timestamp": 133.0,
+      "description": "Both hands are still adjusting the white towel on the hook."
+    },
+    {
+      "timestamp": 134.0,
+      "description": "The person's hand is pulling open a cabinet door."
+    },
+    {
+      "timestamp": 134.0,
+      "description": "The person's hand is moving away from the opened cabinet."
+    },
+    {
+      "timestamp": 135.0,
+      "description": "The person's hand is reaching for a roll of paper towels."
+    },
+    {
+      "timestamp": 136.0,
+      "description": "The person's hand is holding a roll of paper towels."
+    },
+    {
+      "timestamp": 137.0,
+      "description": "The person's hand is moving the paper towel roll."
+    },
+    {
+      "timestamp": 138.0,
+      "description": "The person's hands are out of view."
+    },
+    {
+      "timestamp": 138.0,
+      "description": "The person's hands are out of view."
+    },
+    {
+      "timestamp": 139.0,
+      "description": "The person's hands are twisting open a spice jar."
+    },
+    {
+      "timestamp": 140.0,
+      "description": "Right hand is removing the lid from a spice jar over a plate of tomatoes."
+    },
+    {
+      "timestamp": 141.0,
+      "description": "Right hand holds the open spice jar over the plate."
+    },
+    {
+      "timestamp": 142.0,
+      "description": "Right hand is shaking spices from the jar onto the tomatoes."
+    },
+    {
+      "timestamp": 142.0,
+      "description": "Right hand continues to shake spices onto the tomatoes."
+    },
+    {
+      "timestamp": 143.0,
+      "description": "Right hand is shaking spices onto the tomatoes."
+    },
+    {
+      "timestamp": 144.0,
+      "description": "Right hand is shaking spices onto the tomatoes."
+    },
+    {
+      "timestamp": 145.0,
+      "description": "Hands are putting the lid back on the spice jar."
+    },
+    {
+      "timestamp": 146.0,
+      "description": "Hands are securing the lid on the spice jar."
+    },
+    {
+      "timestamp": 146.0,
+      "description": "Left hand holds a spice jar while the right hand sprinkles spices onto a cutting board."
+    },
+    {
+      "timestamp": 147.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 148.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 149.0,
+      "description": "Right hand holds a spice jar near an open cabinet."
+    },
+    {
+      "timestamp": 150.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 150.0,
+      "description": "Right hand reaches towards a plate of tomatoes."
+    },
+    {
+      "timestamp": 151.0,
+      "description": "Right hand mixes spices with tomatoes on a plate."
+    },
+    {
+      "timestamp": 152.0,
+      "description": "Right hand continues to mix spices with tomatoes on a plate."
+    },
+    {
+      "timestamp": 153.0,
+      "description": "Spreading seasoning on tomatoes with hand."
+    },
+    {
+      "timestamp": 154.0,
+      "description": "Spreading seasoning on tomatoes with hand."
+    },
+    {
+      "timestamp": 154.0,
+      "description": "Spreading seasoning on tomatoes with hand."
+    },
+    {
+      "timestamp": 155.0,
+      "description": "Spreading seasoning on tomatoes with hand."
+    },
+    {
+      "timestamp": 156.0,
+      "description": "Spreading seasoning on tomatoes with hand."
+    },
+    {
+      "timestamp": 157.0,
+      "description": "Spreading seasoning on tomatoes with hand."
+    },
+    {
+      "timestamp": 158.0,
+      "description": "Spreading seasoning on tomatoes with hand."
+    },
+    {
+      "timestamp": 158.0,
+      "description": "Spreading seasoning on tomatoes with hand."
+    },
+    {
+      "timestamp": 159.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 160.0,
+      "description": "Right hand is moving into the frame."
+    },
+    {
+      "timestamp": 161.0,
+      "description": "Right hand is resting on the counter."
+    },
+    {
+      "timestamp": 162.0,
+      "description": "Hands are moving towards the sink."
+    },
+    {
+      "timestamp": 162.0,
+      "description": "Hands are washing something in the sink."
+    },
+    {
+      "timestamp": 163.0,
+      "description": "Hands are washing something in the sink."
+    },
+    {
+      "timestamp": 164.0,
+      "description": "Hands are washing something in the sink."
+    },
+    {
+      "timestamp": 165.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 166.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 166.0,
+      "description": "A hand is moving into the bottom right of the frame."
+    },
+    {
+      "timestamp": 167.0,
+      "description": "A hand is resting at the bottom right of the frame."
+    },
+    {
+      "timestamp": 168.0,
+      "description": "A hand is resting at the bottom right of the frame."
+    },
+    {
+      "timestamp": 169.0,
+      "description": "The right hand is reaching up to grab a towel."
+    },
+    {
+      "timestamp": 170.0,
+      "description": "Both hands are holding and adjusting a towel."
+    },
+    {
+      "timestamp": 170.0,
+      "description": "The right hand is picking up a roll of paper towels."
+    },
+    {
+      "timestamp": 171.0,
+      "description": "The right hand is reaching into a cabinet to grab a spice jar."
+    },
+    {
+      "timestamp": 172.0,
+      "description": "The person's hands are holding a black spice grinder over a paper towel."
+    },
+    {
+      "timestamp": 173.0,
+      "description": "The person's hands are holding a black spice grinder, moving it towards the counter."
+    },
+    {
+      "timestamp": 174.0,
+      "description": "The person's hands are holding a black spice grinder over a plate of tomatoes."
+    },
+    {
+      "timestamp": 174.0,
+      "description": "The person's hands are grinding spices over a plate of tomatoes and a green cutting board."
+    },
+    {
+      "timestamp": 175.0,
+      "description": "The left hand is holding a small spice container, while the right hand holds the grinder on the cutting board."
+    },
+    {
+      "timestamp": 176.0,
+      "description": "The right hand is shaking a clear spice shaker over the plate of tomatoes."
+    },
+    {
+      "timestamp": 177.0,
+      "description": "The right hand is shaking a clear spice shaker over the plate of tomatoes."
+    },
+    {
+      "timestamp": 178.0,
+      "description": "The right hand continues to shake a clear spice shaker over the plate of tomatoes."
+    },
+    {
+      "timestamp": 178.0,
+      "description": "The person's right hand is sprinkling seasoning onto tomatoes."
+    },
+    {
+      "timestamp": 179.0,
+      "description": "The person's hands are holding a spice grinder."
+    },
+    {
+      "timestamp": 180.0,
+      "description": "The person's right hand is holding an avocado, and the left hand is holding a spice grinder."
+    },
+    {
+      "timestamp": 181.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 182.0,
+      "description": "The person's right hand is holding an avocado."
+    },
+    {
+      "timestamp": 182.0,
+      "description": "The person's right hand is holding an avocado."
+    },
+    {
+      "timestamp": 183.0,
+      "description": "The person's right hand is reaching for a spice jar in a cabinet."
+    },
+    {
+      "timestamp": 184.0,
+      "description": "The person's right hand is reaching for a spice jar in a cabinet."
+    },
+    {
+      "timestamp": 185.0,
+      "description": "The person's hand is reaching for a salt container on the shelf."
+    },
+    {
+      "timestamp": 186.0,
+      "description": "The person is holding a salt container with both hands."
+    },
+    {
+      "timestamp": 186.0,
+      "description": "The person's hands are twisting the lid of the salt container."
+    },
+    {
+      "timestamp": 187.0,
+      "description": "The person is holding the open salt container over a plate of tomatoes."
+    },
+    {
+      "timestamp": 188.0,
+      "description": "The person is sprinkling salt onto the tomatoes."
+    },
+    {
+      "timestamp": 189.0,
+      "description": "The person continues to sprinkle salt onto the tomatoes."
+    },
+    {
+      "timestamp": 190.0,
+      "description": "The person is holding the salt container over the plate."
+    },
+    {
+      "timestamp": 190.0,
+      "description": "The person is moving the salt container away from the plate."
+    },
+    {
+      "timestamp": 191.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 192.0,
+      "description": "A hand is picking up a container from the cabinet."
+    },
+    {
+      "timestamp": 193.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 193.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 194.0,
+      "description": "A hand is touching the laptop screen."
+    },
+    {
+      "timestamp": 195.0,
+      "description": "A hand is tapping the laptop screen."
+    },
+    {
+      "timestamp": 196.0,
+      "description": "A hand is resting on the laptop's keyboard cover."
+    },
+    {
+      "timestamp": 197.0,
+      "description": "A hand is moving away from the counter."
+    },
+    {
+      "timestamp": 197.0,
+      "description": "The person's hands are placing a container onto a shelf."
+    },
+    {
+      "timestamp": 198.0,
+      "description": "The person's hands are moving away from the shelf."
+    },
+    {
+      "timestamp": 199.0,
+      "description": "The person's hands are opening the refrigerator door."
+    },
+    {
+      "timestamp": 200.0,
+      "description": "The person's hands are holding the refrigerator door open."
+    },
+    {
+      "timestamp": 201.0,
+      "description": "The person's hands are holding the refrigerator door and reaching inside."
+    },
+    {
+      "timestamp": 201.0,
+      "description": "The person's hands are pulling a green package from the refrigerator."
+    },
+    {
+      "timestamp": 202.0,
+      "description": "The person's hands are holding and examining the green package."
+    },
+    {
+      "timestamp": 203.0,
+      "description": "The person's hands are holding the green package."
+    },
+    {
+      "timestamp": 204.0,
+      "description": "Hands are out of frame."
+    },
+    {
+      "timestamp": 205.0,
+      "description": "Left hand holds a bag while the right hand reaches inside."
+    },
+    {
+      "timestamp": 205.0,
+      "description": "Right hand takes cheese from the bag."
+    },
+    {
+      "timestamp": 206.0,
+      "description": "Right hand sprinkles cheese over tomatoes."
+    },
+    {
+      "timestamp": 207.0,
+      "description": "Right hand sprinkles cheese over tomatoes."
+    },
+    {
+      "timestamp": 208.0,
+      "description": "Right hand sprinkles cheese over tomatoes."
+    },
+    {
+      "timestamp": 209.0,
+      "description": "Right hand sprinkles cheese over tomatoes."
+    },
+    {
+      "timestamp": 209.0,
+      "description": "Right hand sprinkles cheese over tomatoes."
+    },
+    {
+      "timestamp": 210.0,
+      "description": "Hands are sprinkling grated cheese onto a plate of food."
+    },
+    {
+      "timestamp": 211.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 212.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 213.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 213.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 214.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 215.0,
+      "description": "Hands are holding a small bottle and a white cloth."
+    },
+    {
+      "timestamp": 216.0,
+      "description": "Hands are holding a small bottle and a white cloth."
+    },
+    {
+      "timestamp": 217.0,
+      "description": "The person's hand is reaching into a white bag on the floor."
+    },
+    {
+      "timestamp": 217.0,
+      "description": "The person's hand is moving away from the bag."
+    },
+    {
+      "timestamp": 218.0,
+      "description": "No hands are visible in the frame."
+    },
+    {
+      "timestamp": 219.0,
+      "description": "The person's hand is opening a drawer under the counter."
+    },
+    {
+      "timestamp": 220.0,
+      "description": "The person's hand is reaching into the open drawer."
+    },
+    {
+      "timestamp": 221.0,
+      "description": "The person's hand is picking up a small object from the drawer."
+    },
+    {
+      "timestamp": 221.0,
+      "description": "The person's hand is holding a spoon, moving it out of the drawer."
+    },
+    {
+      "timestamp": 222.0,
+      "description": "The person's hand is holding a spoon over the counter."
+    },
+    {
+      "timestamp": 223.0,
+      "description": "The hands are picking up a bottle of oil."
+    },
+    {
+      "timestamp": 224.0,
+      "description": "The hands are holding the bottle of oil."
+    },
+    {
+      "timestamp": 225.0,
+      "description": "The hands are pouring oil from the bottle into a measuring spoon."
+    },
+    {
+      "timestamp": 225.0,
+      "description": "The hands are continuing to pour oil into the measuring spoon."
+    },
+    {
+      "timestamp": 226.0,
+      "description": "The hands are continuing to pour oil into the measuring spoon."
+    },
+    {
+      "timestamp": 227.0,
+      "description": "The left hand is holding a measuring spoon with oil over a plate."
+    },
+    {
+      "timestamp": 228.0,
+      "description": "The left hand is pouring oil from the spoon onto the food on the plate."
+    },
+    {
+      "timestamp": 229.0,
+      "description": "The left hand is holding the empty measuring spoon over the plate."
+    },
+    {
+      "timestamp": 229.0,
+      "description": "The person's left hand is holding a spoon near a plate of food."
+    },
+    {
+      "timestamp": 230.0,
+      "description": "The person's left hand is holding a spoon over a plate of food."
+    },
+    {
+      "timestamp": 231.0,
+      "description": "The person's hands are picking up a yellow bottle."
+    },
+    {
+      "timestamp": 232.0,
+      "description": "The person's right hand is shaking a yellow bottle."
+    },
+    {
+      "timestamp": 233.0,
+      "description": "The person's left hand is holding a spoon."
+    },
+    {
+      "timestamp": 233.0,
+      "description": "The person's left hand is carrying a spoon towards the sink."
+    },
+    {
+      "timestamp": 234.0,
+      "description": "The person's left hand is placing a spoon into the sink."
+    },
+    {
+      "timestamp": 235.0,
+      "description": "The person's left hand is inside the sink."
+    },
+    {
+      "timestamp": 236.0,
+      "description": "No hands are visible."
+    },
+    {
+      "timestamp": 237.0,
+      "description": "The person's hand is touching the laptop screen."
+    },
+    {
+      "timestamp": 237.0,
+      "description": "The person's hand is tapping the laptop screen."
+    },
+    {
+      "timestamp": 238.0,
+      "description": "The person's hand is tapping the laptop screen."
+    }
+  ],
+  "ground_truth": [
+    {
+      "step_id": 125,
+      "start_time": 17.089260822249095,
+      "end_time": 23.433,
+      "description": "Rinse-Rinse a tomato",
+      "has_errors": false
+    },
+    {
+      "step_id": 122,
+      "start_time": 25,
+      "end_time": 29.544145828295044,
+      "description": "dry-gently dry it with a paper/tea towel",
+      "has_errors": false
+    },
+    {
+      "step_id": 119,
+      "start_time": 43.447273276904475,
+      "end_time": 73.688,
+      "description": "Slice-Slice one tomato into about 1/2 inch thick slices",
+      "has_errors": false
+    },
+    {
+      "step_id": 120,
+      "start_time": 96.16329818621523,
+      "end_time": 110.928,
+      "description": "Place-Place the thick slices of tomatoes on a platter, ensuring they only make a single layer",
+      "has_errors": false
+    },
+    {
+      "step_id": 126,
+      "start_time": 138.45197750906894,
+      "end_time": 143.507,
+      "description": "Season-Season platter with 1/4 teaspoon black pepper",
+      "has_errors": true
+    },
+    {
+      "step_id": 127,
+      "start_time": 174.07874159613058,
+      "end_time": 180.133,
+      "description": "Garnish-Garnish platter with italian seasoning",
+      "has_errors": true
+    },
+    {
+      "step_id": 123,
+      "start_time": 186.82327509068924,
+      "end_time": 191.036,
+      "description": "Season-Season the tomato slices with salt",
+      "has_errors": false
+    },
+    {
+      "step_id": 124,
+      "start_time": 204.20218440145104,
+      "end_time": 212.257,
+      "description": "Sprinkle-Sprinkle mozzarella cheese on top of the tomato throughout the platter",
+      "has_errors": true
+    },
+    {
+      "step_id": 121,
+      "start_time": 223.6086331318017,
+      "end_time": 231.374,
+      "description": "Add-Add a drizzle of extra-virgin olive oil, about 1 tablespoon, over the entire platter",
+      "has_errors": true
+    }
+  ],
+  "predictions": [
+    {
+      "step_index": 1,
+      "description": "Rinse-Rinse a tomato",
+      "start_time": 19.0,
+      "end_time": 22.0,
+      "confidence": 0.5
+    },
+    {
+      "step_index": 2,
+      "description": "dry-gently dry it with a paper/tea towel",
+      "start_time": 26.0,
+      "end_time": 28.0,
+      "confidence": 0.5
+    },
+    {
+      "step_index": 3,
+      "description": "Slice-Slice one tomato into about 1/2 inch thick slices",
+      "start_time": 45.5,
+      "end_time": 111.0,
+      "confidence": 0.5
+    },
+    {
+      "step_index": 4,
+      "description": "Place-Place the thick slices of tomatoes on a platter, ensuring they only make a single layer",
+      "start_time": 137.1,
+      "end_time": 149.1,
+      "confidence": 0.5
+    },
+    {
+      "step_index": 5,
+      "description": "Season-Season platter with 1/4 teaspoon black pepper",
+      "start_time": -1.0,
+      "end_time": 239.23850000000002,
+      "confidence": 0.5
+    },
+    {
+      "step_index": 6,
+      "description": "Garnish-Garnish platter with italian seasoning",
+      "start_time": 222.0,
+      "end_time": 224.0,
+      "confidence": 0.5
+    },
+    {
+      "step_index": 7,
+      "description": "Season-Season the tomato slices with salt",
+      "start_time": -1.0,
+      "end_time": 239.23850000000002,
+      "confidence": 0.5
+    },
+    {
+      "step_index": 8,
+      "description": "Sprinkle-Sprinkle mozzarella cheese on top of the tomato throughout the platter",
+      "start_time": -1.0,
+      "end_time": 239.23850000000002,
+      "confidence": 0.5
+    },
+    {
+      "step_index": 9,
+      "description": "Add-Add a drizzle of extra-virgin olive oil, about 1 tablespoon, over the entire platter",
+      "start_time": -1.0,
+      "end_time": 239.23850000000002,
+      "confidence": 0.5
+    }
+  ],
+  "metrics": {
+    "mean_iou": 0.1478119981069287,
+    "per_step_iou": [
+      0.4729072107065432,
+      0.44012672030606836,
+      0.41727405194974665,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "recall_at_1_iou_0.3": 0.3333333333333333,
+    "recall_at_1_iou_0.5": 0.0,
+    "recall_at_1_iou_0.7": 0.0,
+    "step_detection_rate": 0.5555555555555556,
+    "ordering_compliance": 1.0,
+    "num_gt_steps": 9,
+    "num_predictions": 9
+  },
+  "recording_id": "12_51",
+  "dataset": "captaincook4d"
+}

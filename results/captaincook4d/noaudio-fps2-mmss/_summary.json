@@ -1,0 +1,11 @@
+{
+  "config": "noaudio-fps2-mmss",
+  "audio": "off",
+  "num_videos": 5,
+  "aggregate": {
+    "mean_iou": 0.3549833064690184,
+    "recall_at_1_iou_0.3": 0.49907986750092015,
+    "recall_at_1_iou_0.5": 0.31551956815114707,
+    "recall_at_1_iou_0.7": 0.16995051731893834
+  }
+}

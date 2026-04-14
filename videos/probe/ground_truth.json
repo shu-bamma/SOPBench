@@ -1,0 +1,612 @@
+{
+  "video": "probe_30s.mp4",
+  "duration_sec": 30,
+  "video_fps": 30,
+  "width": 640,
+  "height": 480,
+  "seed": 42,
+  "num_codes": 120,
+  "codes_per_second": 4,
+  "codes": {
+    "0.00": {
+      "code": "XAJI",
+      "timestamp": 0.0,
+      "frame_idx": 0
+    },
+    "0.25": {
+      "code": "0Y6D",
+      "timestamp": 0.25,
+      "frame_idx": 7
+    },
+    "0.50": {
+      "code": "PBHS",
+      "timestamp": 0.5,
+      "frame_idx": 15
+    },
+    "0.75": {
+      "code": "AHXT",
+      "timestamp": 0.75,
+      "frame_idx": 22
+    },
+    "1.00": {
+      "code": "HV3A",
+      "timestamp": 1.0,
+      "frame_idx": 30
+    },
+    "1.25": {
+      "code": "3ZMF",
+      "timestamp": 1.25,
+      "frame_idx": 37
+    },
+    "1.50": {
+      "code": "8MDD",
+      "timestamp": 1.5,
+      "frame_idx": 45
+    },
+    "1.75": {
+      "code": "4V30",
+      "timestamp": 1.75,
+      "frame_idx": 52
+    },
+    "2.00": {
+      "code": "T9NT",
+      "timestamp": 2.0,
+      "frame_idx": 60
+    },
+    "2.25": {
+      "code": "3W5U",
+      "timestamp": 2.25,
+      "frame_idx": 67
+    },
+    "2.50": {
+      "code": "ZBIK",
+      "timestamp": 2.5,
+      "frame_idx": 75
+    },
+    "2.75": {
+      "code": "CIDK",
+      "timestamp": 2.75,
+      "frame_idx": 82
+    },
+    "3.00": {
+      "code": "WNNH",
+      "timestamp": 3.0,
+      "frame_idx": 90
+    },
+    "3.25": {
+      "code": "J7XV",
+      "timestamp": 3.25,
+      "frame_idx": 97
+    },
+    "3.50": {
+      "code": "G0FN",
+      "timestamp": 3.5,
+      "frame_idx": 105
+    },
+    "3.75": {
+      "code": "9XUY",
+      "timestamp": 3.75,
+      "frame_idx": 112
+    },
+    "4.00": {
+      "code": "41IB",
+      "timestamp": 4.0,
+      "frame_idx": 120
+    },
+    "4.25": {
+      "code": "LJH7",
+      "timestamp": 4.25,
+      "frame_idx": 127
+    },
+    "4.50": {
+      "code": "5LXO",
+      "timestamp": 4.5,
+      "frame_idx": 135
+    },
+    "4.75": {
+      "code": "6QJI",
+      "timestamp": 4.75,
+      "frame_idx": 142
+    },
+    "5.00": {
+      "code": "UJV6",
+      "timestamp": 5.0,
+      "frame_idx": 150
+    },
+    "5.25": {
+      "code": "OH9S",
+      "timestamp": 5.25,
+      "frame_idx": 157
+    },
+    "5.50": {
+      "code": "DBDW",
+      "timestamp": 5.5,
+      "frame_idx": 165
+    },
+    "5.75": {
+      "code": "2PCN",
+      "timestamp": 5.75,
+      "frame_idx": 172
+    },
+    "6.00": {
+      "code": "9T84",
+      "timestamp": 6.0,
+      "frame_idx": 180
+    },
+    "6.25": {
+      "code": "AZYT",
+      "timestamp": 6.25,
+      "frame_idx": 187
+    },
+    "6.50": {
+      "code": "JXEP",
+      "timestamp": 6.5,
+      "frame_idx": 195
+    },
+    "6.75": {
+      "code": "Q85J",
+      "timestamp": 6.75,
+      "frame_idx": 202
+    },
+    "7.00": {
+      "code": "SG65",
+      "timestamp": 7.0,
+      "frame_idx": 210
+    },
+    "7.25": {
+      "code": "KXVF",
+      "timestamp": 7.25,
+      "frame_idx": 217
+    },
+    "7.50": {
+      "code": "1T2T",
+      "timestamp": 7.5,
+      "frame_idx": 225
+    },
+    "7.75": {
+      "code": "ALA7",
+      "timestamp": 7.75,
+      "frame_idx": 232
+    },
+    "8.00": {
+      "code": "53LC",
+      "timestamp": 8.0,
+      "frame_idx": 240
+    },
+    "8.25": {
+      "code": "58DR",
+      "timestamp": 8.25,
+      "frame_idx": 247
+    },
+    "8.50": {
+      "code": "C11E",
+      "timestamp": 8.5,
+      "frame_idx": 255
+    },
+    "8.75": {
+      "code": "RTJ5",
+      "timestamp": 8.75,
+      "frame_idx": 262
+    },
+    "9.00": {
+      "code": "PHT0",
+      "timestamp": 9.0,
+      "frame_idx": 270
+    },
+    "9.25": {
+      "code": "HL9X",
+      "timestamp": 9.25,
+      "frame_idx": 277
+    },
+    "9.50": {
+      "code": "PSEI",
+      "timestamp": 9.5,
+      "frame_idx": 285
+    },
+    "9.75": {
+      "code": "MVIH",
+      "timestamp": 9.75,
+      "frame_idx": 292
+    },
+    "10.00": {
+      "code": "CWI6",
+      "timestamp": 10.0,
+      "frame_idx": 300
+    },
+    "10.25": {
+      "code": "4CIY",
+      "timestamp": 10.25,
+      "frame_idx": 307
+    },
+    "10.50": {
+      "code": "HE7U",
+      "timestamp": 10.5,
+      "frame_idx": 315
+    },
+    "10.75": {
+      "code": "R23G",
+      "timestamp": 10.75,
+      "frame_idx": 322
+    },
+    "11.00": {
+      "code": "DPPQ",
+      "timestamp": 11.0,
+      "frame_idx": 330
+    },
+    "11.25": {
+      "code": "0Y9D",
+      "timestamp": 11.25,
+      "frame_idx": 337
+    },
+    "11.50": {
+      "code": "OM5I",
+      "timestamp": 11.5,
+      "frame_idx": 345
+    },
+    "11.75": {
+      "code": "GQPK",
+      "timestamp": 11.75,
+      "frame_idx": 352
+    },
+    "12.00": {
+      "code": "I7P5",
+      "timestamp": 12.0,
+      "frame_idx": 360
+    },
+    "12.25": {
+      "code": "TB94",
+      "timestamp": 12.25,
+      "frame_idx": 367
+    },
+    "12.50": {
+      "code": "874F",
+      "timestamp": 12.5,
+      "frame_idx": 375
+    },
+    "12.75": {
+      "code": "RHOC",
+      "timestamp": 12.75,
+      "frame_idx": 382
+    },
+    "13.00": {
+      "code": "N9J2",
+      "timestamp": 13.0,
+      "frame_idx": 390
+    },
+    "13.25": {
+      "code": "QP89",
+      "timestamp": 13.25,
+      "frame_idx": 397
+    },
+    "13.50": {
+      "code": "UZFK",
+      "timestamp": 13.5,
+      "frame_idx": 405
+    },
+    "13.75": {
+      "code": "8UT0",
+      "timestamp": 13.75,
+      "frame_idx": 412
+    },
+    "14.00": {
+      "code": "CVS4",
+      "timestamp": 14.0,
+      "frame_idx": 420
+    },
+    "14.25": {
+      "code": "F8CG",
+      "timestamp": 14.25,
+      "frame_idx": 427
+    },
+    "14.50": {
+      "code": "VYIE",
+      "timestamp": 14.5,
+      "frame_idx": 435
+    },
+    "14.75": {
+      "code": "6IVW",
+      "timestamp": 14.75,
+      "frame_idx": 442
+    },
+    "15.00": {
+      "code": "PVS7",
+      "timestamp": 15.0,
+      "frame_idx": 450
+    },
+    "15.25": {
+      "code": "HZIO",
+      "timestamp": 15.25,
+      "frame_idx": 457
+    },
+    "15.50": {
+      "code": "YKL1",
+      "timestamp": 15.5,
+      "frame_idx": 465
+    },
+    "15.75": {
+      "code": "CQ99",
+      "timestamp": 15.75,
+      "frame_idx": 472
+    },
+    "16.00": {
+      "code": "CHJ7",
+      "timestamp": 16.0,
+      "frame_idx": 480
+    },
+    "16.25": {
+      "code": "55NF",
+      "timestamp": 16.25,
+      "frame_idx": 487
+    },
+    "16.50": {
+      "code": "4ZW9",
+      "timestamp": 16.5,
+      "frame_idx": 495
+    },
+    "16.75": {
+      "code": "XA3K",
+      "timestamp": 16.75,
+      "frame_idx": 502
+    },
+    "17.00": {
+      "code": "X7EE",
+      "timestamp": 17.0,
+      "frame_idx": 510
+    },
+    "17.25": {
+      "code": "DTJV",
+      "timestamp": 17.25,
+      "frame_idx": 517
+    },
+    "17.50": {
+      "code": "ZHWJ",
+      "timestamp": 17.5,
+      "frame_idx": 525
+    },
+    "17.75": {
+      "code": "R64D",
+      "timestamp": 17.75,
+      "frame_idx": 532
+    },
+    "18.00": {
+      "code": "PJA1",
+      "timestamp": 18.0,
+      "frame_idx": 540
+    },
+    "18.25": {
+      "code": "WJ0T",
+      "timestamp": 18.25,
+      "frame_idx": 547
+    },
+    "18.50": {
+      "code": "PAC5",
+      "timestamp": 18.5,
+      "frame_idx": 555
+    },
+    "18.75": {
+      "code": "6T4U",
+      "timestamp": 18.75,
+      "frame_idx": 562
+    },
+    "19.00": {
+      "code": "FEL6",
+      "timestamp": 19.0,
+      "frame_idx": 570
+    },
+    "19.25": {
+      "code": "246H",
+      "timestamp": 19.25,
+      "frame_idx": 577
+    },
+    "19.50": {
+      "code": "ID25",
+      "timestamp": 19.5,
+      "frame_idx": 585
+    },
+    "19.75": {
+      "code": "OWF7",
+      "timestamp": 19.75,
+      "frame_idx": 592
+    },
+    "20.00": {
+      "code": "5935",
+      "timestamp": 20.0,
+      "frame_idx": 600
+    },
+    "20.25": {
+      "code": "A0L7",
+      "timestamp": 20.25,
+      "frame_idx": 607
+    },
+    "20.50": {
+      "code": "253J",
+      "timestamp": 20.5,
+      "frame_idx": 615
+    },
+    "20.75": {
+      "code": "2D54",
+      "timestamp": 20.75,
+      "frame_idx": 622
+    },
+    "21.00": {
+      "code": "I3QK",
+      "timestamp": 21.0,
+      "frame_idx": 630
+    },
+    "21.25": {
+      "code": "2IAG",
+      "timestamp": 21.25,
+      "frame_idx": 637
+    },
+    "21.50": {
+      "code": "L58K",
+      "timestamp": 21.5,
+      "frame_idx": 645
+    },
+    "21.75": {
+      "code": "XO9T",
+      "timestamp": 21.75,
+      "frame_idx": 652
+    },
+    "22.00": {
+      "code": "7E8G",
+      "timestamp": 22.0,
+      "frame_idx": 660
+    },
+    "22.25": {
+      "code": "8JDP",
+      "timestamp": 22.25,
+      "frame_idx": 667
+    },
+    "22.50": {
+      "code": "0LVS",
+      "timestamp": 22.5,
+      "frame_idx": 675
+    },
+    "22.75": {
+      "code": "NUJZ",
+      "timestamp": 22.75,
+      "frame_idx": 682
+    },
+    "23.00": {
+      "code": "A7TZ",
+      "timestamp": 23.0,
+      "frame_idx": 690
+    },
+    "23.25": {
+      "code": "0YNC",
+      "timestamp": 23.25,
+      "frame_idx": 697
+    },
+    "23.50": {
+      "code": "XLL4",
+      "timestamp": 23.5,
+      "frame_idx": 705
+    },
+    "23.75": {
+      "code": "ZKLO",
+      "timestamp": 23.75,
+      "frame_idx": 712
+    },
+    "24.00": {
+      "code": "OKEP",
+      "timestamp": 24.0,
+      "frame_idx": 720
+    },
+    "24.25": {
+      "code": "7Y6W",
+      "timestamp": 24.25,
+      "frame_idx": 727
+    },
+    "24.50": {
+      "code": "KTAK",
+      "timestamp": 24.5,
+      "frame_idx": 735
+    },
+    "24.75": {
+      "code": "PUXQ",
+      "timestamp": 24.75,
+      "frame_idx": 742
+    },
+    "25.00": {
+      "code": "PHR6",
+      "timestamp": 25.0,
+      "frame_idx": 750
+    },
+    "25.25": {
+      "code": "2GDS",
+      "timestamp": 25.25,
+      "frame_idx": 757
+    },
+    "25.50": {
+      "code": "WM31",
+      "timestamp": 25.5,
+      "frame_idx": 765
+    },
+    "25.75": {
+      "code": "YIHA",
+      "timestamp": 25.75,
+      "frame_idx": 772
+    },
+    "26.00": {
+      "code": "IR4C",
+      "timestamp": 26.0,
+      "frame_idx": 780
+    },
+    "26.25": {
+      "code": "OWGZ",
+      "timestamp": 26.25,
+      "frame_idx": 787
+    },
+    "26.50": {
+      "code": "RIXA",
+      "timestamp": 26.5,
+      "frame_idx": 795
+    },
+    "26.75": {
+      "code": "11DP",
+      "timestamp": 26.75,
+      "frame_idx": 802
+    },
+    "27.00": {
+      "code": "G8SB",
+      "timestamp": 27.0,
+      "frame_idx": 810
+    },
+    "27.25": {
+      "code": "I4Q2",
+      "timestamp": 27.25,
+      "frame_idx": 817
+    },
+    "27.50": {
+      "code": "Y9V8",
+      "timestamp": 27.5,
+      "frame_idx": 825
+    },
+    "27.75": {
+      "code": "6WZS",
+      "timestamp": 27.75,
+      "frame_idx": 832
+    },
+    "28.00": {
+      "code": "3T60",
+      "timestamp": 28.0,
+      "frame_idx": 840
+    },
+    "28.25": {
+      "code": "RJIW",
+      "timestamp": 28.25,
+      "frame_idx": 847
+    },
+    "28.50": {
+      "code": "1SWJ",
+      "timestamp": 28.5,
+      "frame_idx": 855
+    },
+    "28.75": {
+      "code": "CKJL",
+      "timestamp": 28.75,
+      "frame_idx": 862
+    },
+    "29.00": {
+      "code": "TEIY",
+      "timestamp": 29.0,
+      "frame_idx": 870
+    },
+    "29.25": {
+      "code": "ZCOT",
+      "timestamp": 29.25,
+      "frame_idx": 877
+    },
+    "29.50": {
+      "code": "OHP6",
+      "timestamp": 29.5,
+      "frame_idx": 885
+    },
+    "29.75": {
+      "code": "VZ41",
+      "timestamp": 29.75,
+      "frame_idx": 892
+    }
+  }
+}

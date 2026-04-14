@@ -1,0 +1,458 @@
+{
+  "QnMbDe-tG74": {
+    "recipe_type": 83,
+    "annotation": [
+      {
+        "id": "203",
+        "segment": [
+          2.0,
+          18.0
+        ],
+        "label": "cut potato into strips"
+      },
+      {
+        "id": "204",
+        "segment": [
+          22.0,
+          26.0
+        ],
+        "label": "soak them in water"
+      },
+      {
+        "id": "205",
+        "segment": [
+          29.0,
+          34.0
+        ],
+        "label": "dry strips"
+      },
+      {
+        "id": "206",
+        "segment": [
+          36.0,
+          66.0
+        ],
+        "label": "put in the oil to fry"
+      }
+    ],
+    "video_url": "https://www.youtube.com/embed/QnMbDe-tG74",
+    "start": 0,
+    "end": 70.63597717990449,
+    "duration": 86.517542,
+    "class": "MakeFrenchFries",
+    "subset": "training"
+  },
+  "Rvi9N3tEsJE": {
+    "recipe_type": 93,
+    "annotation": [
+      {
+        "id": "522",
+        "segment": [
+          16.0,
+          52.0
+        ],
+        "label": "prepare the filler"
+      },
+      {
+        "id": "525",
+        "segment": [
+          53.0,
+          75.0
+        ],
+        "label": "fry or grill"
+      },
+      {
+        "id": "524",
+        "segment": [
+          76.0,
+          80.0
+        ],
+        "label": "put the filler on the bread slice"
+      },
+      {
+        "id": "526",
+        "segment": [
+          86.0,
+          88.0
+        ],
+        "label": "cut into small pieces"
+      }
+    ],
+    "video_url": "https://www.youtube.com/embed/Rvi9N3tEsJE",
+    "start": 15.249399580361452,
+    "end": 95.36577277043092,
+    "duration": 106.022311,
+    "class": "MakeSandwich",
+    "subset": "training"
+  },
+  "bCayAWzEqns": {
+    "recipe_type": 89,
+    "annotation": [
+      {
+        "id": "37",
+        "segment": [
+          40.0,
+          64.0
+        ],
+        "label": "knead the dough"
+      },
+      {
+        "id": "37",
+        "segment": [
+          77.0,
+          78.0
+        ],
+        "label": "knead the dough"
+      },
+      {
+        "id": "38",
+        "segment": [
+          79.0,
+          88.0
+        ],
+        "label": "unroll the dough"
+      },
+      {
+        "id": "40",
+        "segment": [
+          89.0,
+          99.0
+        ],
+        "label": "bake pizza"
+      },
+      {
+        "id": "40",
+        "segment": [
+          113.0,
+          118.0
+        ],
+        "label": "bake pizza"
+      },
+      {
+        "id": "39",
+        "segment": [
+          119.0,
+          160.0
+        ],
+        "label": "add seasoning"
+      },
+      {
+        "id": "40",
+        "segment": [
+          161.0,
+          162.0
+        ],
+        "label": "bake pizza"
+      }
+    ],
+    "video_url": "https://www.youtube.com/embed/bCayAWzEqns",
+    "start": 27.14383538839523,
+    "end": 173.196667,
+    "duration": 173.196667,
+    "class": "MakePizza",
+    "subset": "training"
+  },
+  "LHRxEQ3cGtU": {
+    "recipe_type": 95,
+    "annotation": [
+      {
+        "id": "101",
+        "segment": [
+          48.0,
+          51.0
+        ],
+        "label": "add ice cubes"
+      },
+      {
+        "id": "102",
+        "segment": [
+          52.0,
+          57.0
+        ],
+        "label": "put strawberries and other fruits into the juicer"
+      },
+      {
+        "id": "103",
+        "segment": [
+          58.0,
+          63.0
+        ],
+        "label": "put yogurt, honey and other ingredients into the juicer"
+      },
+      {
+        "id": "104",
+        "segment": [
+          64.0,
+          69.0
+        ],
+        "label": "shake and juice"
+      }
+    ],
+    "video_url": "https://www.youtube.com/embed/LHRxEQ3cGtU",
+    "start": 39.40412170333439,
+    "end": 75.65380961222539,
+    "duration": 111.061033,
+    "class": "MakeStrawberrySmoothie",
+    "subset": "training"
+  },
+  "OrfWQnvCnTk": {
+    "recipe_type": 28,
+    "annotation": [
+      {
+        "id": "16",
+        "segment": [
+          29.0,
+          36.0
+        ],
+        "label": "pour the egg into the bowl"
+      },
+      {
+        "id": "17",
+        "segment": [
+          41.0,
+          46.0
+        ],
+        "label": "stir the egg"
+      },
+      {
+        "id": "20",
+        "segment": [
+          55.0,
+          56.0
+        ],
+        "label": "put seasoning in the egg"
+      },
+      {
+        "id": "18",
+        "segment": [
+          113.0,
+          116.0
+        ],
+        "label": "pour the egg into the pot"
+      },
+      {
+        "id": "19",
+        "segment": [
+          117.0,
+          154.0
+        ],
+        "label": "fry eggs"
+      },
+      {
+        "id": "21",
+        "segment": [
+          180.0,
+          187.0
+        ],
+        "label": "pour the egg onto the plate"
+      }
+    ],
+    "video_url": "https://www.youtube.com/embed/OrfWQnvCnTk",
+    "start": 13.74564888833716,
+    "end": 195.43994075999967,
+    "duration": 223.724256,
+    "class": "CookOmelet",
+    "subset": "training"
+  },
+  "SzdcAAWolfs": {
+    "recipe_type": 50,
+    "annotation": [
+      {
+        "id": "293",
+        "segment": [
+          10.0,
+          14.0
+        ],
+        "label": "pour raw materials"
+      },
+      {
+        "id": "294",
+        "segment": [
+          15.0,
+          17.0
+        ],
+        "label": "mix raw materials"
+      },
+      {
+        "id": "293",
+        "segment": [
+          18.0,
+          27.0
+        ],
+        "label": "pour raw materials"
+      },
+      {
+        "id": "294",
+        "segment": [
+          28.0,
+          29.0
+        ],
+        "label": "mix raw materials"
+      },
+      {
+        "id": "293",
+        "segment": [
+          30.0,
+          43.0
+        ],
+        "label": "pour raw materials"
+      },
+      {
+        "id": "294",
+        "segment": [
+          44.0,
+          47.0
+        ],
+        "label": "mix raw materials"
+      },
+      {
+        "id": "295",
+        "segment": [
+          49.0,
+          64.0
+        ],
+        "label": "shape cookie"
+      },
+      {
+        "id": "296",
+        "segment": [
+          65.0,
+          75.0
+        ],
+        "label": "bake cookies"
+      }
+    ],
+    "video_url": "https://www.youtube.com/embed/SzdcAAWolfs",
+    "start": 0.17988808513283594,
+    "end": 79.62436626599317,
+    "duration": 116.958333,
+    "class": "MakeCookie",
+    "subset": "testing"
+  },
+  "RFcuNI33Oq4": {
+    "recipe_type": 99,
+    "annotation": [
+      {
+        "id": "187",
+        "segment": [
+          41.0,
+          51.0
+        ],
+        "label": "grind the coffee beans"
+      },
+      {
+        "id": "186",
+        "segment": [
+          78.0,
+          93.0
+        ],
+        "label": "boil water or coffee"
+      },
+      {
+        "id": "188",
+        "segment": [
+          108.0,
+          133.0
+        ],
+        "label": "filtrate the coffee beans"
+      },
+      {
+        "id": "189",
+        "segment": [
+          147.0,
+          154.0
+        ],
+        "label": "brew the coffee beans"
+      },
+      {
+        "id": "188",
+        "segment": [
+          159.0,
+          168.0
+        ],
+        "label": "filtrate the coffee beans"
+      },
+      {
+        "id": "190",
+        "segment": [
+          168.0,
+          172.0
+        ],
+        "label": "add some ingredients in the coffee"
+      }
+    ],
+    "video_url": "https://www.youtube.com/embed/RFcuNI33Oq4",
+    "start": 26.249531451314816,
+    "end": 179.072289,
+    "duration": 179.072289,
+    "class": "MakeCoffee",
+    "subset": "training"
+  },
+  "6vST9jh7vUM": {
+    "recipe_type": 28,
+    "annotation": [
+      {
+        "id": "16",
+        "segment": [
+          21.0,
+          25.0
+        ],
+        "label": "pour the egg into the bowl"
+      },
+      {
+        "id": "17",
+        "segment": [
+          27.0,
+          42.0
+        ],
+        "label": "stir the egg"
+      },
+      {
+        "id": "20",
+        "segment": [
+          50.0,
+          52.0
+        ],
+        "label": "put seasoning in the egg"
+      },
+      {
+        "id": "18",
+        "segment": [
+          64.0,
+          66.0
+        ],
+        "label": "pour the egg into the pot"
+      },
+      {
+        "id": "19",
+        "segment": [
+          69.0,
+          84.0
+        ],
+        "label": "fry eggs"
+      },
+      {
+        "id": "19",
+        "segment": [
+          88.0,
+          93.0
+        ],
+        "label": "fry eggs"
+      },
+      {
+        "id": "21",
+        "segment": [
+          112.0,
+          120.0
+        ],
+        "label": "pour the egg onto the plate"
+      }
+    ],
+    "video_url": "https://www.youtube.com/embed/6vST9jh7vUM",
+    "start": 13.932100787225007,
+    "end": 132.39269309474588,
+    "duration": 167.369422,
+    "class": "CookOmelet",
+    "subset": "training"
+  }
+}

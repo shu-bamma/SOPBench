@@ -1,0 +1,1512 @@
+{
+  "video": "10_6_pinwheels_correct.mp4",
+  "model": "gemini-2.5-flash",
+  "method": "gemini-frames-2pass",
+  "fps": 2.0,
+  "num_frames": 300,
+  "captions": [
+    {
+      "timestamp": 0.0,
+      "description": "Holding a cutting board over the sink."
+    },
+    {
+      "timestamp": 1.0,
+      "description": "Moving a cutting board."
+    },
+    {
+      "timestamp": 2.0,
+      "description": "Placing a cutting board on the counter."
+    },
+    {
+      "timestamp": 3.0,
+      "description": "Resting hands on the cutting board."
+    },
+    {
+      "timestamp": 4.0,
+      "description": "Lifting hands from the cutting board."
+    },
+    {
+      "timestamp": 5.0,
+      "description": "Reaching for butter on a plate."
+    },
+    {
+      "timestamp": 6.0,
+      "description": "Moving hands towards the right side of the counter."
+    },
+    {
+      "timestamp": 7.0,
+      "description": "Picking up a package of tortillas."
+    },
+    {
+      "timestamp": 8.0,
+      "description": "Hands are reaching into a green bag."
+    },
+    {
+      "timestamp": 9.0,
+      "description": "Hands are still inside the green bag, manipulating its contents."
+    },
+    {
+      "timestamp": 10.0,
+      "description": "Hands are holding a round tortilla."
+    },
+    {
+      "timestamp": 12.0,
+      "description": "Hands are placing a tortilla onto a wooden cutting board."
+    },
+    {
+      "timestamp": 13.0,
+      "description": "Right hand is using a knife to cut butter from a stick."
+    },
+    {
+      "timestamp": 14.0,
+      "description": "Right hand is cutting butter with a knife while the left hand holds a paper towel."
+    },
+    {
+      "timestamp": 15.0,
+      "description": "Hands are wiping the knife with a paper towel."
+    },
+    {
+      "timestamp": 16.0,
+      "description": "Hands are continuing to wipe the knife with a paper towel."
+    },
+    {
+      "timestamp": 17.0,
+      "description": "The person's hand is opening a cabinet door."
+    },
+    {
+      "timestamp": 18.0,
+      "description": "The cabinet doors are open, and the person's hands are not visible."
+    },
+    {
+      "timestamp": 19.0,
+      "description": "The person's hands are holding a knife and a red jar lid."
+    },
+    {
+      "timestamp": 20.0,
+      "description": "The person's hands are holding a knife and a jar."
+    },
+    {
+      "timestamp": 21.0,
+      "description": "One hand is placing a red jar lid on the counter."
+    },
+    {
+      "timestamp": 22.0,
+      "description": "The person's hands are using a knife to scoop peanut butter from a jar."
+    },
+    {
+      "timestamp": 24.0,
+      "description": "The person's hands are continuing to scoop peanut butter from the jar."
+    },
+    {
+      "timestamp": 25.0,
+      "description": "One hand is holding a tortilla while the other spreads peanut butter with a knife."
+    },
+    {
+      "timestamp": 26.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla with a knife."
+    },
+    {
+      "timestamp": 27.0,
+      "description": "The person's hands continue spreading peanut butter on the tortilla."
+    },
+    {
+      "timestamp": 28.0,
+      "description": "The person's hands continue spreading peanut butter on the tortilla."
+    },
+    {
+      "timestamp": 29.0,
+      "description": "The person's right hand is scooping peanut butter from the jar with a knife."
+    },
+    {
+      "timestamp": 30.0,
+      "description": "The person's hands are placing the knife with peanut butter back onto the tortilla."
+    },
+    {
+      "timestamp": 31.0,
+      "description": "The person's hands are spreading peanut butter on the tortilla with a knife."
+    },
+    {
+      "timestamp": 32.0,
+      "description": "The person's hands continue spreading peanut butter on the tortilla."
+    },
+    {
+      "timestamp": 33.0,
+      "description": "The person's hands continue spreading peanut butter on the tortilla."
+    },
+    {
+      "timestamp": 35.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla with a knife."
+    },
+    {
+      "timestamp": 36.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla with a knife."
+    },
+    {
+      "timestamp": 37.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla with a knife."
+    },
+    {
+      "timestamp": 38.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla with a knife."
+    },
+    {
+      "timestamp": 39.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla with a knife."
+    },
+    {
+      "timestamp": 40.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla with a knife."
+    },
+    {
+      "timestamp": 41.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla with a knife."
+    },
+    {
+      "timestamp": 42.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla with a knife."
+    },
+    {
+      "timestamp": 43.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla with a knife."
+    },
+    {
+      "timestamp": 44.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla with a knife."
+    },
+    {
+      "timestamp": 45.0,
+      "description": "The person's right hand is scooping peanut butter from the jar with a knife, while the left hand holds the jar."
+    },
+    {
+      "timestamp": 47.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla with a knife."
+    },
+    {
+      "timestamp": 48.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla with a knife."
+    },
+    {
+      "timestamp": 49.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla with a knife."
+    },
+    {
+      "timestamp": 50.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla with a knife."
+    },
+    {
+      "timestamp": 51.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla with a knife."
+    },
+    {
+      "timestamp": 52.6,
+      "description": "Spreading peanut butter on a tortilla with a knife."
+    },
+    {
+      "timestamp": 53.6,
+      "description": "Spreading peanut butter on a tortilla with a knife."
+    },
+    {
+      "timestamp": 54.6,
+      "description": "Spreading peanut butter on a tortilla with a knife."
+    },
+    {
+      "timestamp": 55.6,
+      "description": "Spreading peanut butter on a tortilla with a knife."
+    },
+    {
+      "timestamp": 56.6,
+      "description": "Cutting the tortilla with a knife."
+    },
+    {
+      "timestamp": 58.1,
+      "description": "Scooping peanut butter from a jar with a knife."
+    },
+    {
+      "timestamp": 59.1,
+      "description": "Spreading peanut butter on a tortilla with a knife."
+    },
+    {
+      "timestamp": 60.1,
+      "description": "Spreading peanut butter on a tortilla with a knife."
+    },
+    {
+      "timestamp": 61.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla."
+    },
+    {
+      "timestamp": 62.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla."
+    },
+    {
+      "timestamp": 63.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla."
+    },
+    {
+      "timestamp": 64.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla."
+    },
+    {
+      "timestamp": 65.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla."
+    },
+    {
+      "timestamp": 66.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla."
+    },
+    {
+      "timestamp": 67.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla."
+    },
+    {
+      "timestamp": 68.0,
+      "description": "The person's hands are spreading peanut butter on a tortilla."
+    },
+    {
+      "timestamp": 70.1,
+      "description": "The person's hands are holding a jar of peanut butter and a bottle of sauce, with peanut butter spread on a tortilla."
+    },
+    {
+      "timestamp": 71.1,
+      "description": "The person's hands are not visible as the camera pans up to an open cabinet."
+    },
+    {
+      "timestamp": 72.1,
+      "description": "A hand is placing a jar of peanut butter into a cabinet."
+    },
+    {
+      "timestamp": 73.1,
+      "description": "The person's hands are not visible as the camera pans away from the cabinet."
+    },
+    {
+      "timestamp": 74.1,
+      "description": "The person's hands are not visible as the camera pans towards the sink area."
+    },
+    {
+      "timestamp": 75.6,
+      "description": "The person's hands are holding a roll of paper towels."
+    },
+    {
+      "timestamp": 76.6,
+      "description": "The person's hands are tearing a sheet of paper towel from the roll."
+    },
+    {
+      "timestamp": 77.6,
+      "description": "The person's hands are not visible as the camera pans away from the sink area."
+    },
+    {
+      "timestamp": 78.0,
+      "description": "Hands are holding a paper towel."
+    },
+    {
+      "timestamp": 79.0,
+      "description": "Right hand is spreading a substance on a tortilla with a knife."
+    },
+    {
+      "timestamp": 81.0,
+      "description": "Hands are wiping a knife with a paper towel."
+    },
+    {
+      "timestamp": 82.0,
+      "description": "Hands are wiping a knife with a paper towel."
+    },
+    {
+      "timestamp": 83.0,
+      "description": "Hands are wiping a knife with a paper towel."
+    },
+    {
+      "timestamp": 84.0,
+      "description": "Hands are finishing wiping a knife with a paper towel."
+    },
+    {
+      "timestamp": 85.0,
+      "description": "Hands are opening a cabinet door."
+    },
+    {
+      "timestamp": 86.0,
+      "description": "Right hand is reaching into a cabinet."
+    },
+    {
+      "timestamp": 87.0,
+      "description": "The person's hands are not visible."
+    },
+    {
+      "timestamp": 88.0,
+      "description": "The person's hands are opening a jar."
+    },
+    {
+      "timestamp": 89.0,
+      "description": "The person's hands are holding a jar and a spoon."
+    },
+    {
+      "timestamp": 90.0,
+      "description": "One hand is pointing at the laptop screen."
+    },
+    {
+      "timestamp": 91.0,
+      "description": "The person's hands are holding a jar and a spoon."
+    },
+    {
+      "timestamp": 93.0,
+      "description": "The person's hands are scooping contents from a jar with a spoon."
+    },
+    {
+      "timestamp": 94.0,
+      "description": "The person's hands are scooping contents from a jar with a spoon."
+    },
+    {
+      "timestamp": 95.0,
+      "description": "The person's hands are pouring contents from a jar onto the tortilla."
+    },
+    {
+      "timestamp": 96.0,
+      "description": "The person's hands are using a knife to spread a substance from a jar onto a tortilla."
+    },
+    {
+      "timestamp": 97.0,
+      "description": "The person's hands continue spreading the substance across the tortilla with a knife."
+    },
+    {
+      "timestamp": 98.0,
+      "description": "The person's hands are holding the jar and spreading the substance on the tortilla with a knife."
+    },
+    {
+      "timestamp": 99.0,
+      "description": "The person's hands are spreading the substance on the tortilla using a knife."
+    },
+    {
+      "timestamp": 100.0,
+      "description": "The person's hands are actively spreading the substance on the tortilla with a knife."
+    },
+    {
+      "timestamp": 101.0,
+      "description": "The person's hands are spreading the substance evenly across the tortilla with a knife."
+    },
+    {
+      "timestamp": 102.0,
+      "description": "The person's hands continue to spread the substance on the tortilla with a knife."
+    },
+    {
+      "timestamp": 104.0,
+      "description": "The person's hands are finishing spreading the substance on the tortilla with a knife."
+    },
+    {
+      "timestamp": 105.0,
+      "description": "The person's hands are spreading a substance on a tortilla with a knife."
+    },
+    {
+      "timestamp": 106.0,
+      "description": "The person's hands are spreading a substance on a tortilla with a knife."
+    },
+    {
+      "timestamp": 107.0,
+      "description": "The person's hands are spreading a substance on a tortilla with a knife."
+    },
+    {
+      "timestamp": 108.0,
+      "description": "The person's hands are spreading a substance on a tortilla with a knife."
+    },
+    {
+      "timestamp": 109.0,
+      "description": "The person's hands are spreading a substance on a tortilla with a knife."
+    },
+    {
+      "timestamp": 110.0,
+      "description": "The person's hands are spreading a substance on a tortilla with a knife."
+    },
+    {
+      "timestamp": 111.0,
+      "description": "The person's hands are spreading a substance on a tortilla with a knife."
+    },
+    {
+      "timestamp": 112.0,
+      "description": "The person's hands are spreading a substance on a tortilla with a knife."
+    },
+    {
+      "timestamp": 113.0,
+      "description": "The person's right hand is spreading a substance on a tortilla with a knife."
+    },
+    {
+      "timestamp": 114.0,
+      "description": "The person's right hand continues spreading the substance on the tortilla."
+    },
+    {
+      "timestamp": 116.0,
+      "description": "The person's right hand continues spreading the substance on the tortilla."
+    },
+    {
+      "timestamp": 117.0,
+      "description": "The person's right hand continues spreading the substance on the tortilla."
+    },
+    {
+      "timestamp": 118.0,
+      "description": "The person's right hand continues spreading the substance on the tortilla."
+    },
+    {
+      "timestamp": 119.0,
+      "description": "The person's right hand continues spreading the substance on the tortilla."
+    },
+    {
+      "timestamp": 120.0,
+      "description": "The person's right hand continues spreading the substance on the tortilla."
+    },
+    {
+      "timestamp": 121.0,
+      "description": "The person's right hand is lifting the knife from the tortilla."
+    },
+    {
+      "timestamp": 122.0,
+      "description": "The person's hands are holding a knife and a paper towel, possibly wiping the knife."
+    },
+    {
+      "timestamp": 123.0,
+      "description": "The person's hands are spreading a substance on a tortilla with a knife."
+    },
+    {
+      "timestamp": 124.0,
+      "description": "The person's hands continue to spread the substance on the tortilla with a knife."
+    },
+    {
+      "timestamp": 125.0,
+      "description": "One hand is placing the knife down on the counter, while the other holds a paper towel."
+    },
+    {
+      "timestamp": 127.0,
+      "description": "The person's hands are moving towards the jar of spread on the counter."
+    },
+    {
+      "timestamp": 128.0,
+      "description": "The person's hands are reaching into an open cabinet."
+    },
+    {
+      "timestamp": 129.0,
+      "description": "The person's hands are grabbing a jar from inside the cabinet."
+    },
+    {
+      "timestamp": 130.0,
+      "description": "The person's hands are pulling a jar out of the cabinet."
+    },
+    {
+      "timestamp": 131.0,
+      "description": "The person's hands are reaching into a cabinet to grab an item."
+    },
+    {
+      "timestamp": 132.0,
+      "description": "The person's right hand is spreading a substance on a tortilla with a knife."
+    },
+    {
+      "timestamp": 133.0,
+      "description": "The person's hands are beginning to fold the tortilla."
+    },
+    {
+      "timestamp": 134.0,
+      "description": "The person's hands are continuing to fold the tortilla."
+    },
+    {
+      "timestamp": 135.0,
+      "description": "The person's hands are rolling the tortilla."
+    },
+    {
+      "timestamp": 136.0,
+      "description": "The person's hands are continuing to roll the tortilla."
+    },
+    {
+      "timestamp": 137.0,
+      "description": "The person's hands are nearly finished rolling the tortilla."
+    },
+    {
+      "timestamp": 139.0,
+      "description": "The person's hands are completing the rolling of the tortilla."
+    },
+    {
+      "timestamp": 140.0,
+      "description": "Hands are rolling a wrap or tortilla on a cutting board."
+    },
+    {
+      "timestamp": 141.0,
+      "description": "Hands continue to roll the wrap or tortilla."
+    },
+    {
+      "timestamp": 142.0,
+      "description": "Hands are pressing and rolling the wrap or tortilla."
+    },
+    {
+      "timestamp": 143.0,
+      "description": "Left hand is touching the laptop screen."
+    },
+    {
+      "timestamp": 144.0,
+      "description": "Left hand is scrolling or interacting with the laptop screen."
+    },
+    {
+      "timestamp": 145.0,
+      "description": "Right hand is reaching into an open cabinet to grab an item."
+    },
+    {
+      "timestamp": 146.0,
+      "description": "Right hand is holding a small white container."
+    },
+    {
+      "timestamp": 147.0,
+      "description": "Hands are opening the lid of a small white container."
+    },
+    {
+      "timestamp": 148.0,
+      "description": "The person's hands are holding and manipulating a small white container."
+    },
+    {
+      "timestamp": 150.0,
+      "description": "The person's hands are shaking a container over a rolled item on a cutting board."
+    },
+    {
+      "timestamp": 151.0,
+      "description": "The person's hands are closing the small white container."
+    },
+    {
+      "timestamp": 152.0,
+      "description": "The person's hands are picking up a wooden skewer."
+    },
+    {
+      "timestamp": 153.0,
+      "description": "The person's hands are holding a wooden skewer and a knife near the rolled item."
+    },
+    {
+      "timestamp": 154.0,
+      "description": "The person's hands are using a knife to cut the rolled item."
+    },
+    {
+      "timestamp": 155.0,
+      "description": "The person's hands are continuing to cut the rolled item with a knife."
+    },
+    {
+      "timestamp": 156.0,
+      "description": "The person's hands are separating the cut pieces of the rolled item with a knife and skewer."
+    },
+    {
+      "timestamp": 157.0,
+      "description": "The person's hands are using a small knife to cut into a white cylindrical food item."
+    },
+    {
+      "timestamp": 158.0,
+      "description": "The person's hands continue to cut into the white cylindrical food item with a small knife."
+    },
+    {
+      "timestamp": 159.0,
+      "description": "The person's hands are making a cut into the white cylindrical food item."
+    },
+    {
+      "timestamp": 160.0,
+      "description": "The person's hands are making a cut into the white cylindrical food item."
+    },
+    {
+      "timestamp": 162.0,
+      "description": "The person's hands are rotating the white cylindrical food item on the cutting board."
+    },
+    {
+      "timestamp": 163.0,
+      "description": "The person's hands are rotating the white cylindrical food item on the cutting board."
+    },
+    {
+      "timestamp": 164.0,
+      "description": "The person's hands are picking up a small knife from the cutting board."
+    },
+    {
+      "timestamp": 165.0,
+      "description": "The person's hands are using a small knife to cut into the white cylindrical food item."
+    },
+    {
+      "timestamp": 166.0,
+      "description": "Hands are holding and adjusting a wrapped item on a cutting board."
+    },
+    {
+      "timestamp": 167.0,
+      "description": "Hands are opening the lid of a white container."
+    },
+    {
+      "timestamp": 168.0,
+      "description": "Hands are holding a white container with the lid partially open."
+    },
+    {
+      "timestamp": 169.0,
+      "description": "Hands are holding a white container with the lid partially open."
+    },
+    {
+      "timestamp": 170.0,
+      "description": "One hand holds the white container while the other hand holds the wrapped item."
+    },
+    {
+      "timestamp": 171.0,
+      "description": "Hands are adjusting or rolling the wrapped item on the cutting board."
+    },
+    {
+      "timestamp": 173.0,
+      "description": "Hands are adjusting or rolling the wrapped item on the cutting board."
+    },
+    {
+      "timestamp": 174.0,
+      "description": "One hand holds the white container while the other hand gestures over the wrapped item."
+    },
+    {
+      "timestamp": 175.0,
+      "description": "Hands are opening a small white container."
+    },
+    {
+      "timestamp": 176.0,
+      "description": "Hands are rolling a wrap on the cutting board."
+    },
+    {
+      "timestamp": 177.0,
+      "description": "Hands are continuing to roll the wrap."
+    },
+    {
+      "timestamp": 178.0,
+      "description": "Hands are not visible in this frame."
+    },
+    {
+      "timestamp": 179.0,
+      "description": "Hands are resting on the counter near the laptop."
+    },
+    {
+      "timestamp": 180.0,
+      "description": "A hand is pointing at the laptop screen."
+    },
+    {
+      "timestamp": 181.0,
+      "description": "A hand is pointing at the laptop screen."
+    },
+    {
+      "timestamp": 182.0,
+      "description": "Hands are resting on the counter."
+    },
+    {
+      "timestamp": 183.0,
+      "description": "The person's hands are holding a knife and a long food item on a cutting board."
+    },
+    {
+      "timestamp": 185.0,
+      "description": "The person's hands are positioning the knife to cut the food item."
+    },
+    {
+      "timestamp": 186.0,
+      "description": "The person's hands are beginning to slice the food item with a knife."
+    },
+    {
+      "timestamp": 187.0,
+      "description": "The person's hands are slicing the food item on the cutting board."
+    },
+    {
+      "timestamp": 188.0,
+      "description": "The person's hands are continuing to slice the food item."
+    },
+    {
+      "timestamp": 189.0,
+      "description": "The person's hands are making another cut on the food item."
+    },
+    {
+      "timestamp": 190.0,
+      "description": "The person's hands are continuing to slice the food item."
+    },
+    {
+      "timestamp": 191.0,
+      "description": "The person's hands are slicing the food item into pieces."
+    },
+    {
+      "timestamp": 192.0,
+      "description": "Hands are holding and cutting a long food item on a cutting board."
+    },
+    {
+      "timestamp": 193.0,
+      "description": "Hands continue to slice the food item."
+    },
+    {
+      "timestamp": 194.0,
+      "description": "Hands are making another cut on the food item."
+    },
+    {
+      "timestamp": 196.0,
+      "description": "Hands are slicing the food item into smaller pieces."
+    },
+    {
+      "timestamp": 197.0,
+      "description": "Hands continue to cut the food item."
+    },
+    {
+      "timestamp": 198.0,
+      "description": "Hands are cutting a piece off the food item."
+    },
+    {
+      "timestamp": 199.0,
+      "description": "Hands are slicing the food item."
+    },
+    {
+      "timestamp": 200.0,
+      "description": "Hands are making a final cut on the food item."
+    },
+    {
+      "timestamp": 201.0,
+      "description": "Hands are cutting a white roll on a cutting board."
+    },
+    {
+      "timestamp": 202.0,
+      "description": "Hands are not visible, with a roll on the cutting board."
+    },
+    {
+      "timestamp": 203.0,
+      "description": "Hands are peeling a small item with a knife over a trash can."
+    },
+    {
+      "timestamp": 204.0,
+      "description": "Right hand is dropping an item into a trash can."
+    },
+    {
+      "timestamp": 205.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 206.0,
+      "description": "Right hand is holding a knife near a roll on the cutting board."
+    },
+    {
+      "timestamp": 208.0,
+      "description": "Hands are cutting a white roll on a cutting board."
+    },
+    {
+      "timestamp": 209.0,
+      "description": "Hands are continuing to cut the white roll on a cutting board."
+    },
+    {
+      "timestamp": 210.0,
+      "description": "A hand is reaching into an open cabinet."
+    },
+    {
+      "timestamp": 211.0,
+      "description": "The person's hands are not visible in the frame."
+    },
+    {
+      "timestamp": 212.0,
+      "description": "Hands are opening a small white box."
+    },
+    {
+      "timestamp": 213.0,
+      "description": "Hands are pulling a toothpick from the small white box."
+    },
+    {
+      "timestamp": 214.0,
+      "description": "Hands are holding the small white box and a toothpick."
+    },
+    {
+      "timestamp": 215.0,
+      "description": "Hands are closing the small white box."
+    },
+    {
+      "timestamp": 216.0,
+      "description": "A hand is holding a small white box."
+    },
+    {
+      "timestamp": 217.0,
+      "description": "Hands are holding a toothpick and the small white box."
+    },
+    {
+      "timestamp": 219.0,
+      "description": "Hands are holding a toothpick."
+    },
+    {
+      "timestamp": 220.0,
+      "description": "Right hand is inserting a toothpick into the roll."
+    },
+    {
+      "timestamp": 221.0,
+      "description": "Right hand is inserting a toothpick into the roll."
+    },
+    {
+      "timestamp": 222.0,
+      "description": "Right hand is inserting a toothpick into the roll."
+    },
+    {
+      "timestamp": 223.0,
+      "description": "Right hand is inserting a toothpick into the roll."
+    },
+    {
+      "timestamp": 224.0,
+      "description": "Left hand is touching the laptop screen."
+    },
+    {
+      "timestamp": 225.0,
+      "description": "Left hand is touching the laptop screen."
+    },
+    {
+      "timestamp": 226.0,
+      "description": "Right hand is inserting a toothpick into the roll."
+    },
+    {
+      "timestamp": 227.0,
+      "description": "The person's hands are wrapping a string around a rolled dough."
+    },
+    {
+      "timestamp": 228.0,
+      "description": "The person's hands are pulling the string to cut the rolled dough."
+    },
+    {
+      "timestamp": 229.0,
+      "description": "The person's hands are continuing to pull the string to cut the rolled dough."
+    },
+    {
+      "timestamp": 231.0,
+      "description": "The person's hands are pulling the string further to complete the cut."
+    },
+    {
+      "timestamp": 232.0,
+      "description": "The person's hands are separating the cut piece of dough from the main roll."
+    },
+    {
+      "timestamp": 233.0,
+      "description": "The person's hands are adjusting the string to prepare for another cut."
+    },
+    {
+      "timestamp": 234.0,
+      "description": "The person's hands are pulling the string to cut another piece of rolled dough."
+    },
+    {
+      "timestamp": 235.0,
+      "description": "The person's hands are pulling the string to complete the second cut."
+    },
+    {
+      "timestamp": 236.0,
+      "description": "The person's hands are pushing a skewer through a rolled item."
+    },
+    {
+      "timestamp": 237.0,
+      "description": "The person's hands are adjusting the rolled item on the cutting board."
+    },
+    {
+      "timestamp": 238.0,
+      "description": "The person's hands are pressing down on the rolled item."
+    },
+    {
+      "timestamp": 239.0,
+      "description": "The person's hands are pushing a skewer through the rolled item."
+    },
+    {
+      "timestamp": 240.0,
+      "description": "The person's hands are pushing a skewer through the rolled item."
+    },
+    {
+      "timestamp": 241.0,
+      "description": "The person's hands are pushing a skewer through the rolled item."
+    },
+    {
+      "timestamp": 243.0,
+      "description": "The person's hands are pushing a skewer through the rolled item."
+    },
+    {
+      "timestamp": 244.0,
+      "description": "The person's hands are pushing a skewer through the rolled item."
+    },
+    {
+      "timestamp": 245.0,
+      "description": "The person's hands are holding a knife and a rolled item on a cutting board."
+    },
+    {
+      "timestamp": 246.0,
+      "description": "The person's right hand is pressing a knife into the rolled item."
+    },
+    {
+      "timestamp": 247.0,
+      "description": "The person's right hand is cutting through the rolled item."
+    },
+    {
+      "timestamp": 248.0,
+      "description": "The person's right hand is lifting the knife after making a cut."
+    },
+    {
+      "timestamp": 249.0,
+      "description": "The person's hands are adjusting the rolled item for the next cut."
+    },
+    {
+      "timestamp": 250.0,
+      "description": "The person's right hand is pressing the knife to make another cut."
+    },
+    {
+      "timestamp": 251.0,
+      "description": "The person's right hand is cutting through the rolled item again."
+    },
+    {
+      "timestamp": 252.0,
+      "description": "The person's right hand is lifting the knife after completing a cut."
+    },
+    {
+      "timestamp": 254.0,
+      "description": "The person's right hand is cutting a rolled food item while the left hand holds it."
+    },
+    {
+      "timestamp": 255.0,
+      "description": "The person's right hand is cutting a rolled food item while the left hand holds it."
+    },
+    {
+      "timestamp": 256.0,
+      "description": "The person's right hand is cutting a rolled food item while the left hand holds it."
+    },
+    {
+      "timestamp": 257.0,
+      "description": "The person's right hand is cutting a rolled food item while the left hand holds it."
+    },
+    {
+      "timestamp": 258.0,
+      "description": "The person's right hand is cutting a rolled food item while the left hand holds it."
+    },
+    {
+      "timestamp": 259.0,
+      "description": "The person's right hand is separating a cut piece of the rolled food item."
+    },
+    {
+      "timestamp": 260.0,
+      "description": "The person's right hand is separating a cut piece of the rolled food item."
+    },
+    {
+      "timestamp": 261.0,
+      "description": "The person's right hand is separating a cut piece of the rolled food item."
+    },
+    {
+      "timestamp": 262.0,
+      "description": "The person's hands are holding a piece of food on a cutting board, preparing to cut it with a knife."
+    },
+    {
+      "timestamp": 263.0,
+      "description": "The person's hands are holding a piece of food while a knife cuts into it."
+    },
+    {
+      "timestamp": 264.0,
+      "description": "The person's hands are holding a piece of food as a knife finishes a cut."
+    },
+    {
+      "timestamp": 266.0,
+      "description": "The person's hands are using a skewer to pierce through a piece of food."
+    },
+    {
+      "timestamp": 267.0,
+      "description": "The person's hands are pushing a skewer through a piece of food."
+    },
+    {
+      "timestamp": 268.0,
+      "description": "The person's hands are continuing to push a skewer through a piece of food."
+    },
+    {
+      "timestamp": 269.0,
+      "description": "The person's hands are pushing a skewer completely through a piece of food."
+    },
+    {
+      "timestamp": 270.0,
+      "description": "The person's hands are placing a skewered piece of food onto the cutting board."
+    },
+    {
+      "timestamp": 271.0,
+      "description": "A hand is touching the screen of a laptop."
+    },
+    {
+      "timestamp": 272.0,
+      "description": "The person's hands are not clearly visible."
+    },
+    {
+      "timestamp": 273.0,
+      "description": "Hands are untying or manipulating a small object."
+    },
+    {
+      "timestamp": 274.0,
+      "description": "Hands are continuing to untie or manipulate a small object."
+    },
+    {
+      "timestamp": 275.0,
+      "description": "A hand is reaching into a black bag."
+    },
+    {
+      "timestamp": 277.0,
+      "description": "The person's hands are not visible in the frame."
+    },
+    {
+      "timestamp": 278.0,
+      "description": "The person's hands are not visible in the frame."
+    },
+    {
+      "timestamp": 279.0,
+      "description": "The person's hands are not visible in the frame."
+    },
+    {
+      "timestamp": 280.0,
+      "description": "The person's hand reaches towards a shelf."
+    },
+    {
+      "timestamp": 281.0,
+      "description": "The person's hand reaches for an item on the shelf."
+    },
+    {
+      "timestamp": 282.0,
+      "description": "The person's hand touches a plate on the shelf."
+    },
+    {
+      "timestamp": 283.0,
+      "description": "The person's hand grasps a plate."
+    },
+    {
+      "timestamp": 284.0,
+      "description": "The person's hand lifts a plate from the shelf."
+    },
+    {
+      "timestamp": 285.0,
+      "description": "Both hands hold and lift a plate."
+    },
+    {
+      "timestamp": 286.0,
+      "description": "Both hands hold a plate."
+    },
+    {
+      "timestamp": 287.0,
+      "description": "Both hands hold and move a plate."
+    },
+    {
+      "timestamp": 289.0,
+      "description": "The person's hands are reaching for a plate in the dish rack."
+    },
+    {
+      "timestamp": 290.0,
+      "description": "The person's hands are grasping a plate in the dish rack."
+    },
+    {
+      "timestamp": 291.0,
+      "description": "The person's hands are removing a plate from the dish rack."
+    },
+    {
+      "timestamp": 292.0,
+      "description": "The person's hands are moving a plate."
+    },
+    {
+      "timestamp": 293.0,
+      "description": "The person's left hand is holding a plate."
+    },
+    {
+      "timestamp": 294.0,
+      "description": "The person's right hand is picking up a piece of food from the cutting board."
+    },
+    {
+      "timestamp": 295.0,
+      "description": "The person's right hand is placing a piece of food onto the plate."
+    },
+    {
+      "timestamp": 296.0,
+      "description": "The person's right hand is picking up another piece of food from the cutting board."
+    },
+    {
+      "timestamp": 297.0,
+      "description": "Placing a piece of food onto a plate."
+    },
+    {
+      "timestamp": 298.0,
+      "description": "Placing another piece of food onto the plate."
+    },
+    {
+      "timestamp": 300.0,
+      "description": "Placing a third piece of food onto the plate."
+    },
+    {
+      "timestamp": 301.0,
+      "description": "Picking up a piece of food from the cutting board."
+    },
+    {
+      "timestamp": 302.0,
+      "description": "Placing the picked-up food onto the plate."
+    },
+    {
+      "timestamp": 303.0,
+      "description": "Adjusting a piece of food on the plate."
+    },
+    {
+      "timestamp": 304.0,
+      "description": "Holding the plate with four pieces of food."
+    },
+    {
+      "timestamp": 305.0,
+      "description": "Reaching for a bottle while holding the plate."
+    },
+    {
+      "timestamp": 306.0,
+      "description": "Right hand wipes the counter with a paper towel."
+    },
+    {
+      "timestamp": 307.0,
+      "description": "Both hands place a plate onto the cutting board."
+    },
+    {
+      "timestamp": 308.0,
+      "description": "Left hand adjusts the laptop while right hand holds a paper towel."
+    },
+    {
+      "timestamp": 309.0,
+      "description": "Both hands wipe the cutting board with a paper towel."
+    },
+    {
+      "timestamp": 310.0,
+      "description": "Left hand holds a knife."
+    },
+    {
+      "timestamp": 312.0,
+      "description": "Right hand wipes the cutting board with a paper towel."
+    },
+    {
+      "timestamp": 313.0,
+      "description": "Both hands hold and wipe the cutting board with a paper towel."
+    },
+    {
+      "timestamp": 314.0,
+      "description": "Both hands hold the cutting board over the sink and wipe it."
+    },
+    {
+      "timestamp": 315.0,
+      "description": "Hands are wiping a cutting board with a white cloth."
+    },
+    {
+      "timestamp": 316.0,
+      "description": "Hands are holding and moving a cutting board."
+    },
+    {
+      "timestamp": 317.0,
+      "description": "A hand is placing a small white cloth on the counter."
+    },
+    {
+      "timestamp": 318.0,
+      "description": "Hands are holding and moving a cutting board."
+    },
+    {
+      "timestamp": 319.0,
+      "description": "Hands are holding and moving a cutting board."
+    },
+    {
+      "timestamp": 320.0,
+      "description": "Hands are holding and moving a cutting board."
+    },
+    {
+      "timestamp": 321.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 323.0,
+      "description": "Hands are not visible."
+    },
+    {
+      "timestamp": 324.0,
+      "description": "The person's right hand is touching the tablet screen."
+    },
+    {
+      "timestamp": 325.0,
+      "description": "The person's right hand is touching the tablet screen."
+    },
+    {
+      "timestamp": 326.0,
+      "description": "The person's right hand is touching the tablet screen."
+    },
+    {
+      "timestamp": 327.0,
+      "description": "The person's right hand is touching the tablet screen."
+    }
+  ],
+  "ground_truth": [
+    {
+      "step_id": 115,
+      "start_time": 0,
+      "end_time": 11.459,
+      "description": "Place-Place 8-inch flour tortilla on cutting board",
+      "has_errors": false
+    },
+    {
+      "step_id": 113,
+      "start_time": 12.002,
+      "end_time": 24.854,
+      "description": "scoop-Use a butter knife to scoop nut butter from the jar",
+      "has_errors": false
+    },
+    {
+      "step_id": 112,
+      "start_time": 24.985,
+      "end_time": 63.876,
+      "description": "Spread-Spread nut butter onto the tortilla, leaving 1/2-inch uncovered at the edges",
+      "has_errors": false
+    },
+    {
+      "step_id": 118,
+      "start_time": 74.274,
+      "end_time": 84.996,
+      "description": "Clean-Clean the knife by wiping it with a paper towel",
+      "has_errors": false
+    },
+    {
+      "step_id": 111,
+      "start_time": 85.48,
+      "end_time": 98.638,
+      "description": "scoop-Use the knife to scoop jelly from the jar",
+      "has_errors": false
+    },
+    {
+      "step_id": 107,
+      "start_time": 98.851,
+      "end_time": 120.044,
+      "description": "Spread-Spread jelly over the nut butter",
+      "has_errors": false
+    },
+    {
+      "step_id": 104,
+      "start_time": 120.885,
+      "end_time": 125.819,
+      "description": "Clean-Clean the knife by wiping with a paper towel",
+      "has_errors": false
+    },
+    {
+      "step_id": 116,
+      "start_time": 131.865,
+      "end_time": 143.804,
+      "description": "Roll-Roll the tortilla from one end to the other into a log shape, about 1.5 inches thick. Roll it tight enough to prevent gaps, but not so tight that the filling leaks",
+      "has_errors": false
+    },
+    {
+      "step_id": 110,
+      "start_time": 145.64,
+      "end_time": 179.666,
+      "description": "Secure-Secure the rolled tortilla by inserting 5 toothpicks about 1 inch apart",
+      "has_errors": false
+    },
+    {
+      "step_id": 114,
+      "start_time": 182.486,
+      "end_time": 199.848,
+      "description": "Trim-Trim the ends of the tortilla roll with the butter knife, leaving 1/2 inch margin between the last toothpick and the end of the roll",
+      "has_errors": false
+    },
+    {
+      "step_id": 103,
+      "start_time": 200.566,
+      "end_time": 208.049,
+      "description": "Discard-Discard ends of the tortilla",
+      "has_errors": false
+    },
+    {
+      "step_id": 106,
+      "start_time": 209.415,
+      "end_time": 222.824,
+      "description": "Slide-Slide floss under the tortilla, perpendicular to the length of the roll",
+      "has_errors": false
+    },
+    {
+      "step_id": 117,
+      "start_time": 223.454,
+      "end_time": 225.363,
+      "description": "Place-Place the floss halfway between toothpicks",
+      "has_errors": false
+    },
+    {
+      "step_id": 105,
+      "start_time": 226.296,
+      "end_time": 229.276,
+      "description": "Cross-Cross the floss's two ends over the tortilla roll's top",
+      "has_errors": false
+    },
+    {
+      "step_id": 108,
+      "start_time": 229.239,
+      "end_time": 234.06799999999998,
+      "description": "pull-pull the floss ends in opposite directions to slice",
+      "has_errors": false
+    },
+    {
+      "step_id": 102,
+      "start_time": 234.227,
+      "end_time": 245.568,
+      "description": "slicing-Continue slicing with floss to create 1 more pinwheel",
+      "has_errors": false
+    },
+    {
+      "step_id": 102,
+      "start_time": 245.7,
+      "end_time": 255.123,
+      "description": "slicing-Continue slicing with floss to create 1 more pinwheel",
+      "has_errors": false
+    },
+    {
+      "step_id": 102,
+      "start_time": 256.01,
+      "end_time": 267.149,
+      "description": "slicing-Continue slicing with floss to create 1 more pinwheel",
+      "has_errors": false
+    },
+    {
+      "step_id": 109,
+      "start_time": 279.898,
+      "end_time": 304.16,
+      "description": "Place-Place the pinwheels on a plate",
+      "has_errors": false
+    }
+  ],
+  "predictions": [
+    {
+      "step_index": 1,
+      "description": "Place-Place 8-inch flour tortilla on cutting board",
+      "start_time": 12.0,
+      "end_time": 12.0,
+      "confidence": 0.9
+    },
+    {
+      "step_index": 2,
+      "description": "scoop-Use a butter knife to scoop nut butter from the jar",
+      "start_time": 22.0,
+      "end_time": 24.0,
+      "confidence": 0.9
+    },
+    {
+      "step_index": 3,
+      "description": "Spread-Spread nut butter onto the tortilla, leaving 1/2-inch uncovered at the edges",
+      "start_time": 25.0,
+      "end_time": 55.6,
+      "confidence": 0.9
+    },
+    {
+      "step_index": 4,
+      "description": "Clean-Clean the knife by wiping it with a paper towel",
+      "start_time": 121.0,
+      "end_time": 124.0,
+      "confidence": 0.9
+    },
+    {
+      "step_index": 5,
+      "description": "scoop-Use the knife to scoop jelly from the jar",
+      "start_time": -1.0,
+      "end_time": -1.0,
+      "confidence": 0.0
+    },
+    {
+      "step_index": 6,
+      "description": "Spread-Spread jelly over the nut butter",
+      "start_time": 136.0,
+      "end_time": 204.0,
+      "confidence": 0.9
+    },
+    {
+      "step_index": 7,
+      "description": "Clean-Clean the knife by wiping with a paper towel",
+      "start_time": 202.0,
+      "end_time": 205.0,
+      "confidence": 0.9
+    },
+    {
+      "step_index": 8,
+      "description": "Roll-Roll the tortilla from one end to the other into a log shape, about 1.5 inches thick. Roll it tight enough to prevent gaps, but not so tight that the filling leaks",
+      "start_time": 213.0,
+      "end_time": 222.0,
+      "confidence": 0.9
+    },
+    {
+      "step_index": 9,
+      "description": "Secure-Secure the rolled tortilla by inserting 5 toothpicks about 1 inch apart",
+      "start_time": -1.0,
+      "end_time": 327.827,
+      "confidence": 0.9
+    },
+    {
+      "step_index": 10,
+      "description": "Trim-Trim the ends of the tortilla roll with the butter knife, leaving 1/2 inch margin between the last toothpick and the end of the roll",
+      "start_time": 234.0,
+      "end_time": 240.0,
+      "confidence": 0.8
+    },
+    {
+      "step_index": 11,
+      "description": "Discard-Discard ends of the tortilla",
+      "start_time": 323.0,
+      "end_time": 324.0,
+      "confidence": 0.9
+    },
+    {
+      "step_index": 12,
+      "description": "Slide-Slide floss under the tortilla, perpendicular to the length of the roll",
+      "start_time": -1.0,
+      "end_time": 327.827,
+      "confidence": 0.7
+    },
+    {
+      "step_index": 13,
+      "description": "Place-Place the floss halfway between toothpicks",
+      "start_time": -1.0,
+      "end_time": -1.0,
+      "confidence": 0.0
+    },
+    {
+      "step_index": 14,
+      "description": "Cross-Cross the floss's two ends over the tortilla roll's top",
+      "start_time": -1.0,
+      "end_time": -1.0,
+      "confidence": 0.0
+    },
+    {
+      "step_index": 15,
+      "description": "pull-pull the floss ends in opposite directions to slice",
+      "start_time": -1.0,
+      "end_time": 327.827,
+      "confidence": 0.9
+    },
+    {
+      "step_index": 16,
+      "description": "slicing-Continue slicing with floss to create 1 more pinwheel",
+      "start_time": -1.0,
+      "end_time": 327.827,
+      "confidence": 0.9
+    },
+    {
+      "step_index": 17,
+      "description": "slicing-Continue slicing with floss to create 1 more pinwheel",
+      "start_time": -1.0,
+      "end_time": -1.0,
+      "confidence": 0.0
+    },
+    {
+      "step_index": 18,
+      "description": "slicing-Continue slicing with floss to create 1 more pinwheel",
+      "start_time": -1.0,
+      "end_time": -1.0,
+      "confidence": 0.0
+    },
+    {
+      "step_index": 19,
+      "description": "Place-Place the pinwheels on a plate",
+      "start_time": -1.0,
+      "end_time": 327.827,
+      "confidence": 0.9
+    }
+  ],
+  "metrics": {
+    "mean_iou": 0.04960169646054854,
+    "per_step_iou": [
+      0.0,
+      0.15561780267662623,
+      0.786814430073796,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "recall_at_1_iou_0.3": 0.05263157894736842,
+    "recall_at_1_iou_0.5": 0.05263157894736842,
+    "recall_at_1_iou_0.7": 0.05263157894736842,
+    "step_detection_rate": 0.47368421052631576,
+    "ordering_compliance": 1.0,
+    "num_gt_steps": 19,
+    "num_predictions": 19
+  },
+  "recording_id": "10_6",
+  "dataset": "captaincook4d"
+}
